@@ -4,11 +4,49 @@
 ## Anti-Cheat
 Err...the game just checks if you have over $250,000 and sets you back to $100. Seems legit.
 
+## Sanity
+- Game internally uses insanity, which is then displayed as sanity in the truck as (100 - insanity) + Random.Range(-2, 3) 
+
+- Medium map
+    - Normal drop rate: 0.08
+    - Setup phase drop rate: 0.05
+- Large map
+    - Normal drop rate: 0.05
+    - Setup drop rate: 0.03
+
+- Solo games (that are not a tutorial)
+    - Drop rates from above / 2
+
+- Insanity
+    - Capped at 50 during setup phase
+    - Uncapped to 100 during regular play
+    - Decreases every 5 seconds by setup/normal drop rate, multiplied by difficulty rate (below)
+    - Insanity does not increase when you are in light or are outside the house
+    - Light status updates every 2 seconds
+    - Being within 3m of a Jinn instantly increases your insanity by 25%
+    - Entering a recognised phrase into a Ouija Board has a 1-in-3 chance of increasing your insanity by 40%
+    - Sanity pills decrease your insanity by 40%
+    - Poltergeists increase your insanity by double the number of props they are allowed to move
+
+- If the ghost is visible, or is in hunting phase, and is within 10m of the player, the player's insanity raises by deltaTime (time since last frame) * sanity drain strength
+    - Ghosts have a default sanity drain factor of 0.2
+    - Phantoms have a sanity draining strength of 0.4
+
+## Sanity effects
+- The game will attempt to spawn ghosts at a window when the player is inside the house at a random interval between 10s and 30s if the player's insanity is above 50, otherwise 20s.
+- This ghost will start far away from the window and dash towards the window until it is 0.2m away, then disappear
+
+## Difficulty levels
+- Tutorial is 0.5 difficulty
+- Amateur is 1 difficulty
+- Intermediate is 1.5 difficulty
+- Professional is 2 difficulty
+
 ## EMF Reader
 The EMF Reader tells you different things about the ghost depending on what level you detected:
 - Level 1: Default
 - Level 2: The ghost interacted with whatever you are looking at, or something near there
-- Level 3: The ghost recently threw something near where you are looking. You can also use this information to narrow down your options to ghosts that interact with objects
+- Level 3: The ghost recently threw something near where you are looking.
 - Level 4: The ghost appeared there recently
 - Level 5: Simply used for evidence
 
@@ -16,6 +54,9 @@ EMF Spots only last for 20 seconds after the ghost has done something in that ar
 
 ## Freezing Temperatures / Thermometer
 Ghosts that have freezing temperatures as an attribute will make the room they are in go down to -10C (14F), while all other ghosts make the room drop to 5C (41F). As soon as you see your thermometer go below 5C or 41F, or if you see cold puffs when you are in a room, you can tick off Freezing Temperatures.
+
+Your thermometer shows values +- 2C from the actual value, so if you see any values below 3C (37.4F), you have a ghost with Freezing Temperatures.
+Your thermometer displays the temperature for the location 6m in front of you
 
 ## Candles
 Candles can stay on for a random amount of time between 2.5 and 5 minutes. This value is determined when the candle is lit.
@@ -28,6 +69,10 @@ If a ghost enters the view of a camera (i.e. the ghost is in the same room as th
 
 ## Ghost activity
 Ghosts have ability values set at the start of an idle phase, based on difficulty. If a random number is greater than or equal to their current activity level, including all ghost-specific multipliers, they have a chance of interacting with objects, or going to their favourite room, appear, use the fusebox, etc. 
+
+Ghosts can throw any prop around the house. A prop moving does not indicate the ghost being nearby.
+Poltergeists throw objects with a random force between ((-5, 5), (-2.5, 2.5), (-3, 3)), while other ghosts throw them with a random force between ((-2.5, 2.5), (-2, 2), (-2.5, 2.5))
+
 - Amateur: 100
 - Intermediate: 115
 - Professional: 130
@@ -38,12 +83,11 @@ Ghosts have ability values set at the start of an idle phase, based on difficult
 - Hunting multiplier
     - Starts at 0
     - Decreases by 10 if ghost type is a Mare and a light switch in their current room is on
-    - Increases by 10 if ghost type is a Mare and no lights in their current room are on, or there are no lightswitches in their current room
+    - Increases by 10 if ghost type is a Mare and no lights in their current room are on, or there are no light switches in their current room
     - Increases by 15 if the ghost type is a Demon
 
 - If 50 < average player insanity + hunting multiplier < 75, the ghost has a 1-in-5 chance of entering hunting phase
 - If average player insanity + hunting multiplier >= 75, the ghost has a 1-in-3 chance of entering hunting phase
-
 
 ## Ghost phases
 Ghost phases are determined by average player sanity, multiplied by a hunting multiplier, and alternatively multiplied by an Oni or Wraith multiplier.
@@ -51,13 +95,28 @@ Ghost phases are determined by average player sanity, multiplied by a hunting mu
 Ghosts stay in their favourite room until the main door has been  unlocked
 
 ### Setup phase
-Setup phase is the time when the timer in the truck is non-zero. Ghosts cannot enter hunting phase during this time, but will instead be sent straight to their favourite room.
+Setup phase is when the timer in the truck is non-zero:
+- Amateur has 5 minutes of setup phase
+- Intermediate has 2 minute of setup phase
+- Professional has 0 minutes of setup phase
+
+- Ghosts cannot enter hunting phase during this time, but will instead be sent straight to their favourite room.
+- "Hunting phase" starts immediately after setup phase, but this merely means regular phase, and not a true hunting phase
+
 ### Idle
 All ghosts have an idle timer of 2-6 seconds, set when they return to an idle state
-Once their idle timer has elasped, they have a chance of entering hunting phase or interaction phase, depending on the team's average insanity and the current hunting multiplier.
+Once their idle timer has elapsed, they have a chance of entering hunting phase or interaction phase, depending on the team's average insanity and the current hunting multiplier.
+
+### Wander
+Ghosts can wander up to 3m from their current location at a time.
+Wraiths can occasionally teleport to the player's location, leaving a Ghost Interaction EMF (Level 2) at their new location
+
 ### Ghost appearing
 Ghosts have a random chance of appearing only as a shadow, but only for alive players.
+
 ### Hunting
+Ghosts can teleport between 2 and 15m at the start of a hunting phase
+
 When a hunting phase starts, the ghost will start flickering the fusebox and all flashlights, an Ghost Appeared EMF (Level 3) reading will be created where they spawn, and all entries to the house will be locked.
 
 During hunting phases, Phantoms appear every 1-2 seconds, while all other ghost types appear every 0.3-1 seconds. Hunting phases last for 25 seconds in Amateur, 35 seconds in Intermediate, and 50 seconds in Professional.
@@ -70,7 +129,7 @@ If a crucifix is within 3m of the ghost (or 5m for banshees), the crucifix will 
 If a smudge stick is within 1.5m of their teleport destination, they will return to their favourite room
 If a smudge stick is within 6m of the ghost, it will:
 - add a random value between 20 and 30 to their activity multiplier, 
-- stop the ghost from hunting for 90s (or 180s for spirits)
+- stop the ghost from hunting for 90s (or 180s for Spirits)
 - stop Yureis from wandering for 90s
 
 Banshees choose a new target when their current target dies, or if they leave the building. If no players are in the building, they will return to their favourite room.
@@ -88,8 +147,12 @@ After killing a player, the ghost will teleport back to where it was just before
 - Ghosts make door knocking sounds when they are within 3m of the door, and create a Ghost Interaction EMF (Level 2) at the door's audio source location.
 - Ghosts can close and lock doors randomly, which do NOT trigger Ghost Interaction EMFs.
 
+## Dirty Water
+- Ghosts will use a tap and spawn dirty water as soon as they enter a bathroom
+- Ghosts leave a Ghost Interaction EMF (Level 2) on the sink
+
 ## Ghost Orbs
-Ghost orbs only spawn in the ghost's favourite room. This favourite room is designated on ghost spawn
+- Ghost orbs only spawn in the ghost's favourite room. This favourite room is designated on ghost spawn
 
 ## Spirit Box
 - Ghosts can only respond once every 10 seconds
@@ -177,11 +240,23 @@ Ghosts stay in their favourite room for 30 seconds, then return to their idle ph
 
 ## Ghost Writing
 - Ghosts have a 1-in-3 chance to write in a spirit book
-- Ghosts instnatly write in the spirit book if they are willing to
+- Ghosts instantly write in the spirit book if they are willing to
 
 ## Ghost interactions
 - Random ghost interactions, including sounds, turning on faucets, moving items, teleporting items, etc, do not generate EMF spots.
 - Being within 3m of a Jinn instantly drops your sanity by 25%
 
+## Ouija Board
+- A player has to either wear a VR headset or use local push to talk, and be alone in a room for the ouija board to work
+- When a phrase is recognise, all the lights in the player's current room will flicker
+- If the game is still in setup phase, using the ouija board will instantly send the game to regular phase
+
 ## Photo camera
 - You must be within 5m of the evidence you are taking a photo of for it to count in your journal
+
+## Salt
+- Ghosts only walk on salt spots once
+- Ghosts do not affect salt spots during hunting phase
+
+## Window knocking
+- Ghosts can occasionally knock on windows. When they do, they create fingerprint evidence on the window, and create a Ghost Interaction EMF (Level 2) on the window
