@@ -60,16 +60,24 @@ Ghosts have a random chance of appearing only as a shadow, but only for alive pl
 ### Hunting
 When a hunting phase starts, the ghost will start flickering the fusebox and all flashlights, an Ghost Appeared EMF (Level 3) reading will be created where they spawn, and all entries to the house will be locked.
 
-During hunting phases, Phantoms appear for every 1-2 seconds, while all other ghost types appear every 0.3-1 seconds. Hunting phases last for 25 seconds in Amateur, 35 seconds in Intermediate, and 50 seconds in Professinal.
+During hunting phases, Phantoms appear every 1-2 seconds, while all other ghost types appear every 0.3-1 seconds. Hunting phases last for 25 seconds in Amateur, 35 seconds in Intermediate, and 50 seconds in Professional.
 
 If the ghost is a shade and there is more than 1 player in the room, hunting phase will be cancelled, and the ghost will return to their favourite room.
 The ghost will return to its favourite room when the player they are targeting is dead.
 
 If a crucifix is within 3m of the ghost (or 5m for banshees), the crucifix will be used, and the ghost will be sent back to their favourite room.
 
+If a smudge stick is within 1.5m of their teleport destination, they will return to their favourite room
+If a smudge stick is within 6m of the ghost, it will:
+- add a random value between 20 and 30 to their activity multiplier, 
+- stop the ghost from hunting for 90s (or 180s for spirits)
+- stop Yureis from wandering for 90s
+
 Banshees choose a new target when their current target dies, or if they leave the building. If no players are in the building, they will return to their favourite room.
 
-Revenants move 1.5x slower than other ghosts.
+Revenants move 1.5x slower than other ghosts when not chasing a player. When they are chasing a player, they are 2x faster than other ghosts.
+
+Jinns move at a speed of 2 (2 whats? I don't know. The game just says 2) when you are more than 4m away from it, and the fusebox is on.
 
 After killing a player, the ghost will teleport back to where it was just before the hunting phase began, and reset to idle phase. They cannot initiate hunting phase for the next 25 seconds.
 
