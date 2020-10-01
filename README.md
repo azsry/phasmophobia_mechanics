@@ -28,16 +28,42 @@ If a ghost enters the view of a camera (i.e. the ghost is in the same room as th
 
 ## Ghost activity
 Ghosts have ability values set at the start of an idle phase, based on difficulty. If a random number is greater than or equal to their current activity level, including all ghost-specific multipliers, they have a chance of interacting with objects, or going to their favourite room, appear, use the fusebox, etc. 
+- Amateur: 100
+- Intermediate: 115
+- Professional: 130
+
+- Oni multiplier: 30 if the ghost is an Oni and there are people in the room
+- Wraith multiplier: 50 if ghost is a Wraith and they have walked in salt
+
+- Hunting multiplier
+    - Starts at 0
+    - Decreases by 10 if ghost type is a Mare and a light switch in their current room is on
+    - Increases by 10 if ghost type is a Mare and no lights in their current room are on, or there are no lightswitches in their current room
+    - Increases by 15 if the ghost type is a Demon
+
+- If 50 < average player insanity + hunting multiplier < 75, the ghost has a 1-in-5 chance of entering hunting phase
+- If average player insanity + hunting multiplier >= 75, the ghost has a 1-in-3 chance of entering hunting phase
+
 
 ## Ghost phases
 Ghost phases are determined by average player sanity, multiplied by a hunting multiplier, and alternatively multiplied by an Oni or Wraith multiplier.
 ### In truck
 Ghosts stay in their favourite room until the main door has been  unlocked
+
+### Setup phase
+Setup phase is the time when the timer in the truck is non-zero. Ghosts cannot enter hunting phase during this time, but will instead be sent straight to their favourite room.
 ### Idle
+All ghosts have an idle timer of 2-6 seconds, set when they return to an idle state
+Once their idle timer has elasped, they have a chance of entering hunting phase or interaction phase, depending on the team's average insanity and the current hunting multiplier.
+### Ghost appearing
+Ghosts have a random chance of appearing only as a shadow, but only for alive players.
 ### Hunting
 When a hunting phase starts, the ghost will start flickering the fusebox and all flashlights.
 
-During hunting phases, Phantoms appear for every 1-2 seconds, while all other ghost types appear every 0.3-1 seconds.
+During hunting phases, Phantoms appear for every 1-2 seconds, while all other ghost types appear every 0.3-1 seconds. Hunting phases last for 25 seconds in Amateur, 35 seconds in Intermediate, and 50 seconds in Professinal.
+
+If the ghost is a shade and there is more than 1 player in the room, hunting phase will be cancelled, and the ghost will return to their favourite room.
+The ghost will return to its favourite room when the player they are targeting is dead.
 
 After killing a player, the ghost will teleport back to where it was just before the hunting phase began, and reset to idle phase. They cannot initiate hunting phase for the next 25 seconds.
 
@@ -52,6 +78,7 @@ After killing a player, the ghost will teleport back to where it was just before
 Ghost orbs only spawn in the ghost's favourite room. This favourite room is designated on ghost spawn
 
 ## Spirit Box
+- Ghosts can only respond once every 10 seconds
 - Ghost responses only work if you are using Local Push to Talk or have a VR headset on
 - Ghosts will not respond if you are more than 3m away from them, or are on a different floor
 - Ghosts that only respond to one person are shy
@@ -136,7 +163,11 @@ Ghosts stay in their favourite room for 30 seconds, then return to their idle ph
 
 ## Ghost Writing
 - Ghosts have a 1-in-3 chance to write in a spirit book
+- Ghosts instnatly write in the spirit book if they are willing to
 
 ## Ghost interactions
 - Random ghost interactions, including sounds, turning on faucets, moving items, teleporting items, etc, do not generate EMF spots.
 - Being within 3m of a Jinn instantly drops your sanity by 25%
+
+## Photo camera
+- You must be within 5m of the evidence you are taking a photo of for it to count in your journal
