@@ -58,12 +58,18 @@ Once their idle timer has elasped, they have a chance of entering hunting phase 
 ### Ghost appearing
 Ghosts have a random chance of appearing only as a shadow, but only for alive players.
 ### Hunting
-When a hunting phase starts, the ghost will start flickering the fusebox and all flashlights.
+When a hunting phase starts, the ghost will start flickering the fusebox and all flashlights, an Ghost Appeared EMF (Level 3) reading will be created where they spawn, and all entries to the house will be locked.
 
 During hunting phases, Phantoms appear for every 1-2 seconds, while all other ghost types appear every 0.3-1 seconds. Hunting phases last for 25 seconds in Amateur, 35 seconds in Intermediate, and 50 seconds in Professinal.
 
 If the ghost is a shade and there is more than 1 player in the room, hunting phase will be cancelled, and the ghost will return to their favourite room.
 The ghost will return to its favourite room when the player they are targeting is dead.
+
+If a crucifix is within 3m of the ghost (or 5m for banshees), the crucifix will be used, and the ghost will be sent back to their favourite room.
+
+Banshees choose a new target when their current target dies, or if they leave the building. If no players are in the building, they will return to their favourite room.
+
+Revenants move 1.5x slower than other ghosts.
 
 After killing a player, the ghost will teleport back to where it was just before the hunting phase began, and reset to idle phase. They cannot initiate hunting phase for the next 25 seconds.
 
