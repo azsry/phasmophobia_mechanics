@@ -457,3 +457,22 @@ Ghosts stay in their favourite room for 30 seconds, then return to their idle ph
 - As with the EMF Reader, these devices are NOT dependant on look angles, but uses the device's world position for intersection calculations. This means that the device may provide different readings while stationary and looking around if you are standing at the very border of two intersecting triggers.
 - Sound sensor values are updated in the truck every 5 seconds
 - Parabolic microphone values are updated at random intervals between 1 and 2 seconds
+- Sound sources
+  - Car
+  - Door
+  - EMF Reader
+  - Spirit Box
+  - Footsteps
+  - Fuse box
+  - Ghost throws
+  - Camera shutters
+  - Using a lighter
+  - Motion sensors
+  - Ouija boards
+  - Sanity pills
+  - Paintings falling
+  - Player push to talk (local and global)
+  - Salt
+  - Sinks
+  - Thermometers
+  - Torches
