@@ -392,6 +392,18 @@ Ghosts stay in their favourite room for 30 seconds, then return to their idle ph
 
 ## Photo camera
 - You must be within 5m of the evidence you are taking a photo of for it to count in your journal
+- Photos of journal evidence are detected via a raycast from your camera's world position to the evidence's world position. For it to register properly in your journal, ensure no one is standing between the camera and the evidence.
+- Photos of any evidence in the level count for your journal:
+  - EMF spots
+  - Ouija board
+  - Fingerprints
+  - Footsteps
+  - DNA (Bone)
+  - Ghosts
+  - Dead bodies
+  - Dirty water
+- The game performs a simple ray cast from the camera's world position to the ghost's "raycastPoint", which may not be at its head. As a result, you should frame the entire ghost in your photos to complete the mission.
+- Phantoms disappear after having their photo taken. This removes their sanity draining effect as well.
 
 ## Salt
 - Ghosts only walk on salt spots once
