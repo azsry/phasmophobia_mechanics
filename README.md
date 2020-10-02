@@ -453,7 +453,6 @@ Ghosts stay in their favourite room for 30 seconds, then return to their idle ph
 ## Sound Sensors / Parabolic Microphone
 - Sound sensors and parabolic microphones work in similar ways. Sound sensors provide data on the loudest sound source they detect, while parabolic microphones provide the sum of all sound sources it detects
 - Both systems work based on intersection with Noise triggers placed around the map. These are variable-sized box colliders that have volumes attached to them
-- Both sensor types simply display the highest volume Noise trigger that intersects with the device.
 - As with the EMF Reader, these devices are NOT dependant on look angles, but uses the device's world position for intersection calculations. This means that the device may provide different readings while stationary and looking around if you are standing at the very border of two intersecting triggers.
 - Sound sensor values are updated in the truck every 5 seconds
 - Parabolic microphone values are updated at random intervals between 1 and 2 seconds
