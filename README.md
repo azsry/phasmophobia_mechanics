@@ -110,7 +110,8 @@ Setup phase is when the timer in the truck is non-zero:
 
 - Ghosts cannot enter hunting phase during this time, but will instead be sent straight to their favourite room.
 - "Hunting phase" starts immediately after setup phase, but this merely means regular phase, and not a true hunting phase
-
+- Entering a recognised phrase into a Ouija Board has a 1-in-3 chance of ending setup phase
+- 
 ### Idle
 All ghosts have an idle timer of 2-6 seconds, set when they return to an idle state
 
