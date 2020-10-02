@@ -286,10 +286,15 @@ Ghosts stay in their favourite room for 30 seconds, then return to their idle ph
 
 ## Ouija Board
 - A player has to either wear a VR headset or use local push to talk, and be alone in a room for the ouija board to work
+  - Appears to still work with multiple people in the room if any player is currently using local push to talk
 - A player must be within 5m of the board for it to work
-- When a phrase is recognised, all the lights in the player's current room will flicker
-- If the game is still in setup phase, using the ouija board will instantly send the game to regular phase
+- Entering a recognised phrase into a Ouija Board has a 1-in-3 chance of doing all of the following:
+    - flickering all lights in the player's room
+    - increasing your insanity by 40%
+    - Ending setup phase
 - The ouija board responds to victim, age, dead, room amount, and location questions. The specific text for these questions has yet to be found
+- All ghosts besides Demons will increase your insanity by a random value between 5 and 10% upon receiving an answer
+
 
 ## Photo camera
 - You must be within 5m of the evidence you are taking a photo of for it to count in your journal
