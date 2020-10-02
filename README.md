@@ -145,7 +145,7 @@ Banshees choose a new target when their current target dies, or if they leave th
 
 Revenants move 1.5x slower than other ghosts when not chasing a player. When they are chasing a player, they are 2x faster than other ghosts.
 
-Jinns move at a speed of 2 (2 whats? I don't know. The game just says 2) when you are more than 4m away from it, and the fusebox is on.
+Jinns move at 2x Unity's default navmesh movement speed when you are more than 4m away from it, and the fusebox is on.
 
 After killing a player, the ghost will teleport back to where it was just before the hunting phase began, and reset to idle phase. They cannot initiate hunting phase for the next 25 seconds.
 
