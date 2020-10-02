@@ -1,6 +1,41 @@
 # Phasmophobia Mechanics
 #### Compiled by Azsry
 
+- [Phasmophobia Mechanics](#phasmophobia-mechanics)
+      - [Compiled by Azsry](#compiled-by-azsry)
+  - [Anti-Cheat](#anti-cheat)
+  - [Sanity](#sanity)
+  - [Sanity effects](#sanity-effects)
+  - [Difficulty levels](#difficulty-levels)
+  - [EMF Reader](#emf-reader)
+  - [Truck EMF Data](#truck-emf-data)
+  - [Freezing Temperatures / Thermometer](#freezing-temperatures--thermometer)
+  - [Candles](#candles)
+  - [Car](#car)
+  - [Cameras](#cameras)
+  - [Ghost activity](#ghost-activity)
+  - [Ghost phases](#ghost-phases)
+    - [In truck](#in-truck)
+    - [Setup phase](#setup-phase)
+    - [Idle](#idle)
+    - [Wander](#wander)
+    - [Ghost appearing](#ghost-appearing)
+    - [Hunting](#hunting)
+  - [Doors](#doors)
+  - [Dirty Water](#dirty-water)
+  - [Ghost Orbs](#ghost-orbs)
+  - [Spirit Box](#spirit-box)
+  - [Favourite Rooms](#favourite-rooms)
+  - [Footsteps](#footsteps)
+  - [Fusebox](#fusebox)
+  - [Ghost Writing](#ghost-writing)
+  - [Ghost interactions](#ghost-interactions)
+  - [Generic VOIP recognition](#generic-voip-recognition)
+  - [Ouija Board](#ouija-board)
+  - [Photo camera](#photo-camera)
+  - [Salt](#salt)
+  - [Window knocking](#window-knocking)
+
 ## Anti-Cheat
 - Err...the game just checks if you have over $250,000 and sets you back to $100. Seems legit.
 
