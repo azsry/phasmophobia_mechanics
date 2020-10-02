@@ -46,7 +46,6 @@
 - Small map
   - Normal drop rate: 0.12
   - Setup drop rate: 0.09
-
 - Medium map
   - Normal drop rate: 0.08
   - Setup drop rate: 0.05
@@ -173,19 +172,16 @@ Once their idle timer has elapsed, they have a chance of entering hunting phase 
 - Jinns move at 2x Unity's default navmesh movement speed when you are more than 4m away from it, and the fusebox is on.
 
 ### Ghost appearing
-Ghosts have a random chance of appearing only as a shadow, but only for alive players. Dead players will always see the full model.
+- Ghosts have a random chance of appearing only as a shadow, but only for alive players. Dead players will always see the full model.
 
 ### Hunting
-Ghosts can teleport between 2 and 15m at the start of a hunting phase
-
-When a hunting phase starts, the ghost will start flickering the fusebox and all flashlights, an Ghost Appeared EMF (Level 3) reading will be created where they spawn, and all entries to the house will be locked.
-
-During hunting phases, Phantoms appear every 1-2 seconds, while all other ghost types appear every 0.3-1 seconds. Hunting phases last for 25 seconds in Amateur, 35 seconds in Intermediate, and 50 seconds in Professional.
-
-If the ghost is a shade and there is more than 1 player in the room, hunting phase will be cancelled, and the ghost will return to their favourite room.
-The ghost will return to its favourite room when the player they are targeting is dead.
-
-After killing a player, the ghost will teleport back to where it was just before the hunting phase began, and reset to idle phase. They cannot initiate hunting phase for the next 25 seconds.
+- Ghosts can teleport between 2 and 15m at the start of a hunting phase
+- Ghosts pick a player to target and chase at the start of a hunting phase. This does not change during the phase.
+- When a hunting phase starts, the ghost will start flickering the fusebox and all flashlights, an Ghost Appeared EMF (Level 3) reading will be created where they spawn, and all entries to the house will be locked.
+- During hunting phases, Phantoms appear every 1-2 seconds, while all other ghost types appear every 0.3-1 seconds. Hunting phases last for 25 seconds in Amateur, 35 seconds in Intermediate, and 50 seconds in Professional.
+- If the ghost is a shade and there is more than 1 player in the room, hunting phase will be cancelled, and the ghost will return to their favourite room.
+- The ghost will return to its favourite room when the player they are targeting is dead.
+- After killing a player, the ghost will teleport back to where it was just before the hunting phase began, and reset to idle phase. They cannot initiate hunting phase for the next 25 seconds.
 
 ## Doors
 - As soon as a ghost with fingerprints touches a door, it will spawn the fingerprint evidence, but only on one side of the door. Fingerprint evidence does not spawn Ghost Interaction EMF
@@ -199,7 +195,8 @@ After killing a player, the ghost will teleport back to where it was just before
 - Ghosts leave a Ghost Interaction EMF (Level 2) on the sink
 
 ## Ghost Orbs
-- Ghost orbs only spawn in the ghost's favourite room. This favourite room is designated on ghost spawn
+- Ghost orbs only spawn in the ghost's favourite room, and can be seen in the doorway to that room from a hallway. This favourite room is designated on ghost spawn
+- Ghost orbs can be seen before entering the house if a fixed camera is pointing at the door/hallway to their favourite room.
 
 ## Spirit Box
 - Ghosts can only respond once every 10 seconds
