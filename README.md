@@ -2,7 +2,7 @@
 #### Compiled by Azsry
 
 ## Anti-Cheat
-Err...the game just checks if you have over $250,000 and sets you back to $100. Seems legit.
+- Err...the game just checks if you have over $250,000 and sets you back to $100. Seems legit.
 
 ## Sanity
 - Game internally uses insanity, which is then displayed as sanity in the truck as (100 - insanity) + Random.Range(-2, 3) 
@@ -45,33 +45,37 @@ Err...the game just checks if you have over $250,000 and sets you back to $100. 
 ## EMF Reader
 The EMF Reader tells you different things about the ghost depending on what level you detected:
 - Level 1: Default
-- Level 2: The ghost interacted with whatever you are looking at, or something near there
-- Level 3: The ghost recently threw something near where you are looking.
+- Level 2: The ghost interacted with whatever something near you
+- Level 3: The ghost recently threw something near you
 - Level 4: The ghost appeared there recently
 - Level 5: Simply used for evidence
 
-EMF Spots only last for 20 seconds after the ghost has done something in that area, and will disappear after this time has elapsed. This will never change, regardless of whether the ghost is still in the room or not.
+- EMF Spots only last for 20 seconds after the ghost has done something in that area, and will disappear after this time has elapsed. This will never change, regardless of whether the ghost is still in the room or not.
+- The EMF reader does not actually work based on look direction. It simply gets activated based on its location, and whether it is colliding with any EMF triggers in the map. 
+- Currently unknown how large these triggers are
+- EMF reading levels can change while turning if the EMF reader enters another trigger which overlaps the current one, as the EMF reader just shows the level of the highest EMF zone that it overlaps
+
+## Truck EMF Data
+- The truck's EMF graph shows the sum of all EMF spots in the house, capped at 10
 
 ## Freezing Temperatures / Thermometer
-Ghosts that have freezing temperatures as an attribute will make the room they are in go down to -10C (14F), while all other ghosts make the room drop to 5C (41F). As soon as you see your thermometer go below 5C or 41F, or if you see cold puffs when you are in a room, you can tick off Freezing Temperatures.
+- Ghosts that have freezing temperatures as an attribute will make the room they are in go down to -10C (14F), while all other ghosts make the room drop to 5C (41F). As soon as you see your thermometer go below 5C or 41F, or if you see cold puffs when you are in a room, you can tick off Freezing Temperatures.
 
-Your thermometer shows values +- 2C from the actual value, so if you see any values below 3C (37.4F), you have a ghost with Freezing Temperatures.
+- Your thermometer shows values +- 2C from the actual value, so if you see any values below 3C (37.4F), you have a ghost with Freezing Temperatures.
 Your thermometer displays the temperature for the location 6m in front of you
 
 ## Candles
-Candles can stay on for a random amount of time between 2.5 and 5 minutes. This value is determined when the candle is lit.
+- Candles can stay on for a random amount of time between 2.5 and 5 minutes. This value is determined when the candle is lit.
 
 ## Car
-The car alarm can be turned on when the ghost is within 2m of the car. When the alarm is on, the car's headlights will also be on, and it will play some sounds. To turn it off, you need the car keys and hit Use on the car. As soon as the car alarm turns on, a Ghost Interaction EMF (Level 2) spot will be created at the car's position.
+- The car alarm can be turned on when the ghost is within 2m of the car. When the alarm is on, the car's headlights will also be on, and it will play some sounds. 
+- To turn it off, you need the car keys and hit Use on the car. As soon as the car alarm turns on, a Ghost Interaction EMF (Level 2) spot will be created at the car's position.
 
 ## Cameras
-If a ghost enters the view of a camera (i.e. the ghost is in the same room as the camera) when the fusebox is off, and no lights in that room are on, the ghost will turn off the camera and leave a Ghost Interaction EMF (Level 2) on the camera.
+- If a ghost enters the view of a camera (i.e. the ghost is in the same room as the camera) when the fusebox is off, and no lights in that room are on, the ghost will turn off the camera and leave a Ghost Interaction EMF (Level 2) on the camera.
 
 ## Ghost activity
-Ghosts have ability values set at the start of an idle phase, based on difficulty. If a random number is greater than or equal to their current activity level, including all ghost-specific multipliers, they have a chance of interacting with objects, or going to their favourite room, appear, use the fusebox, etc. 
-
-Ghosts can throw any prop around the house. A prop moving does not indicate the ghost being nearby.
-Poltergeists throw objects with a random force between ((-5, 5), (-2.5, 2.5), (-3, 3)), while other ghosts throw them with a random force between ((-2.5, 2.5), (-2, 2), (-2.5, 2.5))
+- Ghosts have ability values set at the start of an idle phase, based on difficulty. If a random number is greater than or equal to their current activity level, including all ghost-specific multipliers, they have a chance of interacting with objects, or going to their favourite room, appear, use the fusebox, etc. 
 
 - Amateur: 100
 - Intermediate: 115
@@ -82,12 +86,16 @@ Poltergeists throw objects with a random force between ((-5, 5), (-2.5, 2.5), (-
 
 - Hunting multiplier
     - Starts at 0
+    - Does not increase steadily over time
     - Decreases by 10 if ghost type is a Mare and a light switch in their current room is on
     - Increases by 10 if ghost type is a Mare and no lights in their current room are on, or there are no light switches in their current room
     - Increases by 15 if the ghost type is a Demon
 
 - If 50 < average player insanity + hunting multiplier < 75, the ghost has a 1-in-5 chance of entering hunting phase
 - If average player insanity + hunting multiplier >= 75, the ghost has a 1-in-3 chance of entering hunting phase
+
+- Ghosts can throw any prop around the house. A prop moving does not indicate the ghost being nearby.
+Poltergeists throw objects with a random force between ((-5, 5), (-2.5, 2.5), (-3, 3)), while other ghosts throw them with a random force between ((-2.5, 2.5), (-2, 2), (-2.5, 2.5))
 
 ## Ghost phases
 Ghost phases are determined by average player sanity, multiplied by a hunting multiplier, and alternatively multiplied by an Oni or Wraith multiplier.
@@ -105,6 +113,7 @@ Setup phase is when the timer in the truck is non-zero:
 
 ### Idle
 All ghosts have an idle timer of 2-6 seconds, set when they return to an idle state
+
 Once their idle timer has elapsed, they have a chance of entering hunting phase or interaction phase, depending on the team's average insanity and the current hunting multiplier.
 
 ### Wander
@@ -156,11 +165,13 @@ After killing a player, the ghost will teleport back to where it was just before
 
 ## Spirit Box
 - Ghosts can only respond once every 10 seconds
+- "Nothing detected" means the game recognised your phrase, but it triggered a fail check. However, fail checks and answers do not seem to be mutually exclusive.
+- Ghosts that do not use spirit box will never respond
 - Ghost responses only work if you are using Local Push to Talk or have a VR headset on
 - Ghosts will not respond if you are more than 3m away from them, or are on a different floor
 - Ghosts that only respond to one person are shy
 - Ghosts will not respond if the fusebox is on and a light switch in your current room is on
-- Ghosts will not respond unless you say their name
+- Ghosts will not respond if you have said their name in isolation (i.e. anger them with a phrase) recently
 - Ghosts can respond with either location answers, difficulty answers, or age answers
     - Different location sounds are played depending on whether you are at least 4m away from the ghost
         - Difficulty questions:
@@ -246,10 +257,39 @@ Ghosts stay in their favourite room for 30 seconds, then return to their idle ph
 - Random ghost interactions, including sounds, turning on faucets, moving items, teleporting items, etc, do not generate EMF spots.
 - Being within 3m of a Jinn instantly drops your sanity by 25%
 
+## Generic VOIP recognition
+- Ghosts can react with your voice all throughout the game, even when you are not holding down a VOIP key
+- You must be in a room for more than 2 seconds for phrases to be recognised
+- Shy ghosts will not respond to you if there are multiple people in the room
+- 
+- Ghosts can react to their name at any time, even when you are not holding down a VOIP key, with a 20 second delay in between reactions
+- A generic ghost reaction will add a random value between 10 and 25 to their activity multiplier
+- Generic reactions have a 1-in-200 chance of the ghost turning the fusebox off
+- Generic reactions have a 1-in-8 chance of interacting with a random prop
+- Generic reactions have a 1-in-8 chance of interacting with a random door
+
+- Generic reaction phrases
+  - "Fuck",
+  - "Bitch",
+  - "Shit",
+  - "Cunt",
+  - "Ass",
+  - "Bastard",
+  - "Motherfucker",
+  - "Motherfucker", (yes, this is repeated. Probably indicattes a higher chance of them reacting to this)
+  - "Arsehole",
+  - "Crap",
+  - "Pussy",
+  - "Dickhead",
+  - "Bloody Mary"
+  - Plus 57 more that are language-specific
+
 ## Ouija Board
 - A player has to either wear a VR headset or use local push to talk, and be alone in a room for the ouija board to work
-- When a phrase is recognise, all the lights in the player's current room will flicker
+- A player must be within 5m of the board for it to work
+- When a phrase is recognised, all the lights in the player's current room will flicker
 - If the game is still in setup phase, using the ouija board will instantly send the game to regular phase
+- The ouija board responds to victim, age, dead, room amount, and location questions. The specific text for these questions has yet to be found
 
 ## Photo camera
 - You must be within 5m of the evidence you are taking a photo of for it to count in your journal
