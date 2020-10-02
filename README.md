@@ -261,7 +261,6 @@ Ghosts stay in their favourite room for 30 seconds, then return to their idle ph
 - Ghosts can react with your voice all throughout the game, even when you are not holding down a VOIP key
 - You must be in a room for more than 2 seconds for phrases to be recognised
 - Shy ghosts will not respond to you if there are multiple people in the room
-- 
 - Ghosts can react to their name at any time, even when you are not holding down a VOIP key, with a 20 second delay in between reactions
 - A generic ghost reaction will add a random value between 10 and 25 to their activity multiplier
 - Generic reactions have a 1-in-200 chance of the ghost turning the fusebox off
@@ -282,7 +281,67 @@ Ghosts stay in their favourite room for 30 seconds, then return to their idle ph
   - "Pussy",
   - "Dickhead",
   - "Bloody Mary"
-  - Plus 57 more that are language-specific
+  - Plus 57 more that are language-specific. The English versions are provided below. For all langauges, refer to localisation.csv found in this repository, and search for Phrase_. All these are taken directly from the .csv, lack of punctuation, spelling errors, and all.
+    - Can you speak
+    - Show us
+    - Let us know you are here
+    - Do something
+    - Is there anyone with me
+    - Scream
+    - Are you alone
+    - Can we speak
+    - would like to speak to you
+    - Is there anyone here
+    - May I ask you
+    - Can you speak to us
+    - Would you like to talk
+    - Are you the only one here
+    - Are you waiting
+    - Is there anything that I can do
+    - Do you know who we are
+    - Are you happy
+    - Are you here all the time
+    - Are you male or female
+    - Are there children here
+    - Do you want us to leave
+    - Make a noise
+    - Can I ask you 
+    - Can you make a sound
+    - Show us your presence
+    - Knock something
+    - Make a sound
+    - Open the door
+    - Throw something
+    - Talk to me
+    - Talk to us
+    - We mean you no harm
+    - Open a door
+    - We are friends
+    - Is this you're home
+    - Can you speak to us
+    - I'm scared
+    - I am scared
+    - scared
+    - scary
+    - spooky
+    - Horror
+    - Scare
+    - Open this door
+    - Frighten
+    - panic
+    - Fright
+    - Hide
+    - Run
+    - Show your presence
+    - Show us
+    - Show me
+    - Turn on the light
+    - Turn off the light
+    - Are there any ghosts
+    - Give us a sign
+
+
+
 
 ## Ouija Board
 - A player has to either wear a VR headset or use local push to talk, and be alone in a room for the ouija board to work
@@ -292,7 +351,42 @@ Ghosts stay in their favourite room for 30 seconds, then return to their idle ph
     - flickering all lights in the player's room
     - increasing your insanity by 40%
     - Ending setup phase
-- The ouija board responds to victim, age, dead, room amount, and location questions. The specific text for these questions has yet to be found
+- The ouija board responds to victim, age, dead, room amount, and location questions. The English questions are below. All languages can be found in localisation.csv found in this repository (Look for Ouija_ entries)
+    - How old are you
+    - What is your age
+    - Are you old
+    - Are you young
+    - How long have you been dead
+    - How many years ago did you die
+    - How long have you been here
+    - How long ago did you die
+    - When did you die
+    - Where are you
+    - What is your favourite room
+    - Where is your room
+    - What is your room
+    - Are you here
+    - Are you close
+    - Are there any spirits
+    - Are you near
+    - Are you around
+    - How many are in this room
+    - How many people are in this room
+    - How many people are here
+    - How many ghosts are in this room
+    - How many ghosts are here
+    - Are you alone
+    - Are we alone
+    - Who is here
+    - Who is in this room
+    - Who did you kill
+    - Who is your victim
+    - What is the name of the person you killed
+    - What is the name of the person you murdered
+    - What is your victim
+    - Did you murder
+    - Who did you murder
+    - Who died
 - All ghosts besides Demons will increase your insanity by a random value between 5 and 10% upon receiving an answer
 
 
