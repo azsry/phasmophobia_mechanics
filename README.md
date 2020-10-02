@@ -159,9 +159,7 @@ Once their idle timer has elapsed, they have a chance of entering hunting phase 
 ### Wander
 - Ghosts can wander up to 3m from their current location at a time.
 - Wraiths can occasionally teleport to the player's location, leaving a Ghost Interaction EMF (Level 2) at their new location
-- If a crucifix is within 3m of the ghost (or 5m for banshees), the crucifix will be used, and the ghost will be sent back to their favourite room.
-  
-- If a smudge stick is within 1.5m of their teleport destination, they will return to their favourite room
+
 - If a smudge stick is within 6m of the ghost, it will:
   - add a random value between 20 and 30 to their activity multiplier, 
   - stop the ghost from hunting for 90s (or 180s for Spirits)
@@ -181,6 +179,8 @@ Once their idle timer has elapsed, they have a chance of entering hunting phase 
 - During hunting phases, Phantoms appear every 1-2 seconds, while all other ghost types appear every 0.3-1 seconds. Hunting phases last for 25 seconds in Amateur, 35 seconds in Intermediate, and 50 seconds in Professional.
 - If the ghost is a shade and there is more than 1 player in the room, hunting phase will be cancelled, and the ghost will return to their favourite room.
 - The ghost will return to its favourite room when the player they are targeting is dead.
+- If a crucifix is within 3m of the ghost (or 5m for banshees), the crucifix will be used, and the ghost will be sent back to their favourite room.
+- If a smudge stick is within 1.5m of their teleport destination, they will return to their favourite room
 - After killing a player, the ghost will teleport back to where it was just before the hunting phase began, and reset to idle phase. They cannot initiate hunting phase for the next 25 seconds.
 
 ## Doors
@@ -294,6 +294,7 @@ Ghosts stay in their favourite room for 30 seconds, then return to their idle ph
 
 ## Generic VOIP recognition
 - Ghosts can react with your voice all throughout the game, even when you are not holding down a VOIP key
+- You must be in the ghost room to trigger a response
 - You must be in a room for more than 2 seconds for phrases to be recognised
 - Shy ghosts will not respond to you if there are multiple people in the room
 - Ghosts can react to their name at any time, even when you are not holding down a VOIP key, with a 20 second delay in between reactions
