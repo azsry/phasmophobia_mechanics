@@ -40,35 +40,39 @@
 - Err...the game just checks if you have over $250,000 and sets you back to $100. Seems legit.
 
 ## Sanity
-- Game internally uses insanity, which is then displayed as sanity in the truck as (100 - insanity) + Random.Range(-2, 3) 
+- Game internally uses insanity, which is then displayed as sanity in the truck as (100 - insanity) + Random.Range(-2, 3)
+
+- Small map
+  - Normal drop rate: 0.12
+  - Setup drop rate: 0.09
 
 - Medium map
-    - Normal drop rate: 0.08
-    - Setup phase drop rate: 0.05
+  - Normal drop rate: 0.08
+  - Setup drop rate: 0.05
 - Large map
-    - Normal drop rate: 0.05
-    - Setup drop rate: 0.03
+  - Normal drop rate: 0.05
+  - Setup drop rate: 0.03
 
 - Solo games (that are not a tutorial)
-    - Drop rates from above / 2
+  - Drop rates from above / 2
 
 - Insanity
-    - Capped at 50 during setup phase
-    - Uncapped to 100 during regular play
-    - Decreases every 5 seconds by setup/normal drop rate, multiplied by difficulty rate (below)
-    - Insanity does not increase when you are in light or are outside the house
-    - Light status updates every 2 seconds
-    - Being within 3m of a Jinn instantly increases your insanity by 25%
-    - Entering a recognised phrase into a Ouija Board has a 1-in-3 chance of increasing your insanity by 40%
-    - Sanity pills decrease your insanity by 40%
-    - Poltergeists increase your insanity by double the number of props they are allowed to move
-
+  - Capped at 50 during setup phase
+  - Uncapped to 100 during regular play
+  - Increases every frame by ((deltaTime * setup/normal drop rate) * difficulty rate (below))
+  - Insanity does not increase when you are in light or are outside the house
+  - Light status updates every 2 seconds
+  - Insanity level is synced to other players every 5 seconds
+  - Being within 3m of a Jinn instantly increases your insanity by 25%
+  - Entering a recognised phrase into a Ouija Board has a 1-in-3 chance of increasing your insanity by 40%
+  - Sanity pills decrease your insanity by 40%
+  - Poltergeists increase your insanity by double the number of props they are allowed to move
 - If the ghost is visible, or is in hunting phase, and is within 10m of the player, the player's insanity raises by deltaTime (time since last frame) * sanity drain strength
     - Ghosts have a default sanity drain factor of 0.2
     - Phantoms have a sanity draining strength of 0.4
 
 ## Sanity effects
-- The game will attempt to spawn ghosts at a window when the player is inside the house at a random interval between 10s and 30s if the player's insanity is above 50, otherwise 20s.
+- The game will attempt to spawn ghosts at a window when the player is inside the house at a random interval between 10s and 30s if the player's insanity is above 50, otherwise at a random interval between 10s and 20s.
 - This ghost will start far away from the window and dash towards the window until it is 0.2m away, then disappear
 
 ## Difficulty levels
@@ -146,18 +150,29 @@ Setup phase is when the timer in the truck is non-zero:
 - Ghosts cannot enter hunting phase during this time, but will instead be sent straight to their favourite room.
 - "Hunting phase" starts immediately after setup phase, but this merely means regular phase, and not a true hunting phase
 - Entering a recognised phrase into a Ouija Board has a 1-in-3 chance of ending setup phase
-- 
+
 ### Idle
 All ghosts have an idle timer of 2-6 seconds, set when they return to an idle state
 
 Once their idle timer has elapsed, they have a chance of entering hunting phase or interaction phase, depending on the team's average insanity and the current hunting multiplier.
 
 ### Wander
-Ghosts can wander up to 3m from their current location at a time.
-Wraiths can occasionally teleport to the player's location, leaving a Ghost Interaction EMF (Level 2) at their new location
+- Ghosts can wander up to 3m from their current location at a time.
+- Wraiths can occasionally teleport to the player's location, leaving a Ghost Interaction EMF (Level 2) at their new location
+- If a crucifix is within 3m of the ghost (or 5m for banshees), the crucifix will be used, and the ghost will be sent back to their favourite room.
+  
+- If a smudge stick is within 1.5m of their teleport destination, they will return to their favourite room
+- If a smudge stick is within 6m of the ghost, it will:
+  - add a random value between 20 and 30 to their activity multiplier, 
+  - stop the ghost from hunting for 90s (or 180s for Spirits)
+  - stop Yureis from wandering for 90s
+
+- Banshees choose a new target when their current target dies, or if they leave the building. If no players are in the building, they will return to their favourite room.
+- Revenants move 1.5x slower than other ghosts when not chasing a player. When they are chasing a player, they are 2x faster than other ghosts.
+- Jinns move at 2x Unity's default navmesh movement speed when you are more than 4m away from it, and the fusebox is on.
 
 ### Ghost appearing
-Ghosts have a random chance of appearing only as a shadow, but only for alive players.
+Ghosts have a random chance of appearing only as a shadow, but only for alive players. Dead players will always see the full model.
 
 ### Hunting
 Ghosts can teleport between 2 and 15m at the start of a hunting phase
@@ -168,20 +183,6 @@ During hunting phases, Phantoms appear every 1-2 seconds, while all other ghost 
 
 If the ghost is a shade and there is more than 1 player in the room, hunting phase will be cancelled, and the ghost will return to their favourite room.
 The ghost will return to its favourite room when the player they are targeting is dead.
-
-If a crucifix is within 3m of the ghost (or 5m for banshees), the crucifix will be used, and the ghost will be sent back to their favourite room.
-
-If a smudge stick is within 1.5m of their teleport destination, they will return to their favourite room
-If a smudge stick is within 6m of the ghost, it will:
-- add a random value between 20 and 30 to their activity multiplier, 
-- stop the ghost from hunting for 90s (or 180s for Spirits)
-- stop Yureis from wandering for 90s
-
-Banshees choose a new target when their current target dies, or if they leave the building. If no players are in the building, they will return to their favourite room.
-
-Revenants move 1.5x slower than other ghosts when not chasing a player. When they are chasing a player, they are 2x faster than other ghosts.
-
-Jinns move at 2x Unity's default navmesh movement speed when you are more than 4m away from it, and the fusebox is on.
 
 After killing a player, the ghost will teleport back to where it was just before the hunting phase began, and reset to idle phase. They cannot initiate hunting phase for the next 25 seconds.
 
