@@ -171,6 +171,7 @@ Once their idle timer has elapsed, they have a chance of entering hunting phase 
 
 ### Ghost appearing
 - Ghosts have a random chance of appearing only as a shadow, but only for alive players. Dead players will always see the full model.
+- 1-in-2 chance if it is part of a random event. 1-in-3 chance as part of a hunt, appearance, or player kill
 
 ### Hunting
 - Ghosts can teleport between 2 and 15m at the start of a hunting phase
@@ -287,6 +288,8 @@ Ghosts stay in their favourite room for 30 seconds, then return to their idle ph
 ## Ghost Writing
 - Ghosts have a 1-in-3 chance to write in a spirit book
 - Ghosts instantly write in the spirit book if they are willing to
+- Ghosts can write in the book randomly as part of a random prop interaction
+- The ghost book does not appear to need to be in the ghost's room. They can interact with it from anywhere 
 
 ## Ghost interactions
 - Random ghost interactions, including sounds, turning on faucets, moving items, teleporting items, etc, do not generate EMF spots.
