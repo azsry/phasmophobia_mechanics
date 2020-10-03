@@ -166,6 +166,7 @@ Once their idle timer has elapsed, they have a chance of entering hunting phase 
   - stop Yureis from wandering for 90s
 
 - Banshees choose a new target when their current target dies, or if they leave the building. If no players are in the building, they will return to their favourite room.
+  - Banshees choose the first player in the player list who is not dead
 - Revenants move 1.5x slower than other ghosts when not chasing a player. When they are chasing a player, they are 2x faster than other ghosts.
 - Jinns move at 2x Unity's default navmesh movement speed when you are more than 4m away from it, and the fusebox is on.
 
@@ -175,7 +176,22 @@ Once their idle timer has elapsed, they have a chance of entering hunting phase 
 
 ### Hunting
 - Ghosts can teleport between 2 and 15m at the start of a hunting phase
-- Ghosts pick a player to target and chase at the start of a hunting phase. This does not change during the phase.
+- Ghosts pick a player to chase at the start of a hunting phase. This changes during a phase if the target player leaves the ghost's line of sight, or for non-Banshees, if another player steps closer to the ghost than the previous target player.
+  - While chasing a player, the ghost uses one raytrace to check for line of sight, from its raycastPoint to the player's head position. This means crouching behind objects may prove useful.
+  - While not chasing a player, ghosts cast two rays to check for line of sight
+    - One ray directly from their raycastPoint (likely located near their head, but unknown at this time)
+    - If the direct ray fails, one ray 0.167m to the right of their raycastPoint
+    - If both of these raytraces fail, it will default to chasing the original target player
+
+    - If the ghost is not a Banshee, it will cast two rays at each player to check for line of sight
+      - One ray from their raycastPoint
+      - One ray 0.01m to the right of their raycastPoint
+    - If both of these raytraces fail, it will default to targeting the first non-dead player
+
+
+
+
+
 - When a hunting phase starts, the ghost will start flickering the fusebox and all flashlights, an Ghost Appeared EMF (Level 3) reading will be created where they spawn, and all entries to the house will be locked.
 - During hunting phases, Phantoms appear every 1-2 seconds, while all other ghost types appear every 0.3-1 seconds. Hunting phases last for 25 seconds in Amateur, 35 seconds in Intermediate, and 50 seconds in Professional.
 - If the ghost is a shade and there is more than 1 player in the room, hunting phase will be cancelled, and the ghost will return to their favourite room.
