@@ -36,6 +36,7 @@
   - [Salt](#salt)
   - [Window knocking](#window-knocking)
   - [Sound Sensors / Parabolic Microphone](#sound-sensors--parabolic-microphone)
+  - [Smudge Sticks](#smudge-sticks)
 
 ## Anti-Cheat
 - Err...the game just checks if you have over $250,000 and sets you back to $100. Seems legit.
@@ -85,8 +86,10 @@
 The EMF Reader tells you different things about the ghost depending on what level you detected:
 - Level 1: Default
 - Level 2: The ghost interacted with whatever something near you
+  - Level 2 EMF spots have a 1-in-4 chance of showing as EMF Level 5, if your ghost has EMF Level 5 as a trait
 - Level 3: The ghost recently threw something near you
 - Level 4: The ghost appeared there recently
+  - This happens at the beginning of hunting phases, and during random appearance events
 - Level 5: Simply used for evidence
 
 - EMF Spots only last for 20 seconds after the ghost has done something in that area, and will disappear after this time has elapsed. This will never change, regardless of whether the ghost is still in the room or not.
@@ -497,3 +500,9 @@ Ghosts stay in their favourite room for 30 seconds, then return to their idle ph
   - Sinks
   - Thermometers
   - Torches
+
+## Smudge Sticks
+- When a smudge stick is used (i.e. starts smoking), the game checks if the smudge stick is within 6m of the ghost. If this is the case, the ghost will will:
+  - add a random value between 20 and 30 to their activity multiplier, 
+  - stop the ghost from hunting for 90s (or 180s for Spirits)
+  - stop Yureis from wandering for 90s
