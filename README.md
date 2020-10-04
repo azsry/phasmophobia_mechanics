@@ -183,28 +183,30 @@ Once their idle timer has elapsed, they have a chance of entering hunting phase 
 - 1-in-2 chance if it is part of a random event. 1-in-3 chance as part of a hunt, appearance, or player kill
 
 ### Hunting
-- Ghosts can teleport between 2 and 15m at the start of a hunting phase
-- Ghosts pick a player to chase at the start of a hunting phase. This changes during a phase if the target player leaves the ghost's line of sight, or for non-Banshees, if another player steps closer to the ghost than the previous target player.
+- Hunting phases last for 25 seconds in Amateur, 35 seconds in Intermediate, and 50 seconds in Professional.
+
+- When a hunting phase starts, the following will occur:
+  - Ghosts pick a player to chase at the start of a hunting phase. This changes during a phase if the target player leaves the ghost's line of sight, or for non-Banshees, if another player steps closer to the ghost than the previous target player.
   - While chasing a player, the ghost uses one raytrace to check for line of sight, from its raycastPoint to the player's head position. This means crouching behind objects may prove useful.
   - While not chasing a player, ghosts cast two rays to check for line of sight
     - One ray directly from their raycastPoint (likely located near their head, but unknown at this time)
     - If the direct ray fails, one ray 0.167m to the right of their raycastPoint
     - If both of these raytraces fail, it will default to chasing the original target player
-
     - If the ghost is not a Banshee, it will cast two rays at each player to check for line of sight
       - One ray from their raycastPoint
       - One ray 0.01m to the right of their raycastPoint
     - If both of these raytraces fail, it will default to targeting the first non-dead player
+  - A Ghost Appeared EMF (Level 3) reading will be created where they spawn
+  - All entries to the house will be locked
+  - If a crucifix is within 3m of the ghost (or 5m for banshees), the hunt will be cancelled, and the ghost will return to its favourite room.
+  - If the ghost is a shade and there is more than 1 player in the room, hunting phase will be cancelled, and the ghost will return to their favourite room.
 
+- During hunting phases, the following occurs:
+  - The ghost will start flickering the fusebox and all flashlights to indicate the successful start of a hunting phase (i.e. phase was not cancelled by anything listed above)
+  - Phantoms appear every 1-2 seconds, while all other ghost types appear every 0.3-1 seconds. 
 
-
-
-
-- When a hunting phase starts, the ghost will start flickering the fusebox and all flashlights, an Ghost Appeared EMF (Level 3) reading will be created where they spawn, and all entries to the house will be locked.
-- During hunting phases, Phantoms appear every 1-2 seconds, while all other ghost types appear every 0.3-1 seconds. Hunting phases last for 25 seconds in Amateur, 35 seconds in Intermediate, and 50 seconds in Professional.
-- If the ghost is a shade and there is more than 1 player in the room, hunting phase will be cancelled, and the ghost will return to their favourite room.
 - The ghost will return to its favourite room when the player they are targeting is dead.
-- If a crucifix is within 3m of the ghost (or 5m for banshees), the crucifix will be used, and the ghost will be sent back to their favourite room.
+
 - If a smudge stick is within 1.5m of their teleport destination, they will return to their favourite room
 - After killing a player, the ghost will teleport back to where it was just before the hunting phase began, and reset to idle phase. They cannot initiate hunting phase for the next 25 seconds.
 
@@ -505,4 +507,5 @@ Ghosts stay in their favourite room for 30 seconds, then return to their idle ph
 - When a smudge stick is used (i.e. starts smoking), the game checks if the smudge stick is within 6m of the ghost. If this is the case, the ghost will will:
   - add a random value between 20 and 30 to their activity multiplier, 
   - stop the ghost from hunting for 90s (or 180s for Spirits)
+  - halt a hunting ghost for 5 seconds 
   - stop Yureis from wandering for 90s
