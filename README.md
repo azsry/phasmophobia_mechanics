@@ -103,6 +103,11 @@ The EMF Reader tells you different things about the ghost depending on what leve
 - Your thermometer shows values +- 2C from the actual value, so if you see any values below 3C (37.4F), you have a ghost with Freezing Temperatures.
 Your thermometer displays the temperature for the location 6m in front of you
 
+- The thermometer shoots its ray from the bottom of the handle, not the actual front of the gun
+- If the 6m raycast fails, it will not update the temperature on the thermometer's display
+- This is a visual representation of 6m in the game:
+    ![](img/6m.jpg)
+
 ## Candles
 - Candles can stay on for a random amount of time between 2.5 and 5 minutes. This value is determined when the candle is lit.
 
