@@ -14,6 +14,12 @@
   - [Car](#car)
   - [Cameras](#cameras)
   - [Ghost activity](#ghost-activity)
+    - [Ghost Powers](#ghost-powers)
+      - [Banshee](#banshee)
+      - [Jinn](#jinn)
+      - [Phantom](#phantom)
+      - [Poltergeist](#poltergeist)
+      - [Wraith](#wraith)
   - [Ghost phases](#ghost-phases)
     - [In truck](#in-truck)
     - [Setup phase](#setup-phase)
@@ -138,11 +144,34 @@ Your thermometer displays the temperature for the location 6m in front of you
     - Increases by 10 if ghost type is a Mare and no lights in their current room are on, or there are no light switches in their current room
     - Increases by 15 if the ghost type is a Demon
 
-- If 50 < average player insanity + hunting multiplier < 75, the ghost has a 1-in-5 chance of entering hunting phase
-- If average player insanity + hunting multiplier >= 75, the ghost has a 1-in-3 chance of entering hunting phase
-
 - Ghosts can throw any prop around the house. A prop moving does not indicate the ghost being nearby.
 Poltergeists throw objects with a random force between ((-5, 5), (-2.5, 2.5), (-3, 3)), while other ghosts throw them with a random force between ((-2.5, 2.5), (-2, 2), (-2.5, 2.5))
+
+### Ghost Powers
+- All ghosts have a 4-in-12 chance of entering a ghost ability state.
+- Ghosts that have specific behaviours (listed below) have a 2-in-12 chance of using their specific power on Amateur, and a 2-in-15 chance on other difficulties, once this state has been entered.
+#### Banshee
+- If the Banshee's current target is outside the house, it will not use its ability
+- The Banshee will move onto the target player's position
+- The Banshee will wait 20s, then, if the target player is not visible, the Banshee will go into hunting phase. If the current game is a tutorial, it will go back to idle.
+#### Jinn
+- If the fusebox is off, Jinns will not enter their ability state, and will return to idle
+- Once the Jinn enters their ability state, it will wait 5 seconds before using the ability.
+- If a player is within 3m of the Jinn when it activates its ability, that player's insanity will increase by 25%.
+- A Ghost Interaction EMF (Level 2) will be created at the ghost's raycast point.
+- After a Jinn has used its ability, it cannot use it again for 100s
+#### Phantom
+- The Phantom will navigate to a random player's location
+- The Phantom will create a Ghost Interaction (Level 2) EMF at its raycast point
+- Once it reaches the random player's position, it will enter idle phase
+#### Poltergeist
+- If the Poltergeist has no props to interact with, it will return to idle phase
+- If there are props to interact with, the Poltergeist will throw *all* of them with a random force of ((-4,4), (-2,2), (-4,4)), and create a Ghost Throwing (Level 3) EMF at the thrown prop's location.
+- If the player was not in line-of-sight of the EMF spot when it spawned, the player's insanity will increase by 2x the number of props thrown
+#### Wraith
+- The Wraith will choose a random player
+- If the chosen player is outside the house, or dead, the Wraith will return to idle phase
+- If the chosen player is in the house and not dead, the Wraith will teleport to a spot within 3m of the chosen player, then return to idle phase
 
 ## Ghost phases
 Ghost phases are determined by average player sanity, multiplied by a hunting multiplier, and alternatively multiplied by an Oni or Wraith multiplier.
@@ -177,6 +206,8 @@ Once their idle timer has elapsed, they have a chance of entering hunting phase 
   - Banshees choose the first player in the player list who is not dead
 - Revenants move 1.5x slower than other ghosts when not chasing a player. When they are chasing a player, they are 2x faster than other ghosts.
 - Jinns move at 2x Unity's default navmesh movement speed when you are more than 4m away from it, and the fusebox is on.
+- If 50 < average player insanity + hunting multiplier < 75, the ghost has a 1-in-5 chance of entering hunting phase
+- If average player insanity + hunting multiplier >= 75, the ghost has a 1-in-3 chance of entering hunting phase
 
 ### Ghost appearing
 - Ghosts have a random chance of appearing only as a shadow, but only for alive players. Dead players will always see the full model.
@@ -312,14 +343,13 @@ Ghosts stay in their favourite room for 30 seconds, then return to their idle ph
 - Ghosts have a 1-in-5 chance of turning the fusebox back on
 
 ## Ghost Writing
-- Ghosts have a 1-in-3 chance to write in a spirit book
-- Ghosts instantly write in the spirit book if they are willing to
-- Ghosts can write in the book randomly as part of a random prop interaction
-- The ghost book does not appear to need to be in the ghost's room. They can interact with it from anywhere 
+- Ghosts have a 5-in-12 chance of doing random interactions such as opening doors, throwing props, and writing in ghost books.
+- The ghost book does not appear to need to be in the ghost's room. Yet to be confirmed.
 
 ## Ghost interactions
 - Random ghost interactions, including sounds, turning on faucets, moving items, teleporting items, etc, do not generate EMF spots.
 - Being within 3m of a Jinn instantly drops your sanity by 25%
+- Ghosts have a 5-in-12 chance of doing random interactions such as opening doors, throwing props, and writing in ghost books.
 
 ## Generic VOIP recognition
 - Ghosts can react with your voice all throughout the game, even when you are not holding down a VOIP key
