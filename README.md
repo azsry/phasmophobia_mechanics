@@ -28,6 +28,7 @@
         - [Poltergeist](#poltergeist)
         - [Wraith](#wraith)
     - [Ghost interactions](#ghost-interactions)
+      - [Ghost Events](#ghost-events)
     - [Ghost phases](#ghost-phases)
       - [In truck](#in-truck)
       - [Setup phase](#setup-phase)
@@ -339,9 +340,20 @@ Poltergeists throw objects with a random force between ((-5, 5), (-2.5, 2.5), (-
 - If the chosen player is outside the house, or dead, the Wraith will return to idle phase
 - If the chosen player is in the house and not dead, the Wraith will teleport to a spot within 3m of the chosen player, then return to idle phase
 ### Ghost interactions
+- Ghosts have a 5-in-12 chance of doing random interactions such as opening doors, throwing props, and writing in ghost books, after satisfying the insanity check above
 - Random ghost interactions, including sounds, turning on faucets, moving items, teleporting items, etc, do not generate EMF spots.
 - Being within 3m of a Jinn instantly drops your sanity by 25%
-- Ghosts have a 5-in-12 chance of doing random interactions such as opening doors, throwing props, and writing in ghost books.
+
+#### Ghost Events
+- Ghost events for the optional objective occur as part of random ghost interactions
+- Ghosts have a 10-in-15 chance (which changes to 10-in-13 on higher difficulties) to enter a randomEvent phase
+- After all these checks, it can either:
+  - appear to the player, and create a Ghost Appeared (Level 4) EMF Spot
+  - turn off light switches
+  - slam doors shut, and create a Ghost Appeared (Level 4) EMF Spot
+  - spawn a random player's model, play a scream if the spawned model or ghost is within 2m of the player
+    - This one doesn't seem to be implemented, as the game contains code to select a random player model, but never uses it
+- A ghost event will _decrease_ a random player's insanity by 20% (not sure if this is intended)
 ### Ghost phases
 Ghost phases are determined by average player sanity, multiplied by a hunting multiplier, and alternatively multiplied by an Oni or Wraith multiplier.
 #### In truck
