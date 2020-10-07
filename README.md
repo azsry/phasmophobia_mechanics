@@ -112,7 +112,7 @@
 - Ghosts can only respond once every 10 seconds
 - "Nothing detected" means the game recognised your phrase, but it triggered a fail check. However, fail checks and answers do not seem to be mutually exclusive.
 - Ghosts that do not use spirit box will never respond
-- Ghost responses only work if you are using Local Push to Talk (if you have push to talk enabled) or have a VR headset on
+- Ghost responses only work if you are using Local Push to Talk (if you have push to talk enabled) or have a VR headset on. If you use Voice Activation, the ghost will always hear you.
 - Ghosts will not respond if you are more than 3m away from them, or are on a different floor
 - Ghosts that only respond to one person are shy
 - Ghosts will not respond if the fusebox is on and a light switch in your current room is on
@@ -449,8 +449,9 @@ The EMF Reader tells you different things about the ghost depending on what leve
 #### Truck EMF Data
 - The truck's EMF graph shows the sum of all EMF spots in the house, capped at 10
 ### Ouija Board
-- A player has to either wear a VR headset or use local push to talk, and be alone in a room for the ouija board to work
-  - Appears to still work with multiple people in the room if any player is currently using local push to talk
+- A player has to either wear a VR headset or use local push to talk if Local Push to Talk is enabled in settings. The ghost will always hear your voice if you use Voice Activation mode.
+  - In solo games, Push to Talk is not needed, regardless of the menu setting
+- Multiple people can be in the room when using the board
 - A player must be within 5m of the board for it to work
 - Entering a recognised phrase into a Ouija Board has a 1-in-3 chance of doing all of the following:
     - flickering all lights in the player's room
