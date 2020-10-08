@@ -50,6 +50,7 @@
     - [Thermometer](#thermometer)
   - [Misc](#misc)
     - [Anti-Cheat](#anti-cheat)
+    - [Insurance](#insurance)
 
 ## General Gameplay
 ### Difficulty levels
@@ -554,3 +555,7 @@ The EMF Reader tells you different things about the ghost depending on what leve
 ## Misc
 ### Anti-Cheat
 - Err...the game just checks if you have over $250,000 and sets you back to $100. Seems legit.
+
+### Insurance
+- The game grants you insurance if you die during a game
+- You are granted 1/2 the value of all items you brought into a contract when playing on Amateur, and 1/4 on Intermediate. There is no insurance on Professional.
