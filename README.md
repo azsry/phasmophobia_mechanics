@@ -99,7 +99,7 @@
 - Ghosts leave a Ghost Interaction EMF (Level 2) on the sink
 
 ### Freezing Temperatures
-- Ghosts that have freezing temperatures as an attribute will make the room they are in go down to -10C (14F), while all other ghosts make the room drop to 5C (41F). As soon as you see your thermometer go below 5C or 41F, or if you see cold puffs when you are in a room, you can tick off Freezing Temperatures.
+- Ghosts that have freezing temperatures as an attribute will make the room they are in go down to -10C (14F), while all other ghosts make the room drop to 5C (41F). However, your thermometer has a +-2C randomness, so as soon as you see your thermometer go below 3C or 37.4F, or if you see cold puffs when you are in a room, you can tick off Freezing Temperatures.
 
 ### Ghost Orbs
 - Ghost orbs only spawn in the ghost's favourite room, and can be seen in the doorway to that room from a hallway. This favourite room is designated on ghost spawn
