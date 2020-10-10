@@ -373,6 +373,7 @@ Setup phase is when the timer in the truck is non-zero:
 #### Idle
 - All ghosts have an idle timer of 2-6 seconds, set when they return to an idle state
 - Once their idle timer has elapsed, the ghost has a 1-in-2 chance of attempting to enter a hunting phase, depending on the team's average insanity and the current hunting multiplier.
+  - Average team insanity considers everyone in the game, not just those in the house
   - If 50 < average player insanity + hunting multiplier < 75, the ghost has a 1-in-6 chance of entering hunting phase
   - If average player insanity + hunting multiplier >= 75, the ghost has a 1-in-4 chance of entering hunting phase
 - If a random number generated between 0 and the ghost's random activity value (discussed in [Ghost Activity](#ghost-activity)) is greater than their current activity multiplier, the ghost has a 1-in-2 chance of doing an [interaction](#ghost-interactions), using their [ghost ability](#ghost-powers), or entering Wander phase.
