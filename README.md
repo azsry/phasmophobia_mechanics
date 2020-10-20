@@ -421,7 +421,7 @@ Setup phase is when the timer in the truck is non-zero:
 - The ghost will return to its favourite room when the player they are targeting is dead.
 
 - If a smudge stick is within 1.5m of their teleport destination, they will return to their favourite room
-- After killing a player, the ghost will teleport back to where it was just before the hunting phase began, and reset to idle phase. They cannot initiate hunting phase for the next 25 seconds.
+- After killing a player, the ghost will teleport back to their favourite room, and reset to idle phase. They cannot initiate hunting phase for the next 25 seconds.
 ### Window knocking
 - Ghosts can occasionally knock on windows. When they do, they create fingerprint evidence on the window, and create a Ghost Interaction EMF (Level 2) on the window
 
