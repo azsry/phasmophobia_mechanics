@@ -59,7 +59,8 @@
 - Intermediate is 1.5 difficulty
 - Professional is 2 difficulty
 ### Sanity
-- Game internally uses insanity, which is then displayed as sanity in the truck as (100 - insanity) + Random.Range(-2, 3)
+- Game internally uses insanity, which is then displayed as sanity in the truck as `(100 - insanity) + Random.Range(-2, 3)`  
+  for the sake of clarity, we will refer to sanity.
 
 - Small map
   - Normal drop rate: 0.12
@@ -74,23 +75,22 @@
 - Solo games (that are not a tutorial)
   - Drop rates from above / 2
 
-- Insanity
-  - Capped at 50 during setup phase
-  - Uncapped to 100 during regular play
-  - Increases every frame by ((deltaTime * setup/normal drop rate) * difficulty rate (below))
-  - Insanity does not increase when you are in light or are outside the house
+- Mechanics
+  - Cannot go below 50 during setup phase
+  - Decreases every frame by ((deltaTime * setup/normal drop rate) * difficulty rate (below))
+  - Sanity does not decrease when you are in light or are outside the house
   - Light status updates every 2 seconds
-  - Insanity level is synced to other players every 5 seconds
-  - Being within 3m of a Jinn instantly increases your insanity by 25%
-  - Entering a recognised phrase into a Ouija Board has a 1-in-3 chance of increasing your insanity by 40%
-  - Sanity pills decrease your insanity by 40%
-  - Poltergeists increase your insanity by double the number of props they are allowed to move
-- If the ghost is visible, or is in hunting phase, and is within 10m of the player, the player's insanity raises by deltaTime (time since last frame) * sanity drain strength
-    - Ghosts have a default sanity drain factor of 0.2
-    - Phantoms have a sanity draining strength of 0.4
+  - Sanity level is synced to other players every 5 seconds
+  - Being within 3m of a Jinn instantly decreases your sanity by 25%
+  - Entering a recognised phrase into a Ouija Board has a 1-in-3 chance of decreasing your sanity by 40%
+  - Sanity pills increase your sanity by 40%
+  - Poltergeists decrease your sanity by double the number of props they are allowed to move
+  - If the ghost is visible, or is in hunting phase, and is within 10m of the player, the player's sanity decreses by deltaTime (time since last frame) * sanity drain strength
+  - Ghosts have a default sanity drain factor of 0.2
+  - Yurei have a sanity draining strength of 0.4
 
 #### Sanity effects
-- The game will attempt to spawn ghosts at a window when the player is inside the house at a random interval between 10s and 30s if the player's insanity is above 50, otherwise at a random interval between 10s and 20s.
+- The game will attempt to spawn ghosts at a window when the player is inside the house at a random interval between 10s and 30s if the player's sanity is below 50, otherwise at a random interval between 10s and 20s.
 - This ghost will start far away from the window and dash towards the window until it is 0.2m away, then disappear
 
 ## Evidence
@@ -325,7 +325,7 @@ Poltergeists throw objects with a random force between ((-5, 5), (-2.5, 2.5), (-
 ##### Jinn
 - If the fusebox is off, Jinns will not enter their ability state, and will return to idle
 - Once the Jinn enters their ability state, it will wait 5 seconds before using the ability.
-- If a player is within 3m of the Jinn when it activates its ability, that player's insanity will increase by 25%.
+- If a player is within 3m of the Jinn when it activates its ability, that player's sanity will decrease by 25%.
 - A Ghost Interaction EMF (Level 2) will be created at the ghost's raycast point.
 - After a Jinn has used its ability, it cannot use it again for 100s
 ##### Phantom
@@ -335,13 +335,13 @@ Poltergeists throw objects with a random force between ((-5, 5), (-2.5, 2.5), (-
 ##### Poltergeist
 - If the Poltergeist has no props to interact with, it will return to idle phase
 - If there are props to interact with, the Poltergeist will throw *all* of them with a random force of ((-4,4), (-2,2), (-4,4)), and create a Ghost Throwing (Level 3) EMF at the thrown prop's location.
-- If the player was not in line-of-sight of the EMF spot when it spawned, the player's insanity will increase by 2x the number of props thrown
+- If the player was not in line-of-sight of the EMF spot when it spawned, the player's sanity will decrease by 2x the number of props thrown
 ##### Wraith
 - The Wraith will choose a random player
 - If the chosen player is outside the house, or dead, the Wraith will return to idle phase
 - If the chosen player is in the house and not dead, the Wraith will teleport to a spot within 3m of the chosen player, then return to idle phase
 ### Ghost interactions
-- Ghosts have a 5-in-12 chance of doing random interactions such as opening doors, throwing props, and writing in ghost books, after satisfying the insanity check above
+- Ghosts have a 5-in-12 chance of doing random interactions such as opening doors, throwing props, and writing in ghost books, after satisfying the sanity check above
 - Random ghost interactions, including sounds, turning on faucets, moving items, teleporting items, etc, do not generate EMF spots.
 - Being within 3m of a Jinn instantly drops your sanity by 25%
 
@@ -354,7 +354,7 @@ Poltergeists throw objects with a random force between ((-5, 5), (-2.5, 2.5), (-
   - slam doors shut, and create a Ghost Appeared (Level 4) EMF Spot
   - spawn a random player's model, play a scream if the spawned model or ghost is within 2m of the player
     - This one doesn't seem to be implemented, as the game contains code to select a random player model, but never uses it
-- A ghost event will _decrease_ a random player's insanity by 20% (not sure if this is intended)
+- A ghost event will _increase_ a random player's sanity by 20% (not sure if this is intended)
 ### Ghost phases
 Ghost phases are determined by average player sanity, multiplied by a hunting multiplier, and alternatively multiplied by an Oni or Wraith multiplier.
 #### In truck
@@ -372,9 +372,10 @@ Setup phase is when the timer in the truck is non-zero:
 
 #### Idle
 - All ghosts have an idle timer of 2-6 seconds, set when they return to an idle state
-- Once their idle timer has elapsed, the ghost has a 1-in-2 chance of attempting to enter a hunting phase, depending on the team's average insanity and the current hunting multiplier.
-  - If 50 < average player insanity + hunting multiplier < 75, the ghost has a 1-in-6 chance of entering hunting phase
-  - If average player insanity + hunting multiplier >= 75, the ghost has a 1-in-4 chance of entering hunting phase
+- Once their idle timer has elapsed, the ghost has a 1-in-2 chance of attempting to enter a hunting phase, depending on the team's average sanity and the current hunting multiplier.
+  - Average team sanity considers everyone in the game, not just those in the house
+  - If 50 > average player sanity + hunting multiplier > 25, the ghost has a 1-in-6 chance of entering hunting phase
+  - If average player sanity + hunting multiplier <= 25, the ghost has a 1-in-4 chance of entering hunting phase
 - If a random number generated between 0 and the ghost's random activity value (discussed in [Ghost Activity](#ghost-activity)) is greater than their current activity multiplier, the ghost has a 1-in-2 chance of doing an [interaction](#ghost-interactions), using their [ghost ability](#ghost-powers), or entering Wander phase.
 
 #### Wander
@@ -402,13 +403,13 @@ Setup phase is when the timer in the truck is non-zero:
   - Ghosts pick a player to chase at the start of a hunting phase. This changes during a phase if the target player leaves the ghost's line of sight, or for non-Banshees, if another player steps closer to the ghost than the previous target player.
   - While chasing a player, the ghost uses one raytrace to check for line of sight, from its raycastPoint to the player's head position. This means crouching behind objects may prove useful.
   - While not chasing a player, ghosts cast two rays to check for line of sight
-    - One ray directly from their raycastPoint (likely located near their head, but unknown at this time)
-    - If the direct ray fails, one ray 0.167m to the right of their raycastPoint
-    - If both of these raytraces fail, it will default to chasing the original target player
-    - If the ghost is not a Banshee, it will cast two rays at each player to check for line of sight
-      - One ray from their raycastPoint
-      - One ray 0.01m to the right of their raycastPoint
-    - If both of these raytraces fail, it will default to targeting the first non-dead player
+     - One ray directly from their raycastPoint (likely located near their head, but unknown at this time)
+     - If the direct ray fails, one ray 0.167m to the right of their raycastPoint
+     - If both of these raytraces fail, it will default to chasing the original target player
+     - If the ghost is not a Banshee, it will cast two rays at each player to check for line of sight
+        - One ray from their raycastPoint
+        - One ray 0.01m to the right of their raycastPoint
+     - If both of these raytraces fail, it will default to targeting the first non-dead player
   - A Ghost Appeared EMF (Level 3) reading will be created where they spawn
   - All entries to the house will be locked
   - If a crucifix is within 3m of the ghost (or 5m for banshees), the hunt will be cancelled, and the ghost will return to its favourite room.
@@ -416,7 +417,7 @@ Setup phase is when the timer in the truck is non-zero:
 
 - During hunting phases, the following occurs:
   - The ghost will start flickering the fusebox and all flashlights to indicate the successful start of a hunting phase (i.e. phase was not cancelled by anything listed above)
-  - Phantoms appear every 1-2 seconds, while all other ghost types appear every 0.3-1 seconds. 
+  - Phantoms are visible every 1-2 seconds, 0.3-1 seconds for all other ghost types. 
 
 - The ghost will return to its favourite room when the player they are targeting is dead.
 
@@ -456,7 +457,7 @@ The EMF Reader tells you different things about the ghost depending on what leve
 - A player must be within 5m of the board for it to work
 - Entering a recognised phrase into a Ouija Board has a 1-in-3 chance of doing all of the following:
     - flickering all lights in the player's room
-    - increasing your insanity by 40%
+    - decreasing your sanity by 40%
     - Ending setup phase
 - The ouija board responds to victim, age, dead, room amount, and location questions. The English questions are below. All languages can be found in localisation.csv found in this repository (Look for Ouija_ entries)
     - How old are you
@@ -494,7 +495,7 @@ The EMF Reader tells you different things about the ghost depending on what leve
     - Did you murder
     - Who did you murder
     - Who died
-- All ghosts besides Demons will increase your insanity by a random value between 5 and 10% upon receiving an answer
+- All ghosts besides Demons will decrease your sanity by a random value between 5 and 10% upon receiving an answer
 ### Photo camera
 - You must be within 5m of the evidence you are taking a photo of for it to count in your journal
 - Photos of journal evidence are detected via a raycast from your camera's world position to the evidence's world position. For it to register properly in your journal, ensure no one is standing between the camera and the evidence.
@@ -514,7 +515,7 @@ The EMF Reader tells you different things about the ghost depending on what leve
 - Ghosts do not affect salt spots during hunting phase
 
 ### Smudge Sticks
-- When a smudge stick is used (i.e. starts smoking), the game checks if the smudge stick is within 6m of the ghost. If this is the case, the ghost will will:
+- When a smudge stick is used (i.e. starts smoking), the game checks if the smudge stick is within 6m of the ghost. If this is the case, the ghost will:
   - add a random value between 20 and 30 to their activity multiplier, 
   - stop the ghost from hunting for 90s (or 180s for Spirits)
   - halt a hunting ghost for 5 seconds 
@@ -546,7 +547,7 @@ The EMF Reader tells you different things about the ghost depending on what leve
   - Thermometers
   - Torches
 ### Thermometer
-- As explained in [Freezing Temperatures](#freezing-temperatures), non-freezing temperature ghosts will drop a room down to 5C, and frezing temperature ghosts drop the room down ot -10C. Your thermometer shows values +- 2C from the actual value, so if you see any values below 3C (37.4F), you have a ghost with Freezing Temperatures.
+- As explained in [Freezing Temperatures](#freezing-temperatures), non-freezing temperature ghosts will drop a room down to 5C, and freezing temperature ghosts drop the room down to -10C. Your thermometer shows values +- 2C from the actual value, so if you see any values below 3C (37.4F), you have a ghost with Freezing Temperatures.
 - The thermometer shoots a 6m ray from the bottom of the handle, not the actual front of the gun, and displays the temperature for the location of the first thing the ray hit
 - If the 6m raycast fails, it will not update the temperature on the thermometer's display
 - This is a visual representation of 6m in the game:
