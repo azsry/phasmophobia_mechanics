@@ -1,6 +1,10 @@
 # Phasmophobia Mechanics
-#### Compiled by Azsry
-
+Thanks to the following people for spotting errors in this guide:
+- AeonLucid
+- DeceptivePastry
+- Kyle2142
+- u/Sowelu
+- zendabbq
 - [Phasmophobia Mechanics](#phasmophobia-mechanics)
       - [Compiled by Azsry](#compiled-by-azsry)
   - [General Gameplay](#general-gameplay)
@@ -59,8 +63,7 @@
 - Intermediate is 1.5 difficulty
 - Professional is 2 difficulty
 ### Sanity
-- Game internally uses insanity, which is then displayed as sanity in the truck as `(100 - insanity) + Random.Range(-2, 3)`  
-  for the sake of clarity, we will refer to sanity.
+- Game internally uses insanity, which is then displayed as sanity in the truck as `(100 - insanity) + Random.Range(-2, 3)`, but for the sake of clarity, we will refer to sanity.
 
 - Small map
   - Normal drop rate: 0.12
@@ -88,6 +91,7 @@
   - If the ghost is visible, or is in hunting phase, and is within 10m of the player, the player's sanity decreses by deltaTime (time since last frame) * sanity drain strength
   - Ghosts have a default sanity drain factor of 0.2
   - Yurei have a sanity draining strength of 0.4
+- Average team sanity used for hunting phase and activity calculations consider everyone in the game, not just those in the house
 
 #### Sanity effects
 - The game will attempt to spawn ghosts at a window when the player is inside the house at a random interval between 10s and 30s if the player's sanity is below 50, otherwise at a random interval between 10s and 20s.
@@ -95,7 +99,7 @@
 
 ## Evidence
 ### Dirty Water
-- Ghosts will use a tap and spawn dirty water as soon as they enter a bathroom
+- Ghosts in range of a sink will have the same chance of interacting with the sink as it does with throwing or interacting with any other object.
 - Ghosts leave a Ghost Interaction EMF (Level 2) on the sink
 
 ### Freezing Temperatures
@@ -191,7 +195,10 @@
 - Ghosts can close and lock doors randomly, which do NOT trigger Ghost Interaction EMFs.
 
 ### Favourite Rooms
-Ghosts stay in their favourite room for 30 seconds, then return to their idle phase
+- Ghosts stay in their favourite room before the front door is unlocked
+- Upon entering Favourite Room state, the ghost will check to see if it is within 0-0.5m of its favourite room, and move towards a random location if it is
+- The ghost will enter idle phase immediately after doing this distance check, regardless of its success.
+- If ghosts are stuck in favourite room state for 30 seconds, either due to getting stuck or reaching its destination, it will return to idle phase.
 ### Footsteps
 - Wraiths do not make black light footsteps after stepping on a salt pile
 - Wraiths have an additional Wraith multiplier set to 50 after stepping in salt, making it less likely to start a hunting phase
@@ -309,8 +316,8 @@ Ghosts stay in their favourite room for 30 seconds, then return to their idle ph
   - Increases by 10 to 25 on phrase recognition
   - Increases by 20-30 if a smudge stick is used within 6m of it
   - Decays by deltaTime (time since last frame) / 2 every frame, capped at 0
-- If a random number from 0 to \<random ability value\> (based on difficulty) is greater than or equal to their current activity level, including all ghost-specific multipliers, and an additional 15% if playing solo, they have a chance of interacting with objects, or going to their favourite room, appear, use the fusebox, etc.
-  - This means that a higher Ghost activity level, Oni/Wraith multiplier, and playing solo decreases the chance of the ghost interacting with the house
+- If a random number from 0 to \<random ability value\> (based on difficulty) is less than or equal to their current activity level, including all ghost-specific multipliers, and an additional 15% if playing solo, they have a chance of interacting with objects, or going to their favourite room, appear, use the fusebox, etc.
+  - This means that a higher Ghost activity level, Oni/Wraith multiplier, and playing solo increases the chance of the ghost interacting with the house
 
 - Ghosts can throw any prop around the house. A prop moving does not indicate the ghost being nearby.
 Poltergeists throw objects with a random force between ((-5, 5), (-2.5, 2.5), (-3, 3)), while other ghosts throw them with a random force between ((-2.5, 2.5), (-2, 2), (-2.5, 2.5))
@@ -320,14 +327,14 @@ Poltergeists throw objects with a random force between ((-5, 5), (-2.5, 2.5), (-
 - Ghosts that have specific behaviours (listed below) have a 2-in-12 chance of using their specific power on Amateur, and a 2-in-15 chance on other difficulties, once this state has been entered.
 ##### Banshee
 - If the Banshee's current target is outside the house, it will not use its ability
-- The Banshee will move onto the target player's position
-- The Banshee will wait 20s, then, if the target player is not visible, the Banshee will go into hunting phase. If the current game is a tutorial, it will go back to idle.
+- The Banshee will navigate to a spot close to the target player's position
+- The Banshee will wait 20s. If the target player enters line of sight during this navigation time, the Banshee will go into hunting phase. If the current game is a tutorial, it will go back to idle.
+- If the Banshee reaches its destination without spotting the target player, it will return to idle phase.
 ##### Jinn
 - If the fusebox is off, Jinns will not enter their ability state, and will return to idle
 - Once the Jinn enters their ability state, it will wait 5 seconds before using the ability.
-- If a player is within 3m of the Jinn when it activates its ability, that player's sanity will decrease by 25%.
+- All players will have their sanity decrease by 25%
 - A Ghost Interaction EMF (Level 2) will be created at the ghost's raycast point.
-- After a Jinn has used its ability, it cannot use it again for 100s
 ##### Phantom
 - The Phantom will navigate to a random player's location
 - The Phantom will create a Ghost Interaction (Level 2) EMF at its raycast point
@@ -335,7 +342,7 @@ Poltergeists throw objects with a random force between ((-5, 5), (-2.5, 2.5), (-
 ##### Poltergeist
 - If the Poltergeist has no props to interact with, it will return to idle phase
 - If there are props to interact with, the Poltergeist will throw *all* of them with a random force of ((-4,4), (-2,2), (-4,4)), and create a Ghost Throwing (Level 3) EMF at the thrown prop's location.
-- If the player was not in line-of-sight of the EMF spot when it spawned, the player's sanity will decrease by 2x the number of props thrown
+- If the player was in line-of-sight of the EMF spot when it spawned, the player's sanity will decrease by 2x the number of props thrown
 ##### Wraith
 - The Wraith will choose a random player
 - If the chosen player is outside the house, or dead, the Wraith will return to idle phase
@@ -373,7 +380,6 @@ Setup phase is when the timer in the truck is non-zero:
 #### Idle
 - All ghosts have an idle timer of 2-6 seconds, set when they return to an idle state
 - Once their idle timer has elapsed, the ghost has a 1-in-2 chance of attempting to enter a hunting phase, depending on the team's average sanity and the current hunting multiplier.
-  - Average team sanity considers everyone in the game, not just those in the house
   - If 50 > average player sanity + hunting multiplier > 25, the ghost has a 1-in-6 chance of entering hunting phase
   - If average player sanity + hunting multiplier <= 25, the ghost has a 1-in-4 chance of entering hunting phase
 - If a random number generated between 0 and the ghost's random activity value (discussed in [Ghost Activity](#ghost-activity)) is greater than their current activity multiplier, the ghost has a 1-in-2 chance of doing an [interaction](#ghost-interactions), using their [ghost ability](#ghost-powers), or entering Wander phase.
@@ -413,11 +419,12 @@ Setup phase is when the timer in the truck is non-zero:
   - A Ghost Appeared EMF (Level 3) reading will be created where they spawn
   - All entries to the house will be locked
   - If a crucifix is within 3m of the ghost (or 5m for banshees), the hunt will be cancelled, and the ghost will return to its favourite room.
-  - If the ghost is a shade and there is more than 1 player in the room, hunting phase will be cancelled, and the ghost will return to their favourite room.
+  - If the ghost is a shade and there is more than 1 player in the room, hunting phase will not initiate, and the ghost will return to their favourite room.
 
 - During hunting phases, the following occurs:
   - The ghost will start flickering the fusebox and all flashlights to indicate the successful start of a hunting phase (i.e. phase was not cancelled by anything listed above)
-  - Phantoms are visible every 1-2 seconds, 0.3-1 seconds for all other ghost types. 
+  - Phantoms are visible every 1-2 seconds, 0.3-1 seconds for all other ghost types.
+  - If all players leave the ghost's line of sight, and the ghost is not a Banshee, it will start wandering around the house.
 
 - The ghost will return to its favourite room when the player they are targeting is dead.
 
@@ -439,6 +446,7 @@ The EMF Reader tells you different things about the ghost depending on what leve
 - Level 2: The ghost interacted with whatever something near you
   - Level 2 EMF spots have a 1-in-4 chance of showing as EMF Level 5, if your ghost has EMF Level 5 as a trait
 - Level 3: The ghost recently threw something near you
+  - Level 3 EMF spots have a 1-in-4 chance of showing as EMF Level 5, if your ghost has EMF Level 5 as a trait
 - Level 4: The ghost appeared there recently
   - This happens at the beginning of hunting phases, and during random appearance events
 - Level 5: Simply used for evidence
