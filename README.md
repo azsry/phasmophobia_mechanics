@@ -90,7 +90,7 @@ Thanks to the following people for spotting errors in this guide:
   - Poltergeists decrease your sanity by double the number of props they are allowed to move
   - If the ghost is visible, or is in hunting phase, and is within 10m of the player, the player's sanity decreses by deltaTime (time since last frame) * sanity drain strength
   - Ghosts have a default sanity drain factor of 0.2
-  - Yurei have a sanity draining strength of 0.4
+  - Phantom have a sanity draining strength of 0.4
 - Average team sanity used for hunting phase and activity calculations consider everyone in the game, not just those in the house
 
 #### Sanity effects
