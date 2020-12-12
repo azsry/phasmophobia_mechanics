@@ -516,6 +516,7 @@ The EMF Reader tells you different things about the ghost depending on what leve
   - Ghosts
   - Dead bodies
   - Dirty water
+- The journal can hold up to 10 photos. Additional photos will NOT count toward cash rewards.
 - The game performs a simple ray cast from the camera's world position to the ghost's "raycastPoint", which may not be at its head. As a result, you should frame the entire ghost in your photos to complete the mission.
 - Phantoms disappear after having their photo taken. This removes their sanity draining effect as well.
 ### Salt
