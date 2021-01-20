@@ -514,7 +514,7 @@ The EMF Reader tells you different things about the ghost depending on what leve
   - Footsteps
   - DNA (Bone)
   - Ghosts
-  - Dead bodies
+  - Dead bodies (You do not need to take a picture in order to be granted insurance)
   - Dirty water
 - The journal can hold up to 10 photos. Additional photos will NOT count toward cash rewards.
 - The game performs a simple ray cast from the camera's world position to the ghost's "raycastPoint", which may not be at its head. As a result, you should frame the entire ghost in your photos to complete the mission.
@@ -556,7 +556,7 @@ The EMF Reader tells you different things about the ghost depending on what leve
   - Thermometers
   - Torches
 ### Thermometer
-- As explained in [Freezing Temperatures](#freezing-temperatures), non-freezing temperature ghosts will drop a room down to 5C, and freezing temperature ghosts drop the room down to -10C. Your thermometer shows values +- 2C from the actual value, so if you see any values below 3C (37.4F), you have a ghost with Freezing Temperatures.
+- As explained in [Freezing Temperatures](#freezing-temperatures), non-freezing temperature ghosts will drop a room down to 5C, and freezing temperature ghosts drop the room down to -10C. Your thermometer shows values +- 3C from the actual value, so if you see any values below 3C (37.4F), you have a ghost with Freezing Temperatures.
 - The thermometer shoots a 6m ray from the bottom of the handle, not the actual front of the gun, and displays the temperature for the location of the first thing the ray hit
 - If the 6m raycast fails, it will not update the temperature on the thermometer's display
 - This is a visual representation of 6m in the game:
@@ -569,3 +569,4 @@ The EMF Reader tells you different things about the ghost depending on what leve
 ### Insurance
 - The game grants you insurance if you die during a game
 - You are granted 1/2 the value of all items you brought into a contract when playing on Amateur, and 1/4 on Intermediate. There is no insurance on Professional.
+- You do not need to take a photo of a Dead Body for the person to be granted insurance (in Multiplayer).
