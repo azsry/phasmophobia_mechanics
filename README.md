@@ -440,6 +440,10 @@ Setup phase is when the timer in the truck is non-zero:
 ### Cameras
 - If a ghost enters the view of a camera (i.e. the ghost is in the same room as the camera) when the fusebox is off, and no lights in that room are on, the ghost will turn off the camera and leave a Ghost Interaction EMF (Level 2) on the camera.
 
+### Crosses
+- When the cross is thrown in the ground, you can stop the ghost from entering the hunting state within 3m (the Banshee range is 5m, and the cross does not play any role when held in the hand)
+- The cross can block 2 times the ghost into the hunting state, when the cross successfully prevent the ghost into the hunting state, one player's sanity will rise about 20%, after blocking 2 times the cross will disappear
+
 ### EMF Reader
 The EMF Reader tells you different things about the ghost depending on what level you detected:
 - Level 1: Default
