@@ -1,10 +1,14 @@
-# Phasmophobia Mechanics
+# Phasmophobia Mechanics (Beta)
+
+***This Guide is up to date as of Phasmaphobia build 6197011 released on Febuary 5th, 2021***
+
 Thanks to the following people for spotting errors in this guide:
 - AeonLucid
 - DeceptivePastry
 - Kyle2142
 - u/Sowelu
 - zendabbq
+
 - [Phasmophobia Mechanics](#phasmophobia-mechanics)
       - [Compiled by Azsry](#compiled-by-azsry)
   - [General Gameplay](#general-gameplay)
@@ -57,12 +61,15 @@ Thanks to the following people for spotting errors in this guide:
     - [Insurance](#insurance)
 
 ## General Gameplay
+
 ### Difficulty levels
-- Tutorial is 0.5 difficulty
-- Amateur is 1 difficulty
-- Intermediate is 1.5 difficulty
-- Professional is 2 difficulty
+
+- Amateur is 0 difficulty
+- Intermediate is 1 difficulty
+- Professional is 2, or greater difficulty
+
 ### Sanity
+
 - Game internally uses insanity, which is then displayed as sanity in the truck as `(100 - insanity) + Random.Range(-2, 3)`, but for the sake of clarity, we will refer to sanity.
 
 - Small map
