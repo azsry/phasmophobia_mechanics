@@ -59,12 +59,17 @@ Thanks to the following people for spotting errors in this guide:
     - [Insurance](#insurance)
 
 ## General Gameplay
+
 ### Difficulty levels
-- Tutorial is 0.5 difficulty
-- Amateur is 1 difficulty
-- Intermediate is 1.5 difficulty
+
+<!-- Source: LevelSelectionManager_u0924u0923u0923u091Du0928u091Fu0923u091Bu0924u0927u0923 -->
+
+- Amatuer is 0 difficulty
+- Intermediate is 1 difficulty
 - Professional is 2 difficulty
+
 ### Sanity
+
 - Game internally uses insanity, which is then displayed as sanity in the truck as `(100 - insanity) + Random.Range(-2, 3)`, but for the sake of clarity, we will refer to sanity.
 
 - Small map
