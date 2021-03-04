@@ -70,7 +70,21 @@ Thanks to the following people for spotting errors in this guide:
 
 ### Sanity
 
-- Game internally uses insanity, which is then displayed as sanity in the truck as `(100 - insanity) + Random.Range(-2, 3)`, but for the sake of clarity, we will refer to sanity.
+- Internally the game has switched to "Sanity" in most places, however some places still call it "Insanity". We will refer to it only as "Sanity" for clarity.
+
+<!-- TODO(a): find exact truck display function and double check this math. -->
+
+- Sanity is displayed in the truck as `(100 - insanity) + Random.Range(-2, 3)`, but for the sake of clarity, we will refer to sanity.
+
+<!-- Source: PlayerSanity__ctor, PlayerSanity_Start -->
+
+- Difficulty Rates:
+  - Tutorial: 0.5
+  - Amatuer: 1.0
+  - Intermediate: 1.5
+  - Professional: 2.0
+
+<!-- Source: PlayerSanity__ctor, PlayerSanity_Start -->
 
 - Small map
   - Normal drop rate: 0.12
@@ -82,22 +96,31 @@ Thanks to the following people for spotting errors in this guide:
   - Normal drop rate: 0.05
   - Setup drop rate: 0.03
 
+<!-- Source: PlayerSanity_Start -->
+
 - Solo games (that are not a tutorial)
-  - Drop rates from above / 2
+  - Map Setup Rate is halfed
+  - Map Normal Rate is halfed
 
 - Mechanics
+  <!-- Source: PlayerSanity_Update -->
   - Cannot go below 50 during setup phase
-  - Decreases every frame by ((deltaTime * setup/normal drop rate) * difficulty rate (below))
+  - Decreases every frame by ((timeSinceLastFrame * Map Drop Rate) * Difficulty Rate)
+  - Sanity level is synced to other players every 5 seconds
+  <!-- Source: SanityDrainer__ctor -->
+  - Ghosts have a default sanity drain factor of 0.2
+  - Phantom have a default sanity draining factor of 0.4
+  - Yurei's do not have any passive sanity draining factor.
+  <!-- Source: SanityDrainer_Update -->
+  - If the ghost is visible, or is in hunting phase, and is within 10m of the player, the player's sanity decreses by `timeSinceLastFrame * ghostSanityDrainFactor` strength.
   - Sanity does not decrease when you are in light or are outside the house
   - Light status updates every 2 seconds
-  - Sanity level is synced to other players every 5 seconds
   - Being within 3m of a Jinn instantly decreases your sanity by 25%
   - Entering a recognised phrase into a Ouija Board has a 1-in-3 chance of decreasing your sanity by 40%
   - Sanity pills increase your sanity by 40%
   - Poltergeists decrease your sanity by double the number of props they are allowed to move
-  - If the ghost is visible, or is in hunting phase, and is within 10m of the player, the player's sanity decreses by deltaTime (time since last frame) * sanity drain strength
-  - Ghosts have a default sanity drain factor of 0.2
-  - Phantom have a sanity draining strength of 0.4
+
+<!-- Source: GameController_GetAveragePlayerInsanity -->
 - Average team sanity used for hunting phase and activity calculations consider everyone in the game, not just those in the house
 
 #### Sanity effects
@@ -343,6 +366,7 @@ Poltergeists throw objects with a random force between ((-5, 5), (-2.5, 2.5), (-
 - All players will have their sanity decrease by 25%
 - A Ghost Interaction EMF (Level 2) will be created at the ghost's raycast point.
 ##### Phantom
+<!-- TODO(cynthia): move to info below when not doing one section at a time, Phantom internal ID is 3. -->
 - The Phantom will navigate to a random player's location
 - The Phantom will create a Ghost Interaction (Level 2) EMF at its raycast point
 - Once it reaches the random player's position, it will enter idle phase
