@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {Kun je spreken}
+ - {Phrase_2}: {Kan je met ons praten}
+ - {Phrase_3}: {Maak een geluid}
+ - {Phrase_4}: {Open een deur}
+ - {Phrase_5}: {Open deze deur}
+ - {Phrase_6}: {Doe de lichten aan}
+ - {Phrase_7}: {Doe de lichten uit}
+ - {Phrase_8}: {Zijn er spoken}
+ - {Phrase_9}: {Geef ons een teken}
+ - {Phrase_10}: {Laat ons zien}
+ - {Phrase_11}: {Laat ons weten dat je er bent}
+ - {Phrase_12}: {Doe iets}
+ - {Phrase_13}: {Is er iemand met mij}
+ - {Phrase_14}: {Schreeuw}
+ - {Phrase_15}: {Ben je alleen}
+ - {Phrase_16}: {Mogen wij spreken}
+ - {Phrase_17}: {Willen graag met je praten}
+ - {Phrase_18}: {Is er iemand hier}
+ - {Phrase_19}: {Mag ik jouw wat vragen}
+ - {Phrase_20}: {Wil je graag praten}
+ - {Phrase_21}: {Ben jij de enige hier}
+ - {Phrase_22}: {Ben je aan het wachten}
+ - {Phrase_23}: {Is er iets wat ik kan doen}
+ - {Phrase_24}: {Weet jij wie wij zijn}
+ - {Phrase_25}: {Ben je blij}
+ - {Phrase_26}: {Ben je altijd hier}
+ - {Phrase_27}: {Ben je een man of een vrouw}
+ - {Phrase_28}: {Zijn er kinderen hier}
+ - {Phrase_29}: {Wil je dat wij weggaan}
+ - {Phrase_30}: {Kan ik je wat vragen}
+ - {Phrase_31}: {Kan je een geluid maken}
+ - {Phrase_32}: {Laat jezelf zien}
+ - {Phrase_33}: {klop iets}
+ - {Phrase_34}: {Maak een gluid}
+ - {Phrase_35}: {Open de deur}
+ - {Phrase_36}: {Gooi iets}
+ - {Phrase_37}: {Praat met me}
+ - {Phrase_38}: {Praat met ons}
+ - {Phrase_39}: {Wij doen je geen kwaad}
+ - {Phrase_40}: {Wij zien vrienden}
+ - {Phrase_41}: {Is dit jouw huis}
+ - {Phrase_42}: {Kan je met ons praten}
+ - {Phrase_43}: {Ik ben bang}
+ - {Phrase_44}: {Ik ben bang}
+ - {Phrase_45}: {Bang}
+ - {Phrase_46}: {Eng}
+ - {Phrase_47}: {Spookachtig}
+ - {Phrase_48}: {horror}
+ - {Phrase_49}: {Bang}
+ - {Phrase_50}: {schrikken}
+ - {Phrase_51}: {Paniek}
+ - {Phrase_52}: {Schrikken}
+ - {Phrase_53}: {Verstop je}
+ - {Phrase_54}: {Ren}
+ - {Phrase_55}: {Laat uwzelf zien}
+ - {Phrase_56}: {Laat het ons zien}
+ - {Phrase_57}: {Laat het mij zien}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {Wie heb je vermoord}
+ - {Ouija_Victim2}: {Wie is jouw slachtoffer}
+ - {Ouija_Victim3}: {Wat is de naam van jouw slachtoffer}
+ - {Ouija_Victim4}: {Wat is de naam van de persoon die je heb vermoord}
+ - {Ouija_Victim5}: {Wat is jouw slachtoffer}
+ - {Ouija_Victim6}: {Heb je vermoord}
+ - {Ouija_Victim7}: {Wie heb je vermoord}
+ - {Ouija_Victim8}: {Wie is er dood}
+ - {Ouija_Age1}: {Hoe oud ben je}
+ - {Ouija_Age2}: {Hoe oud ben je}
+ - {Ouija_Age3}: {Ben je oud}
+ - {Ouija_Age4}: {Ben je jong}
+ - {Ouija_Dead1}: {Hoe lang ben je al dood}
+ - {Ouija_Dead2}: {Hoeveel jaar geleden ben je overleden}
+ - {Ouija_Dead3}: {Hoe lang ben je hier al}
+ - {Ouija_Dead4}: {Hoelang geleden ben je overleden}
+ - {Ouija_Dead5}: {Wanneer ben je overleden}
+ - {Ouija_RoomAmount1}: {Hoeveel zijn er in deze kamer}
+ - {Ouija_RoomAmount2}: {Hoevbeel mensen zijn er in deze kamer}
+ - {Ouija_RoomAmount3}: {Hoeveel mensen zijn er}
+ - {Ouija_RoomAmount4}: {Hoeveel geesten zijn er in deze kamer}
+ - {Ouija_RoomAmount5}: {Hoeveel spoken zijn er hier}
+ - {Ouija_RoomAmount6}: {Ben je alleen}
+ - {Ouija_RoomAmount7}: {Zijn wiij alleen}
+ - {Ouija_RoomAmount8}: {Wie is er hier}
+ - {Ouija_RoomAmount9}: {Wie is in deze kamer}
+ - {Ouija_Location1}: {Waar ben je}
+ - {Ouija_Location2}: {Wat is jouw favourite kamer}
+ - {Ouija_Location3}: {Waar is jouw kamer}
+ - {Ouija_Location4}: {Wat is jouw kamer}
+ - {Ouija_Location5}: {Ban je hier}
+ - {Ouija_Location6}: {Ben je dichtbij}
+ - {Ouija_Location7}: {Zijn er spoken}
+ - {Ouija_Location8}: {Ben je naarbij}
+ - {Ouija_Location9}: {Ben je in de buurt}
+EVP Recorder Questions:
+ - {Q_What do you want}: {Wat wilt U}
+ - {Q_Why are you here}: {Waarom bent U hier}
+ - {Q_Do you want to hurt us}: {Wilt U ons pijn doen}
+ - {Q_Are you angry}: {Bent U boos}
+ - {Q_Do you want us here}: {Wilt U ons hier hebben}
+ - {Q_Shall we leave}: {Zullen wij weg gaan}
+ - {Q_Should we leave}: {Zullen wij vertrekken}
+ - {Q_Do you want us to leave}: {Wilt U dat wij weggaan}
+ - {Q_What should we do}: {Wat moeten wij doen}
+ - {Q_Can we help}: {Kunnen wij helpen}
+ - {Q_Are you friendly}: {Bent U vriendelijk}
+ - {Q_What are you}: {Wat bent U}
+ - {Q_Where are you}: {Waar bent U}
+ - {Q_Are you close}: {Bent U dichtbij}
+ - {Q_Can you show yourself}: {Kunt U Uwzelf laten zien?}
+ - {Q_Give us a sign}: {Geef ons een teken}
+ - {Q_Let us know you are here}: {Laat ons weten dat U er bent}
+ - {Q_Show yourself}: {Laat Uwzelf zien}
+ - {Q_Can you talk}: {Kunt U spreken}
+ - {Q_Speak to us}: {Spreek met ons}
+ - {Q_Are you here}: {Bent U hier}
+ - {Q_Are you with us}: {Bent U  hier bij ons}
+ - {Q_Anybody with us}: {Iemand bij ons}
+ - {Q_Is anyone here}: {Is er iemand}
+ - {Q_Anybody in the room}: {Is er iemand in de kamer}
+ - {Q_Anybody here}: {Iemand hier}
+ - {Q_Is there a spirit here}: {Is er een Spook hier}
+ - {Q_Is there a Ghost here}: {Is er een Geest hier}
+ - {Q_What is your location}: {Wat is Uw locatie}
+ - {Q_Are you a girl}: {Bent U een meisje}
+ - {Q_Are you a boy}: {Bent U een jongen}
+ - {Q_Are you male}: {Bent U een man}
+ - {Q_Are you female}: {Bent U een vrouw}
+ - {Q_Who are you}: {Wie bent U}
+ - {Q_What are you}: {Wat bent U}
+ - {Q_Who is this}: {Wie is dit}
+ - {Q_Who are we talking to}: {Met wie praten wij}
+ - {Q_Who am I talking to}: {Met wie praat ik}
+ - {Q_Hello}: {Hallo}
+ - {Q_What is your name}: {Wat is Uw naam}
+ - {Q_Can you give me your name}: {Kunt U Uw naam geven}
+ - {Q_What is your gender}: {Wat is Uw geslacht}
+ - {Q_What gender}: {Welk geslacht}
+ - {Q_Are you male or female}: {Bent U een man of een vrouw}
+ - {Q_Are you a man}: {Bent U een man}
+ - {Q_Are you a woman}: {Bent U een vrouw}
+ - {Q_How old are you}: {Hoe oud bent u}
+ - {Q_How young are you}: {Hoe jong bent U}
+ - {Q_What is your age}: {Wat is Uw leeftijd}
+ - {Q_When were you born}: {Waar bent U geboren}
+ - {Q_Are you a child}: {Bent U een kind}
+ - {Q_Are you old}: {Bent U oud}
+ - {Q_Are you young}: {Bent U jong}

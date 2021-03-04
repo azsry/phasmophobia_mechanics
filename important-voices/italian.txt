@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {Puoi parlare}
+ - {Phrase_2}: {Puoi parlare con noi}
+ - {Phrase_3}: {Fai rumore}
+ - {Phrase_4}: {Apri una porta}
+ - {Phrase_5}: {Apri questa porta}
+ - {Phrase_6}: {Accendi la luce}
+ - {Phrase_7}: {Spegni la luce}
+ - {Phrase_8}: {Ci sono i fantasmi}
+ - {Phrase_9}: {Dacci un segno}
+ - {Phrase_10}: {Mostraci}
+ - {Phrase_11}: {Facci sepere se tu sei qui}
+ - {Phrase_12}: {Fai qualcosa}
+ - {Phrase_13}: {C'è qualcuno con me}
+ - {Phrase_14}: {Urla}
+ - {Phrase_15}: {Sei solo}
+ - {Phrase_16}: {Possiamo parlare}
+ - {Phrase_17}: {vorrebbe parlare con te}
+ - {Phrase_18}: {C'è nessuno qui}
+ - {Phrase_19}: {Posso chiederti}
+ - {Phrase_20}: {Vuoi parlare}
+ - {Phrase_21}: {Sei l'unico qui}
+ - {Phrase_22}: {Stai aspettando}
+ - {Phrase_23}: {C'è qualcosa che posso fare}
+ - {Phrase_24}: {Sai chi siamo}
+ - {Phrase_25}: {Sei felice}
+ - {Phrase_26}: {Sei qui tutto il tempo}
+ - {Phrase_27}: {Sei maschio o femmina}
+ - {Phrase_28}: {Ci sono bambini qui}
+ - {Phrase_29}: {Vuoi che ce ne andiamo}
+ - {Phrase_30}: {Posso chiederti}
+ - {Phrase_31}: {Puoi fare rumore}
+ - {Phrase_32}: {Mostraci la tua presenza}
+ - {Phrase_33}: {Butta qualcosa}
+ - {Phrase_34}: {Fai rumore}
+ - {Phrase_35}: {Apri la porta}
+ - {Phrase_36}: {Tira qualcosa}
+ - {Phrase_37}: {Parla con me}
+ - {Phrase_38}: {Parla con noi}
+ - {Phrase_39}: {Non vogliamo farti del male}
+ - {Phrase_40}: {Siamo amici}
+ - {Phrase_41}: {Questa è casa tua}
+ - {Phrase_42}: {Puoi parlare con noi}
+ - {Phrase_43}: {Sono spaventato}
+ - {Phrase_44}: {Sono spaventato}
+ - {Phrase_45}: {impaurito}
+ - {Phrase_46}: {pauroso}
+ - {Phrase_47}: {spaventoso}
+ - {Phrase_48}: {Orrore}
+ - {Phrase_49}: {Spavento}
+ - {Phrase_50}: {Spaventare}
+ - {Phrase_51}: {panico}
+ - {Phrase_52}: {Paura}
+ - {Phrase_53}: {Nasconditi}
+ - {Phrase_54}: {Corri}
+ - {Phrase_55}: {Mostra la tua presenza}
+ - {Phrase_56}: {Mostraci}
+ - {Phrase_57}: {Fammi vedere}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {Chi hai ucciso}
+ - {Ouija_Victim2}: {Chi è la tua vittima}
+ - {Ouija_Victim3}: {Qual è il nome della persona che hai ucciso}
+ - {Ouija_Victim4}: {Qual è il nome della persona che hai assassinato}
+ - {Ouija_Victim5}: {Chi è la tua vittima}
+ - {Ouija_Victim6}: {Hai ucciso}
+ - {Ouija_Victim7}: {Chi hai ucciso}
+ - {Ouija_Victim8}: {Chi è morto}
+ - {Ouija_Age1}: {Quanti anni hai}
+ - {Ouija_Age2}: {Qual è la tua età}
+ - {Ouija_Age3}: {Sei vecchio}
+ - {Ouija_Age4}: {Sei giovane}
+ - {Ouija_Dead1}: {Da quanto tempo sei stato morto}
+ - {Ouija_Dead2}: {Quanti anni fa sei morto}
+ - {Ouija_Dead3}: {Quanto tempo sei stato qui}
+ - {Ouija_Dead4}: {Quanto tempo fa sei morto}
+ - {Ouija_Dead5}: {Quando sei morto}
+ - {Ouija_RoomAmount1}: {Quanti sono in questa stanza}
+ - {Ouija_RoomAmount2}: {Quante persone sono in questa stanza}
+ - {Ouija_RoomAmount3}: {Quante persone sono qui}
+ - {Ouija_RoomAmount4}: {Quanti fantasmi sono in questa stanza}
+ - {Ouija_RoomAmount5}: {Quanti fantasmi sono qui}
+ - {Ouija_RoomAmount6}: {Sei solo}
+ - {Ouija_RoomAmount7}: {Siamo soli}
+ - {Ouija_RoomAmount8}: {Chi è qui}
+ - {Ouija_RoomAmount9}: {Chi è in questa stanza}
+ - {Ouija_Location1}: {Dove sei}
+ - {Ouija_Location2}: {Qual è la tua stanza preferita}
+ - {Ouija_Location3}: {Dove è la tua stanza}
+ - {Ouija_Location4}: {Qual è la tua stanza}
+ - {Ouija_Location5}: {Sei qui}
+ - {Ouija_Location6}: {Sei vicino}
+ - {Ouija_Location7}: {Ci sono spiriti}
+ - {Ouija_Location8}: {Sei vicino}
+ - {Ouija_Location9}: {Sei in giro}
+EVP Recorder Questions:
+ - {Q_What do you want}: {Cosa vuoi}
+ - {Q_Why are you here}: {Perché sei qui}
+ - {Q_Do you want to hurt us}: {Vuoi farci del male}
+ - {Q_Are you angry}: {Sei arrabbiato}
+ - {Q_Do you want us here}: {Ci vuoi qui}
+ - {Q_Shall we leave}: {Dovremmo andarcene}
+ - {Q_Should we leave}: {Dovremmo andarcene}
+ - {Q_Do you want us to leave}: {Vuoi che ce ne andiamo}
+ - {Q_What should we do}: {Cosa dovremmo fare}
+ - {Q_Can we help}: {Possiamo aiutarti}
+ - {Q_Are you friendly}: {Sei amichevole}
+ - {Q_What are you}: {Che cosa sei}
+ - {Q_Where are you}: {Dove sei}
+ - {Q_Are you close}: {Sei vicino}
+ - {Q_Can you show yourself}: {Puoi mostrarti}
+ - {Q_Give us a sign}: {Dacci un segno}
+ - {Q_Let us know you are here}: {Facci sapere se sei qui}
+ - {Q_Show yourself}: {Mostrati}
+ - {Q_Can you talk}: {Puoi parlare}
+ - {Q_Speak to us}: {Parlaci}
+ - {Q_Are you here}: {Sei qui}
+ - {Q_Are you with us}: {Sei con noi}
+ - {Q_Anybody with us}: {C'è nessuno qui}
+ - {Q_Is anyone here}: {C'è qualcuno qui}
+ - {Q_Anybody in the room}: {C'è nessuno in questa stanza}
+ - {Q_Anybody here}: {C'è nessuno}
+ - {Q_Is there a spirit here}: {C'è uno spirito qui}
+ - {Q_Is there a Ghost here}: {C'è un fantasma qui}
+ - {Q_What is your location}: {Qual è la tua posizione}
+ - {Q_Are you a girl}: {Sei una ragazza}
+ - {Q_Are you a boy}: {Sei un ragazzo}
+ - {Q_Are you male}: {Sei maschio}
+ - {Q_Are you female}: {Sei femmina}
+ - {Q_Who are you}: {Tu chi sei}
+ - {Q_What are you}: {Che cosa sei}
+ - {Q_Who is this}: {Chi è}
+ - {Q_Who are we talking to}: {Con chi stiamo parlando}
+ - {Q_Who am I talking to}: {A chi sto parlando}
+ - {Q_Hello}: {Ciao}
+ - {Q_What is your name}: {Come ti chiami}
+ - {Q_Can you give me your name}: {Mi puoi dire il tuo nome}
+ - {Q_What is your gender}: {Qual è il tuo sesso}
+ - {Q_What gender}: {Che sesso}
+ - {Q_Are you male or female}: {Sei maschio o femmina}
+ - {Q_Are you a man}: {Sei un uomo}
+ - {Q_Are you a woman}: {Sei una donna}
+ - {Q_How old are you}: {Quanti anni hai}
+ - {Q_How young are you}: {Quanto sei giovane}
+ - {Q_What is your age}: {Quanti anni hai}
+ - {Q_When were you born}: {Quando sei nato}
+ - {Q_Are you a child}: {Sei un bambino}
+ - {Q_Are you old}: {Sei vecchio}
+ - {Q_Are you young}: {Sei giovane}

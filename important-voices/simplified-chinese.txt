@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {你能说话吗}
+ - {Phrase_2}: {你能和我们说话吗}
+ - {Phrase_3}: {搞出点动静}
+ - {Phrase_4}: {开门}
+ - {Phrase_5}: {打开这扇门}
+ - {Phrase_6}: {开灯}
+ - {Phrase_7}: {关灯}
+ - {Phrase_8}: {有其它的鬼在吗}
+ - {Phrase_9}: {给我们个信号}
+ - {Phrase_10}: {露面吧}
+ - {Phrase_11}: {让我们知道你在这里}
+ - {Phrase_12}: {做点什么}
+ - {Phrase_13}: {有人吗}
+ - {Phrase_14}: {尖叫}
+ - {Phrase_15}: {你一个人吗}
+ - {Phrase_16}: {我们可以聊一聊么}
+ - {Phrase_17}: {我想和你聊聊天}
+ - {Phrase_18}: {有人吗}
+ - {Phrase_19}: {可以问一下你吗}
+ - {Phrase_20}: {你想聊聊吗}
+ - {Phrase_21}: {这里只有你吗}
+ - {Phrase_22}: {你是在等待吗}
+ - {Phrase_23}: {我能做什么}
+ - {Phrase_24}: {你知道我们是谁吗}
+ - {Phrase_25}: {你快乐吗}
+ - {Phrase_26}: {你一直在这吗}
+ - {Phrase_27}: {你是男性还是女性}
+ - {Phrase_28}: {这里有小孩吗}
+ - {Phrase_29}: {你想要让我们离开吗}
+ - {Phrase_30}: {我可以问你吗}
+ - {Phrase_31}: {你能说话吗}
+ - {Phrase_32}: {让我们看看你的存在}
+ - {Phrase_33}: {敲门}
+ - {Phrase_34}: {做点声音}
+ - {Phrase_35}: {开门}
+ - {Phrase_36}: {扔东西}
+ - {Phrase_37}: {跟我说话}
+ - {Phrase_38}: {与我们交谈}
+ - {Phrase_39}: {我们对你没有恶意}
+ - {Phrase_40}: {我们是朋友}
+ - {Phrase_41}: {这里是你的家吗}
+ - {Phrase_42}: {你可以和我们说话吗}
+ - {Phrase_43}: {我很害怕}
+ - {Phrase_44}: {我好害怕}
+ - {Phrase_45}: {害怕}
+ - {Phrase_46}: {好恐怖}
+ - {Phrase_47}: {好诡异}
+ - {Phrase_48}: {恐怖}
+ - {Phrase_49}: {怕怕}
+ - {Phrase_50}: {吓唬}
+ - {Phrase_51}: {恐慌}
+ - {Phrase_52}: {惊恐}
+ - {Phrase_53}: {躲起来}
+ - {Phrase_54}: {快跑}
+ - {Phrase_55}: {现身吧}
+ - {Phrase_56}: {显灵吧}
+ - {Phrase_57}: {让我看看}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {你杀了谁}
+ - {Ouija_Victim2}: {你要杀谁}
+ - {Ouija_Victim3}: {你杀的人叫什么名字}
+ - {Ouija_Victim4}: {你杀的人的名字是什么}
+ - {Ouija_Victim5}: {你想杀谁}
+ - {Ouija_Victim6}: {你杀过人吗}
+ - {Ouija_Victim7}: {你曾杀过谁}
+ - {Ouija_Victim8}: {谁死了}
+ - {Ouija_Age1}: {你今年多大}
+ - {Ouija_Age2}: {您贵庚}
+ - {Ouija_Age3}: {你是老年人吗}
+ - {Ouija_Age4}: {你是年轻人吗}
+ - {Ouija_Dead1}: {你死了多久了}
+ - {Ouija_Dead2}: {你是几年前死的}
+ - {Ouija_Dead3}: {你在这里多久了}
+ - {Ouija_Dead4}: {你是多久前死的}
+ - {Ouija_Dead5}: {你什么时候死的}
+ - {Ouija_RoomAmount1}: {这个房间里有多少}
+ - {Ouija_RoomAmount2}: {这个房间里有多少人}
+ - {Ouija_RoomAmount3}: {这里有多少人}
+ - {Ouija_RoomAmount4}: {这屋里有几只鬼}
+ - {Ouija_RoomAmount5}: {这里有多少个鬼}
+ - {Ouija_RoomAmount6}: {你一个人吗}
+ - {Ouija_RoomAmount7}: {这里只有我们吗}
+ - {Ouija_RoomAmount8}: {谁在这里}
+ - {Ouija_RoomAmount9}: {谁在这个房间里}
+ - {Ouija_Location1}: {你在哪里}
+ - {Ouija_Location2}: {你最喜欢哪个房间}
+ - {Ouija_Location3}: {哪里是你的房间}
+ - {Ouija_Location4}: {你在的房间叫什么}
+ - {Ouija_Location5}: {你在这里吗}
+ - {Ouija_Location6}: {你离我很近吗}
+ - {Ouija_Location7}: {有鬼在吗}
+ - {Ouija_Location8}: {你在附近吗}
+ - {Ouija_Location9}: {你在周围吗}
+EVP Recorder Questions:
+ - {Q_What do you want}: {你想要什么}
+ - {Q_Why are you here}: {你为什么在这}
+ - {Q_Do you want to hurt us}: {你想伤害我们吗}
+ - {Q_Are you angry}: {你在生气吗}
+ - {Q_Do you want us here}: {你要我们在这里吗}
+ - {Q_Shall we leave}: {我们要离开吗}
+ - {Q_Should we leave}: {我们该离开吗}
+ - {Q_Do you want us to leave}: {你想让我们离开吗}
+ - {Q_What should we do}: {我们应该做什么}
+ - {Q_Can we help}: {我们可以帮你吗}
+ - {Q_Are you friendly}: {你友善吗}
+ - {Q_What are you}: {你是做什么的}
+ - {Q_Where are you}: {你在哪里}
+ - {Q_Are you close}: {你离我们很近吗}
+ - {Q_Can you show yourself}: {你能现身吗}
+ - {Q_Give us a sign}: {给我们个信号}
+ - {Q_Let us know you are here}: {让我们知道你在这里}
+ - {Q_Show yourself}: {现身吧}
+ - {Q_Can you talk}: {你现在方便说话吗}
+ - {Q_Speak to us}: {和我们说话吧}
+ - {Q_Are you here}: {你在这里吗}
+ - {Q_Are you with us}: {你在吗}
+ - {Q_Anybody with us}: {有人和我们在吗}
+ - {Q_Is anyone here}: {这有人在吗}
+ - {Q_Anybody in the room}: {有人在房间里吗}
+ - {Q_Anybody here}: {有人在吗}
+ - {Q_Is there a spirit here}: {这里有鬼魂吗}
+ - {Q_Is there a Ghost here}: {是否有一个幽灵在这里}
+ - {Q_What is your location}: {你在什么位置}
+ - {Q_Are you a girl}: {你是女孩吗}
+ - {Q_Are you a boy}: {你是男孩吗}
+ - {Q_Are you male}: {你是男的吗}
+ - {Q_Are you female}: {你是女的吗}
+ - {Q_Who are you}: {你是谁}
+ - {Q_What are you}: {你是做什么的}
+ - {Q_Who is this}: {是谁}
+ - {Q_Who are we talking to}: {我们在和谁说话}
+ - {Q_Who am I talking to}: {我在和谁说话}
+ - {Q_Hello}: {你好}
+ - {Q_What is your name}: {你叫什么名字}
+ - {Q_Can you give me your name}: {能告诉我你的名字吗}
+ - {Q_What is your gender}: {你的性别是什么}
+ - {Q_What gender}: {男的女的}
+ - {Q_Are you male or female}: {你是男的还是女的}
+ - {Q_Are you a man}: {你是男人吗}
+ - {Q_Are you a woman}: {你是女人吗}
+ - {Q_How old are you}: {你多大了}
+ - {Q_How young are you}: {你有多年轻}
+ - {Q_What is your age}: {贵庚}
+ - {Q_When were you born}: {你是什​​么时候出生的}
+ - {Q_Are you a child}: {你是小孩吗}
+ - {Q_Are you old}: {你是老人吗}
+ - {Q_Are you young}: {你是年轻人吗}

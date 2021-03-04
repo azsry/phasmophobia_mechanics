@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {Můžete mluvit}
+ - {Phrase_2}: {Můžete s námi mluvit}
+ - {Phrase_3}: {Udělej hluk}
+ - {Phrase_4}: {Otevři dveře}
+ - {Phrase_5}: {Otevři tyto dveře}
+ - {Phrase_6}: {Rozsviť světlo}
+ - {Phrase_7}: {Zhasni světlo}
+ - {Phrase_8}: {Jsou tu nějací duchové}
+ - {Phrase_9}: {Dej nám znamení}
+ - {Phrase_10}: {Ukaž nám}
+ - {Phrase_11}: {Dejte nám vědět, že jste tady}
+ - {Phrase_12}: {Udělej něco}
+ - {Phrase_13}: {Je tu někdo se mnou}
+ - {Phrase_14}: {Zakřič}
+ - {Phrase_15}: {Jsi sám}
+ - {Phrase_16}: {Můžeme mluvit}
+ - {Phrase_17}: {by s vámi rád mluvil}
+ - {Phrase_18}: {Je tu někdo}
+ - {Phrase_19}: {Mohu se zeptat}
+ - {Phrase_20}: {Chtěl by jsi mluvit}
+ - {Phrase_21}: {Jsi tu jediný}
+ - {Phrase_22}: {Čekáš}
+ - {Phrase_23}: {Existuje něco, co mohu udělat}
+ - {Phrase_24}: {Víš, kdo jsme}
+ - {Phrase_25}: {Jsi šťastný}
+ - {Phrase_26}: {Jsi zde po celou dobu}
+ - {Phrase_27}: {Jsi muž nebo žena}
+ - {Phrase_28}: {Jsou zde děti}
+ - {Phrase_29}: {Chcete, abychom odešli}
+ - {Phrase_30}: {Mohu se tě zeptat}
+ - {Phrase_31}: {Můžeš udělat zvuk}
+ - {Phrase_32}: {Ukaž nám svou přítomnost}
+ - {Phrase_33}: {Zaklepej na něco}
+ - {Phrase_34}: {Vydej zvuk}
+ - {Phrase_35}: {Otevři dveře}
+ - {Phrase_36}: {Hoď něčím}
+ - {Phrase_37}: {Mluv se mnou}
+ - {Phrase_38}: {Mluv s námi}
+ - {Phrase_39}: {Nechceme ti ublížit}
+ - {Phrase_40}: {Jsme přátelé}
+ - {Phrase_41}: {Je toto tvůj domov}
+ - {Phrase_42}: {Můžeš s námi mluvit}
+ - {Phrase_43}: {Bojím se}
+ - {Phrase_44}: {Bojím se}
+ - {Phrase_45}: {vyděšený}
+ - {Phrase_46}: {děsivý}
+ - {Phrase_47}: {strašidelný}
+ - {Phrase_48}: {Hrůza}
+ - {Phrase_49}: {Děs}
+ - {Phrase_50}: {Vystrašit}
+ - {Phrase_51}: {Panika}
+ - {Phrase_52}: {Zděšení}
+ - {Phrase_53}: {Ukrýt se}
+ - {Phrase_54}: {Útěk}
+ - {Phrase_55}: {Ukaž svou přítomnost}
+ - {Phrase_56}: {Ukaž nám}
+ - {Phrase_57}: {Ukaž mi}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {Koho jsi zabil}
+ - {Ouija_Victim2}: {Kdo je tvá oběť}
+ - {Ouija_Victim3}: {Jaký je jméno osoby, kterou jsi zabil}
+ - {Ouija_Victim4}: {Jaký je jméno osoby, kterou jsi zavraždil}
+ - {Ouija_Victim5}: {Co je tvá oběť}
+ - {Ouija_Victim6}: {Zavraždil jsi}
+ - {Ouija_Victim7}: {Koho jsi zavraždil}
+ - {Ouija_Victim8}: {Kdo umřel}
+ - {Ouija_Age1}: {Kolik je ti let}
+ - {Ouija_Age2}: {Jaký je tvůj věk}
+ - {Ouija_Age3}: {Jsi starý}
+ - {Ouija_Age4}: {Jsi mladý}
+ - {Ouija_Dead1}: {Jak dlouho jsi mrtvý}
+ - {Ouija_Dead2}: {Před kolika lety jsi umřel}
+ - {Ouija_Dead3}: {Jak dlouho tu jsi}
+ - {Ouija_Dead4}: {Jak je to dávno co jsi umřel}
+ - {Ouija_Dead5}: {Kdy jsi zemřel}
+ - {Ouija_RoomAmount1}: {Kolik je v této místnosti}
+ - {Ouija_RoomAmount2}: {Kolik lidí je v této místnosti}
+ - {Ouija_RoomAmount3}: {Kolik lidí je tady}
+ - {Ouija_RoomAmount4}: {Kolik duchů je v této místnosti}
+ - {Ouija_RoomAmount5}: {Kolik duchů je zde}
+ - {Ouija_RoomAmount6}: {Jsi sám}
+ - {Ouija_RoomAmount7}: {Jsme sami}
+ - {Ouija_RoomAmount8}: {Kdo je tady}
+ - {Ouija_RoomAmount9}: {Kdo je v tomto pokoji}
+ - {Ouija_Location1}: {Kde jsi}
+ - {Ouija_Location2}: {Jaký je tvá oblíbená místnost}
+ - {Ouija_Location3}: {Kde je tvá místnost}
+ - {Ouija_Location4}: {Jaká je tvá místnost}
+ - {Ouija_Location5}: {Jsi tu}
+ - {Ouija_Location6}: {Jsi blízko}
+ - {Ouija_Location7}: {Existují nějaké duše}
+ - {Ouija_Location8}: {Jsi blízko}
+ - {Ouija_Location9}: {Jsi tu poblíž}
+EVP Recorder Questions:
+ - {Q_What do you want}: {Co chceš}
+ - {Q_Why are you here}: {Proč jsi tady}
+ - {Q_Do you want to hurt us}: {Chceš nám ublížit}
+ - {Q_Are you angry}: {Jsi naštvaný}
+ - {Q_Do you want us here}: {Chceš nás tady}
+ - {Q_Shall we leave}: {Můžeme odejít}
+ - {Q_Should we leave}: {Měli bychom odejít}
+ - {Q_Do you want us to leave}: {Chceš, abychom odešli}
+ - {Q_What should we do}: {Co bychom měli dělat}
+ - {Q_Can we help}: {Můžeme pomoci}
+ - {Q_Are you friendly}: {Jsi přátelský}
+ - {Q_What are you}: {Co jsi zač}
+ - {Q_Where are you}: {Kde jsi}
+ - {Q_Are you close}: {Jsi blízko}
+ - {Q_Can you show yourself}: {Můžeš se ukázat}
+ - {Q_Give us a sign}: {Dej nám znamení}
+ - {Q_Let us know you are here}: {Dej nám vědět, že jsi tady}
+ - {Q_Show yourself}: {Ukaž se}
+ - {Q_Can you talk}: {Můžeš mluvit}
+ - {Q_Speak to us}: {Mluv s námi}
+ - {Q_Are you here}: {Jsi tu}
+ - {Q_Are you with us}: {Jsi s námi}
+ - {Q_Anybody with us}: {Je tu někdo s námi}
+ - {Q_Is anyone here}: {Je tu někdo}
+ - {Q_Anybody in the room}: {Je tu někdo v místnosti}
+ - {Q_Anybody here}: {Je tu někdo}
+ - {Q_Is there a spirit here}: {Je zde duše}
+ - {Q_Is there a Ghost here}: {Je zde duch}
+ - {Q_What is your location}: {Jaká je tvoje poloha}
+ - {Q_Are you a girl}: {Jsi holka}
+ - {Q_Are you a boy}: {Jsi kluk}
+ - {Q_Are you male}: {Jsi muž}
+ - {Q_Are you female}: {Jste žena}
+ - {Q_Who are you}: {Kdo jsi}
+ - {Q_What are you}: {Co jsi zač}
+ - {Q_Who is this}: {Kdo je to}
+ - {Q_Who are we talking to}: {S kým mluvíme}
+ - {Q_Who am I talking to}: {S kým mluvím}
+ - {Q_Hello}: {Ahoj}
+ - {Q_What is your name}: {Jak se jmenuješ}
+ - {Q_Can you give me your name}: {Můžeš mi říct své jméno}
+ - {Q_What is your gender}: {Jaké je tvé pohlaví}
+ - {Q_What gender}: {Jaké pohlaví}
+ - {Q_Are you male or female}: {Jsi muž nebo žena}
+ - {Q_Are you a man}: {Jsi muž}
+ - {Q_Are you a woman}: {Jsi žena}
+ - {Q_How old are you}: {Kolik je ti let}
+ - {Q_How young are you}: {Jak jsi mladý}
+ - {Q_What is your age}: {Jaký je tvůj věk}
+ - {Q_When were you born}: {Kdy ses narodil}
+ - {Q_Are you a child}: {Jsi dítě}
+ - {Q_Are you old}: {Jsi starý}
+ - {Q_Are you young}: {Jsi mladý}

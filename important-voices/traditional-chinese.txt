@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {你能說話嗎}
+ - {Phrase_2}: {你能和我們說話嗎}
+ - {Phrase_3}: {搞出點動靜}
+ - {Phrase_4}: {開門}
+ - {Phrase_5}: {打開這扇門}
+ - {Phrase_6}: {開燈}
+ - {Phrase_7}: {關燈}
+ - {Phrase_8}: {有其它的鬼在嗎}
+ - {Phrase_9}: {給我們個信號}
+ - {Phrase_10}: {露面吧}
+ - {Phrase_11}: {讓我們知道你在這裡}
+ - {Phrase_12}: {做點什麼}
+ - {Phrase_13}: {有人嗎}
+ - {Phrase_14}: {尖叫}
+ - {Phrase_15}: {你孤獨嗎}
+ - {Phrase_16}: {我們可以聊一聊麼}
+ - {Phrase_17}: {我想和你聊聊天}
+ - {Phrase_18}: {有人嗎}
+ - {Phrase_19}: {可以問一下你嗎}
+ - {Phrase_20}: {你想聊聊嗎}
+ - {Phrase_21}: {這裡只有你嗎}
+ - {Phrase_22}: {你是在等待嗎}
+ - {Phrase_23}: {我能做什麼}
+ - {Phrase_24}: {你知道我們是誰嗎}
+ - {Phrase_25}: {你快樂嗎}
+ - {Phrase_26}: {你一直在這嗎}
+ - {Phrase_27}: {你是男性還是女性}
+ - {Phrase_28}: {這裡有小孩嗎}
+ - {Phrase_29}: {你想要讓我們離開嗎}
+ - {Phrase_30}: {我可以問你嗎}
+ - {Phrase_31}: {你能說話嗎}
+ - {Phrase_32}: {讓我們看看你的存在}
+ - {Phrase_33}: {敲門}
+ - {Phrase_34}: {做點聲音}
+ - {Phrase_35}: {開門}
+ - {Phrase_36}: {扔東西}
+ - {Phrase_37}: {跟我說話}
+ - {Phrase_38}: {與我們交談}
+ - {Phrase_39}: {我們對你沒有惡意}
+ - {Phrase_40}: {我們是朋友}
+ - {Phrase_41}: {這裡是你的家嗎}
+ - {Phrase_42}: {你可以和我們說話嗎}
+ - {Phrase_43}: {我很害怕}
+ - {Phrase_44}: {我好害怕}
+ - {Phrase_45}: {害怕}
+ - {Phrase_46}: {好恐怖}
+ - {Phrase_47}: {好詭異}
+ - {Phrase_48}: {恐怖}
+ - {Phrase_49}: {怕怕}
+ - {Phrase_50}: {嚇唬}
+ - {Phrase_51}: {恐慌}
+ - {Phrase_52}: {驚恐}
+ - {Phrase_53}: {躲起來}
+ - {Phrase_54}: {快跑}
+ - {Phrase_55}: {現身吧}
+ - {Phrase_56}: {顯靈吧}
+ - {Phrase_57}: {讓我看看}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {你殺了誰}
+ - {Ouija_Victim2}: {你要殺誰}
+ - {Ouija_Victim3}: {你殺的人叫什麼名字}
+ - {Ouija_Victim4}: {你殺的人的名字是什麼}
+ - {Ouija_Victim5}: {你想殺誰}
+ - {Ouija_Victim6}: {你殺過人嗎}
+ - {Ouija_Victim7}: {你曾殺過誰}
+ - {Ouija_Victim8}: {誰死了}
+ - {Ouija_Age1}: {你幾歲}
+ - {Ouija_Age2}: {您貴庚}
+ - {Ouija_Age3}: {你是老年人嗎}
+ - {Ouija_Age4}: {你是年輕人嗎}
+ - {Ouija_Dead1}: {你死了多久了}
+ - {Ouija_Dead2}: {你是幾年前死的}
+ - {Ouija_Dead3}: {你在這裡多久了}
+ - {Ouija_Dead4}: {你是多久前死的}
+ - {Ouija_Dead5}: {你什麼時候死的}
+ - {Ouija_RoomAmount1}: {這個房間裡有多少}
+ - {Ouija_RoomAmount2}: {這個房間裡有多少人}
+ - {Ouija_RoomAmount3}: {這裡有多少人}
+ - {Ouija_RoomAmount4}: {這屋裡有幾隻鬼}
+ - {Ouija_RoomAmount5}: {這裡有多少個鬼}
+ - {Ouija_RoomAmount6}: {你孤獨嗎}
+ - {Ouija_RoomAmount7}: {這裡只有我們嗎}
+ - {Ouija_RoomAmount8}: {誰在這裡}
+ - {Ouija_RoomAmount9}: {誰在這個房間裡}
+ - {Ouija_Location1}: {你在哪裡}
+ - {Ouija_Location2}: {你最喜歡哪個房間}
+ - {Ouija_Location3}: {哪裡是你的房間}
+ - {Ouija_Location4}: {你在的房間叫什麼}
+ - {Ouija_Location5}: {你在這裡嗎}
+ - {Ouija_Location6}: {你離我很近嗎}
+ - {Ouija_Location7}: {有鬼在嗎}
+ - {Ouija_Location8}: {你在附近嗎}
+ - {Ouija_Location9}: {你在周圍嗎}
+EVP Recorder Questions:
+ - {Q_What do you want}: {你想要什麼}
+ - {Q_Why are you here}: {你為什麼在這}
+ - {Q_Do you want to hurt us}: {你想傷害我們嗎}
+ - {Q_Are you angry}: {你在生氣嗎}
+ - {Q_Do you want us here}: {你要我們在這裡嗎}
+ - {Q_Shall we leave}: {我們要離開嗎}
+ - {Q_Should we leave}: {我們該離開嗎}
+ - {Q_Do you want us to leave}: {你想讓我們離開嗎}
+ - {Q_What should we do}: {我們應該做什麼}
+ - {Q_Can we help}: {我們可以幫你嗎}
+ - {Q_Are you friendly}: {你友善嗎}
+ - {Q_What are you}: {你是做什麼的}
+ - {Q_Where are you}: {你在哪裡}
+ - {Q_Are you close}: {你離我們很近嗎}
+ - {Q_Can you show yourself}: {你能現身嗎}
+ - {Q_Give us a sign}: {給我們個信號}
+ - {Q_Let us know you are here}: {讓我們知道你在這裡}
+ - {Q_Show yourself}: {現身吧}
+ - {Q_Can you talk}: {你現在方便說話嗎}
+ - {Q_Speak to us}: {和我們說話吧}
+ - {Q_Are you here}: {你在這裡嗎}
+ - {Q_Are you with us}: {你在嗎}
+ - {Q_Anybody with us}: {有人和我們在嗎}
+ - {Q_Is anyone here}: {這有人在嗎}
+ - {Q_Anybody in the room}: {有人在房間裡嗎}
+ - {Q_Anybody here}: {有人在嗎}
+ - {Q_Is there a spirit here}: {這裡有鬼魂嗎}
+ - {Q_Is there a Ghost here}: {是否有一個幽靈在這裡}
+ - {Q_What is your location}: {你在什麼位置}
+ - {Q_Are you a girl}: {你是女孩嗎}
+ - {Q_Are you a boy}: {你是男孩嗎}
+ - {Q_Are you male}: {你是男的嗎}
+ - {Q_Are you female}: {你是女的嗎}
+ - {Q_Who are you}: {你是誰}
+ - {Q_What are you}: {你是做什麼的}
+ - {Q_Who is this}: {是誰}
+ - {Q_Who are we talking to}: {我們在和誰說話}
+ - {Q_Who am I talking to}: {我在和誰說話}
+ - {Q_Hello}: {你好}
+ - {Q_What is your name}: {你叫什麼名字}
+ - {Q_Can you give me your name}: {能告訴我你的名字嗎}
+ - {Q_What is your gender}: {你的性別是什麼}
+ - {Q_What gender}: {男的女的}
+ - {Q_Are you male or female}: {你是男的還是女的}
+ - {Q_Are you a man}: {你是男人嗎}
+ - {Q_Are you a woman}: {你是女人嗎}
+ - {Q_How old are you}: {你多大了}
+ - {Q_How young are you}: {你有多年輕}
+ - {Q_What is your age}: {貴庚}
+ - {Q_When were you born}: {你是什​​麼時候出生的}
+ - {Q_Are you a child}: {你是小孩嗎}
+ - {Q_Are you old}: {你是老人嗎}
+ - {Q_Are you young}: {你是年輕人嗎}

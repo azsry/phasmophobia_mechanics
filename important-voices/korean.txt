@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {말할 수 있어요}
+ - {Phrase_2}: {말해봐요}
+ - {Phrase_3}: {말해}
+ - {Phrase_4}: {문 열어}
+ - {Phrase_5}: {문 좀 열어}
+ - {Phrase_6}: {불 켜봐}
+ - {Phrase_7}: {불 꺼봐}
+ - {Phrase_8}: {여기 누구 있나요}
+ - {Phrase_9}: {증거를 줘}
+ - {Phrase_10}: {덤벼}
+ - {Phrase_11}: {나와봐}
+ - {Phrase_12}: {뭐라도 해봐}
+ - {Phrase_13}: {여기 있어}
+ - {Phrase_14}: {소리 내봐}
+ - {Phrase_15}: {혼자야}
+ - {Phrase_16}: {말 좀 해줄래}
+ - {Phrase_17}: {말해도 될까}
+ - {Phrase_18}: {누구 있어}
+ - {Phrase_19}: {질문해도 돼}
+ - {Phrase_20}: {말해도 돼}
+ - {Phrase_21}: {혼자에요}
+ - {Phrase_22}: {기다리고 있어}
+ - {Phrase_23}: {뭘 해줄까}
+ - {Phrase_24}: {우리 누군지 알아}
+ - {Phrase_25}: {괜찮아}
+ - {Phrase_26}: {계속 여기 있었어}
+ - {Phrase_27}: {남자에요 여자에요}
+ - {Phrase_28}: {어린애도 있어요}
+ - {Phrase_29}: {갈까}
+ - {Phrase_30}: {질문할게}
+ - {Phrase_31}: {소리 내줘}
+ - {Phrase_32}: {정체를 밝혀}
+ - {Phrase_33}: {뭐든 두드려봐}
+ - {Phrase_34}: {소리 좀 내봐}
+ - {Phrase_35}: {문 열어주세요}
+ - {Phrase_36}: {던져봐}
+ - {Phrase_37}: {말해}
+ - {Phrase_38}: {말 좀 해줘}
+ - {Phrase_39}: {나 죽일거야}
+ - {Phrase_40}: {해치지 않아}
+ - {Phrase_41}: {너네 집이야}
+ - {Phrase_42}: {대답해줄 수 있어}
+ - {Phrase_43}: {무서워}
+ - {Phrase_44}: {살려줘}
+ - {Phrase_45}: {제발}
+ - {Phrase_46}: {악}
+ - {Phrase_47}: {엄마}
+ - {Phrase_48}: {도와줘}
+ - {Phrase_49}: {살려주세요}
+ - {Phrase_50}: {버려}
+ - {Phrase_51}: {차라리 날 죽여}
+ - {Phrase_52}: {큰일났다}
+ - {Phrase_53}: {숨어}
+ - {Phrase_54}: {나가}
+ - {Phrase_55}: {나와}
+ - {Phrase_56}: {뭐야}
+ - {Phrase_57}: {나와주세요}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {누굴 죽였어}
+ - {Ouija_Victim2}: {누굴 죽일거야}
+ - {Ouija_Victim3}: {누굴 죽인거야}
+ - {Ouija_Victim4}: {죽인 사람 이름이 뭐야}
+ - {Ouija_Victim5}: {누굴 노리는거야}
+ - {Ouija_Victim6}: {사람을 죽였어}
+ - {Ouija_Victim7}: {어떤 사람을 죽였어}
+ - {Ouija_Victim8}: {누가 죽었어}
+ - {Ouija_Age1}: {몇 살 먹었어}
+ - {Ouija_Age2}: {몇 살이세요}
+ - {Ouija_Age3}: {나이가 많아요}
+ - {Ouija_Age4}: {나이가 어려요}
+ - {Ouija_Dead1}: {죽은지 얼마나 됐어}
+ - {Ouija_Dead2}: {죽은지 몇 년이나 됐어}
+ - {Ouija_Dead3}: {여기 얼마나 오래 있었어}
+ - {Ouija_Dead4}: {얼마 전에 죽었어}
+ - {Ouija_Dead5}: {언제 죽었어}
+ - {Ouija_RoomAmount1}: {몇 명 있어}
+ - {Ouija_RoomAmount2}: {이 방에 몇 명이나 있어}
+ - {Ouija_RoomAmount3}: {여기에 얼마나 있어}
+ - {Ouija_RoomAmount4}: {이 방에 유령이 얼마나 있어}
+ - {Ouija_RoomAmount5}: {여기에 유령이 얼마나 있어}
+ - {Ouija_RoomAmount6}: {혼자야}
+ - {Ouija_RoomAmount7}: {혼자 있어}
+ - {Ouija_RoomAmount8}: {방금 누구야}
+ - {Ouija_RoomAmount9}: {계세요}
+ - {Ouija_Location1}: {어디 계세요}
+ - {Ouija_Location2}: {어디 있는 걸 좋아해}
+ - {Ouija_Location3}: {니 방이 어디야}
+ - {Ouija_Location4}: {니 방이 뭐야}
+ - {Ouija_Location5}: {여기 계세요}
+ - {Ouija_Location6}: {근처에 있어요}
+ - {Ouija_Location7}: {스피릿 있나요}
+ - {Ouija_Location8}: {옆에 있어요}
+ - {Ouija_Location9}: {근처에 있어요}
+EVP Recorder Questions:
+ - {Q_What do you want}: {뭘 원해}
+ - {Q_Why are you here}: {왜 여기 있어}
+ - {Q_Do you want to hurt us}: {우릴 공격할거야}
+ - {Q_Are you angry}: {화났어}
+ - {Q_Do you want us here}: {여기 있을까}
+ - {Q_Shall we leave}: {떠날까}
+ - {Q_Should we leave}: {떠나야 돼}
+ - {Q_Do you want us to leave}: {떠나길 원해}
+ - {Q_What should we do}: {뭘 해야 해}
+ - {Q_Can we help}: {도와줄까}
+ - {Q_Are you friendly}: {화 안 낼거야}
+ - {Q_What are you}: {너 뭐야}
+ - {Q_Where are you}: {어디있어}
+ - {Q_Are you close}: {근처에 있어}
+ - {Q_Can you show yourself}: {모습을 보여줄래}
+ - {Q_Give us a sign}: {Give us a sign}
+ - {Q_Let us know you are here}: {여기 있다고 말해줘}
+ - {Q_Show yourself}: {모습을 보여}
+ - {Q_Can you talk}: {말할 수 있어}
+ - {Q_Speak to us}: {말해봐}
+ - {Q_Are you here}: {여기 있어}
+ - {Q_Are you with us}: {우리 옆에 있어}
+ - {Q_Anybody with us}: {근처에 있어}
+ - {Q_Is anyone here}: {아무도 없어}
+ - {Q_Anybody in the room}: {방에 누구 있어}
+ - {Q_Anybody here}: {여기 누구 있어}
+ - {Q_Is there a spirit here}: {여기 스피릿이 있어}
+ - {Q_Is there a Ghost here}: {여기 고스트가 있어}
+ - {Q_What is your location}: {어디 있어}
+ - {Q_Are you a girl}: {여자애야}
+ - {Q_Are you a boy}: {남자애야}
+ - {Q_Are you male}: {남자야}
+ - {Q_Are you female}: {여자야}
+ - {Q_Who are you}: {너 누구야}
+ - {Q_What are you}: {너 뭐야}
+ - {Q_Who is this}: {누구야}
+ - {Q_Who are we talking to}: {누군데 대답한거야}
+ - {Q_Who am I talking to}: {누가 대답한거야}
+ - {Q_Hello}: {저기요}
+ - {Q_What is your name}: {이름이 뭐야}
+ - {Q_Can you give me your name}: {이름을 알려줘}
+ - {Q_What is your gender}: {성별이 뭐야}
+ - {Q_What gender}: {무슨 성별이야}
+ - {Q_Are you male or female}: {남자야 여자야}
+ - {Q_Are you a man}: {남성이야}
+ - {Q_Are you a woman}: {여성이야}
+ - {Q_How old are you}: {몇 살이야}
+ - {Q_How young are you}: {나이를 알려줘}
+ - {Q_What is your age}: {나이가 어떻게 돼}
+ - {Q_When were you born}: {언제 태어났어}
+ - {Q_Are you a child}: {어린 아이야}
+ - {Q_Are you old}: {나이가 많아}
+ - {Q_Are you young}: {나이가 어려}

@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {Μπορείς να μιλήσεις}
+ - {Phrase_2}: {Μπορείς να μας μιλήσεις}
+ - {Phrase_3}: {Κάνε ενα θόρυβο}
+ - {Phrase_4}: {Ανοιξε την πόρτα}
+ - {Phrase_5}: {Ανοιξε αυτήν την πόρτα}
+ - {Phrase_6}: {Αναψε το φως}
+ - {Phrase_7}: {Κλείσε το φως}
+ - {Phrase_8}: {Yπάρχουν φαντάσματα εδώ}
+ - {Phrase_9}: {Δώσε μας ένα σημάδι}
+ - {Phrase_10}: {Δείξε μας}
+ - {Phrase_11}: {Ειδοποιησέ μας οτι είσαι εδώ}
+ - {Phrase_12}: {Κάνε κάτι}
+ - {Phrase_13}: {Υπάρχει κάποιος μαζί μου}
+ - {Phrase_14}: {Φώναξε}
+ - {Phrase_15}: {Είσαι μόνος}
+ - {Phrase_16}: {Μπορούμε να μιλήσουμε}
+ - {Phrase_17}: {Θα ήθελε να σου μιλήσει}
+ - {Phrase_18}: {Υπάρχει κάποιος εδώ}
+ - {Phrase_19}: {Μπορώ να σε ρωτήσω}
+ - {Phrase_20}: {Θα ήθελες να μιλήσεις}
+ - {Phrase_21}: {Είσαι ο μόνος εδώ}
+ - {Phrase_22}: {Περιμένεις}
+ - {Phrase_23}: {Υπάρχει κάτι που μπορώ να κάνω}
+ - {Phrase_24}: {Ξέρεις ποιοι είμαστε?}
+ - {Phrase_25}: {Είσαι χαρούμενος}
+ - {Phrase_26}: {Είσαι εδώ ολοί την ώρα}
+ - {Phrase_27}: {Είσαι άντρα ή γυναίκα}
+ - {Phrase_28}: {Είναι παιδία εδώ}
+ - {Phrase_29}: {Θέλεις να φύγουμε}
+ - {Phrase_30}: {Μπορώ να σε ρωτήσω}
+ - {Phrase_31}: {Μπορείς να κάνεις έναν ήχο}
+ - {Phrase_32}: {Δείξε μας την παρουσία σου}
+ - {Phrase_33}: {Ρίξε κάτι}
+ - {Phrase_34}: {Κάνε έναν ήχο}
+ - {Phrase_35}: {Ανοιξε την πόρτα}
+ - {Phrase_36}: {Πέτα κάτι}
+ - {Phrase_37}: {Μίλησέ μου}
+ - {Phrase_38}: {Μίλησέ μας}
+ - {Phrase_39}: {Δεν θα σε πειράξουμε}
+ - {Phrase_40}: {Είμαστε φίλοι}
+ - {Phrase_41}: {Είναι αυτο το σπίτι σου}
+ - {Phrase_42}: {Μπορείς να μας μιλήσεις}
+ - {Phrase_43}: {Φοβάμαι}
+ - {Phrase_44}: {Εγώ είμαι φοβισμένος}
+ - {Phrase_45}: {Φοβισμένος}
+ - {Phrase_46}: {Τρομακτικός}
+ - {Phrase_47}: {Στοιχιωμένο}
+ - {Phrase_48}: {Φρίκη}
+ - {Phrase_49}: {Φόβος}
+ - {Phrase_50}: {Τρομάζω}
+ - {Phrase_51}: {Πανικός}
+ - {Phrase_52}: {Τρομάρα}
+ - {Phrase_53}: {Κρύβω}
+ - {Phrase_54}: {Τρέχω}
+ - {Phrase_55}: {Εμφάνιση παρουσίας}
+ - {Phrase_56}: {Δείξε μας}
+ - {Phrase_57}: {Δείξε μου}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {Ποιον σκότωσες}
+ - {Ouija_Victim2}: {Ποιος είναι το θύμα σου}
+ - {Ouija_Victim3}: {Ποιο είναι το όνομα του ανθρώπου που σκότωσες}
+ - {Ouija_Victim4}: {Ποιο είναι το όνομα του ανθρώπου που δολοφόνησες}
+ - {Ouija_Victim5}: {Τί είναι το θύμα σου}
+ - {Ouija_Victim6}: {Δολοφόνησες}
+ - {Ouija_Victim7}: {Ποιον δολοφόνησες}
+ - {Ouija_Victim8}: {Ποιος πέθανε}
+ - {Ouija_Age1}: {Πόσο χρονών είσαι}
+ - {Ouija_Age2}: {Ποια είναι η ηλικία σου}
+ - {Ouija_Age3}: {Είσαι γέρος}
+ - {Ouija_Age4}: {Είσαι νέος}
+ - {Ouija_Dead1}: {Πόσο καιρό είσαι πεθαμένος}
+ - {Ouija_Dead2}: {Πόσα χρόνια πριν πέθανες}
+ - {Ouija_Dead3}: {Πόσο καιρό είσαι εδώ}
+ - {Ouija_Dead4}: {Πόσο καιρό πρίν είχες πεθάνει}
+ - {Ouija_Dead5}: {Πότε πέθανες}
+ - {Ouija_RoomAmount1}: {Πόσοι είναι σε αυτό το δωμάτιο}
+ - {Ouija_RoomAmount2}: {Πόσοι άνθρωποι είναι σε αυτό το δωμάτιο}
+ - {Ouija_RoomAmount3}: {Πόσα άτομα είναι εδώ}
+ - {Ouija_RoomAmount4}: {Πόσα φαντάσματα σε αυτό το δωμάτιο}
+ - {Ouija_RoomAmount5}: {Πόσα φαντάσματα είναι εδώ}
+ - {Ouija_RoomAmount6}: {Είσαι μόνος}
+ - {Ouija_RoomAmount7}: {Είμαστε μόνοι}
+ - {Ouija_RoomAmount8}: {Ποιος είναι εδώ}
+ - {Ouija_RoomAmount9}: {Ποιος είναι σε αυτό το δωμάτιο}
+ - {Ouija_Location1}: {Που είσαι}
+ - {Ouija_Location2}: {Ποιο είναι το αγαπημένο σου δωμάτιο}
+ - {Ouija_Location3}: {Που είναι το δωμάτιο σου}
+ - {Ouija_Location4}: {Τι είναι το δωμάτιο σου}
+ - {Ouija_Location5}: {Είσαι εδώ}
+ - {Ouija_Location6}: {Είσαι κοντά}
+ - {Ouija_Location7}: {Υπάρχουν πνεύματα εκεί}
+ - {Ouija_Location8}: {Είσαι κοντά}
+ - {Ouija_Location9}: {Είσαι κάπου εδώ κοντά}
+EVP Recorder Questions:
+ - {Q_What do you want}: {Τί θέλεις}
+ - {Q_Why are you here}: {Γιατί είσαι εδώ}
+ - {Q_Do you want to hurt us}: {Θες να μας βλάψεις}
+ - {Q_Are you angry}: {Είσαι νευριασμένος}
+ - {Q_Do you want us here}: {Μας θες εδώ}
+ - {Q_Shall we leave}: {Μήπως να φύγουμε?}
+ - {Q_Should we leave}: {Τα λέγαμε}
+ - {Q_Do you want us to leave}: {Θες να φύγουμε}
+ - {Q_What should we do}: {Τί πρέπει να κάνουμε}
+ - {Q_Can we help}: {Μπορούμε να βοηθήσουμε}
+ - {Q_Are you friendly}: {Εισαι φιλικός}
+ - {Q_What are you}: {Τί είσαι}
+ - {Q_Where are you}: {Πού είσαι}
+ - {Q_Are you close}: {Είσαι κοντά}
+ - {Q_Can you show yourself}: {Μπορείς να εμφανιστείς}
+ - {Q_Give us a sign}: {Δώσε μας ένα στοιχείο}
+ - {Q_Let us know you are here}: {Δείξε μας ότι είσαι εδώ}
+ - {Q_Show yourself}: {Εμφανίσου}
+ - {Q_Can you talk}: {Μπορείς να μιλήσεις}
+ - {Q_Speak to us}: {Μίλισε μας}
+ - {Q_Are you here}: {Είσαι εδώ}
+ - {Q_Are you with us}: {Είσαι μαζί μας}
+ - {Q_Anybody with us}: {Κάποιος μαζί μας}
+ - {Q_Is anyone here}: {Είναι κανείς εδώ}
+ - {Q_Anybody in the room}: {Είναι κανείς στο δωμάτιο}
+ - {Q_Anybody here}: {Κανείς εδώ}
+ - {Q_Is there a spirit here}: {Είναι κανα πνεύμα εδώ}
+ - {Q_Is there a Ghost here}: {Είναι κανα φάντασμα εδώ}
+ - {Q_What is your location}: {Ποια είναι η τοποθεσία σου}
+ - {Q_Are you a girl}: {Είσαι κορίτσι}
+ - {Q_Are you a boy}: {Είσαι αγόρι}
+ - {Q_Are you male}: {Είσαι άντρας}
+ - {Q_Are you female}: {Είσαι γυναίκα}
+ - {Q_Who are you}: {Ποιός είσαι}
+ - {Q_What are you}: {Τί είσαι}
+ - {Q_Who is this}: {Ποιος είναι}
+ - {Q_Who are we talking to}: {Σε ποιον μιλάμε}
+ - {Q_Who am I talking to}: {Σε ποιον μιλάω}
+ - {Q_Hello}: {Γεια}
+ - {Q_What is your name}: {Πώς σε λένε}
+ - {Q_Can you give me your name}: {Μπορείς να μου πεις το όνομά σου}
+ - {Q_What is your gender}: {Ποιο είναι το φύλο σου}
+ - {Q_What gender}: {Τί φύλο}
+ - {Q_Are you male or female}: {Είσαι άντρας ή γυναίκα}
+ - {Q_Are you a man}: {Είσαι άντρας}
+ - {Q_Are you a woman}: {Είσαι γυναίκα}
+ - {Q_How old are you}: {Πόσο χρονών είσαι}
+ - {Q_How young are you}: {Πόσο νέος είσαι}
+ - {Q_What is your age}: {Ποια είναι η ηλικία σου}
+ - {Q_When were you born}: {Πότε γεννήθηκες}
+ - {Q_Are you a child}: {Είσαι παιδί}
+ - {Q_Are you old}: {Είσαι γέρος}
+ - {Q_Are you young}: {Είσαι νέος}

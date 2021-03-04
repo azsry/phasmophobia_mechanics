@@ -1,12 +1,14 @@
 # Phasmophobia Mechanics
+
 Thanks to the following people for spotting errors in this guide:
 - AeonLucid
 - DeceptivePastry
 - Kyle2142
 - u/Sowelu
 - zendabbq
+
 - [Phasmophobia Mechanics](#phasmophobia-mechanics)
-      - [Compiled by Azsry](#compiled-by-azsry)
+      - [Compiled by Azsry & Mythra](#)
   - [General Gameplay](#general-gameplay)
     - [Difficulty levels](#difficulty-levels)
     - [Sanity](#sanity)

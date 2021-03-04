@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {Pouvez-vous parler}
+ - {Phrase_2}: {Pouvez-vous nous parler}
+ - {Phrase_3}: {Faites un bruit}
+ - {Phrase_4}: {Ouvrez une porte}
+ - {Phrase_5}: {Ouvrez cette porte}
+ - {Phrase_6}: {Allumez la lumière}
+ - {Phrase_7}: {Éteignez la lumière}
+ - {Phrase_8}: {Y a-t-il des fantômes}
+ - {Phrase_9}: {Donnez-nous un signe}
+ - {Phrase_10}: {Montrez-nous}
+ - {Phrase_11}: {Faites-nous savoir que vous êtes ici}
+ - {Phrase_12}: {Faire quelque chose}
+ - {Phrase_13}: {Est-ce qu'il y a quelqu'un avec moi}
+ - {Phrase_14}: {Criez}
+ - {Phrase_15}: {Êtes-vous seul}
+ - {Phrase_16}: {Pouvons-nous parler}
+ - {Phrase_17}: {J'aimerais vous parler}
+ - {Phrase_18}: {Y a-t-il quelqu'un ici}
+ - {Phrase_19}: {Puis-je vous demander}
+ - {Phrase_20}: {Voulez-vous parler}
+ - {Phrase_21}: {Êtes-vous le seul ici}
+ - {Phrase_22}: {Attendez-vous}
+ - {Phrase_23}: {Y a-t-il quelque chose que je peux faire}
+ - {Phrase_24}: {Savez-vous qui nous sommes}
+ - {Phrase_25}: {Êtes-vous heureux}
+ - {Phrase_26}: {Êtes-vous ici tout le temps}
+ - {Phrase_27}: {Etes vous un homme ou une femme}
+ - {Phrase_28}: {Y a-t-il ici des enfants}
+ - {Phrase_29}: {Est-ce que vous voulez que nous partions}
+ - {Phrase_30}: {Puis-je vous demander}
+ - {Phrase_31}: {Pouvez-vous faire un son}
+ - {Phrase_32}: {Montrez-nous votre présence}
+ - {Phrase_33}: {Frappez quelque chose}
+ - {Phrase_34}: {Faites un son}
+ - {Phrase_35}: {Ouvrez la porte}
+ - {Phrase_36}: {Jetez quelque chose}
+ - {Phrase_37}: {Parlez-moi}
+ - {Phrase_38}: {Parlez-nous}
+ - {Phrase_39}: {Nous vous voulons pas de mal}
+ - {Phrase_40}: {Nous sommes amis}
+ - {Phrase_41}: {Est-ce votre maison}
+ - {Phrase_42}: {Pouvez-vous nous parler}
+ - {Phrase_43}: {J'ai peur}
+ - {Phrase_44}: {J'ai peur}
+ - {Phrase_45}: {effrayé}
+ - {Phrase_46}: {effrayant}
+ - {Phrase_47}: {terrifiant}
+ - {Phrase_48}: {Horreur}
+ - {Phrase_49}: {Peur}
+ - {Phrase_50}: {Effrayer}
+ - {Phrase_51}: {panique}
+ - {Phrase_52}: {Frayeur}
+ - {Phrase_53}: {Cacher}
+ - {Phrase_54}: {Courir}
+ - {Phrase_55}: {Montrez votre présence}
+ - {Phrase_56}: {Montrez-nous}
+ - {Phrase_57}: {Montrez-moi}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {Qui avez-vous tué}
+ - {Ouija_Victim2}: {Qui est votre victime}
+ - {Ouija_Victim3}: {Quel est le nom de la personne tuée}
+ - {Ouija_Victim4}: {Quel est le nom de la personne que vous avez assassinée}
+ - {Ouija_Victim5}: {Quelle est votre victime}
+ - {Ouija_Victim6}: {Avez-vous assassinez}
+ - {Ouija_Victim7}: {Qui avez-vous assassiné}
+ - {Ouija_Victim8}: {Qui est mort}
+ - {Ouija_Age1}: {Quel âge as-tu}
+ - {Ouija_Age2}: {Quel âge avez-vous}
+ - {Ouija_Age3}: {Êtes-vous vieux}
+ - {Ouija_Age4}: {Êtes-vous jeune}
+ - {Ouija_Dead1}: {Depuis combien de temps êtes-vous mort}
+ - {Ouija_Dead2}: {Depuis combien d'années êtes-vous mort}
+ - {Ouija_Dead3}: {Depuis combien de temps êtes-vous ici}
+ - {Ouija_Dead4}: {Depuis combien de temps êtes-vous mort}
+ - {Ouija_Dead5}: {Quand êtes-vous mort}
+ - {Ouija_RoomAmount1}: {Combien êtes-vous dans cette pièce}
+ - {Ouija_RoomAmount2}: {Combien de personnes sont dans cette pièce}
+ - {Ouija_RoomAmount3}: {Combien de personnes sont ici}
+ - {Ouija_RoomAmount4}: {Combien de fantômes sont dans cette pièce}
+ - {Ouija_RoomAmount5}: {Combien de fantômes son ici}
+ - {Ouija_RoomAmount6}: {Êtes-vous seul}
+ - {Ouija_RoomAmount7}: {Sommes-nous seuls}
+ - {Ouija_RoomAmount8}: {Qui est là}
+ - {Ouija_RoomAmount9}: {Qui est dans cette pièce}
+ - {Ouija_Location1}: {Où êtes-vous}
+ - {Ouija_Location2}: {Quelle est votre pièce préférée}
+ - {Ouija_Location3}: {Où est votre chambre}
+ - {Ouija_Location4}: {Quelle est votre chambre}
+ - {Ouija_Location5}: {Êtes-vous ici}
+ - {Ouija_Location6}: {Êtes-vous proche}
+ - {Ouija_Location7}: {Y a-t-il des esprits}
+ - {Ouija_Location8}: {Êtes-vous à proximité}
+ - {Ouija_Location9}: {Êtes-vous autour}
+EVP Recorder Questions:
+ - {Q_What do you want}: {Que voulez-vous}
+ - {Q_Why are you here}: {Pourquoi êtes-vous ici}
+ - {Q_Do you want to hurt us}: {Voulez-vous nous faire du mal}
+ - {Q_Are you angry}: {Êtes-vous fâché}
+ - {Q_Do you want us here}: {Voulez-vous que nous restions}
+ - {Q_Shall we leave}: {Devons-nous partir}
+ - {Q_Should we leave}: {Devrions-nous partir}
+ - {Q_Do you want us to leave}: {Voulez-vous que nous partions}
+ - {Q_What should we do}: {Que devrions-nous faire}
+ - {Q_Can we help}: {Pouvons-nous aider}
+ - {Q_Are you friendly}: {Êtes-vous amical}
+ - {Q_What are you}: {Qu'êtes vous}
+ - {Q_Where are you}: {Où êtes-vous}
+ - {Q_Are you close}: {Êtes-vous proche}
+ - {Q_Can you show yourself}: {Montrez-vous}
+ - {Q_Give us a sign}: {Donnez-nous un signe}
+ - {Q_Let us know you are here}: {Faites-nous savoir que vous êtes ici}
+ - {Q_Show yourself}: {Montrez vous}
+ - {Q_Can you talk}: {Pouvez-vous parler}
+ - {Q_Speak to us}: {Parlez-nous}
+ - {Q_Are you here}: {Êtes-vous ici}
+ - {Q_Are you with us}: {Êtes-vous avec nous}
+ - {Q_Anybody with us}: {Y a-t-il quelqu’un avec nous }
+ - {Q_Is anyone here}: {Il y a quelqu'un}
+ - {Q_Anybody in the room}: {Y a-t-il quelqu’un dans cette pièce}
+ - {Q_Anybody here}: {Y a-t-il quelqu’un ici}
+ - {Q_Is there a spirit here}: {Y a-t-il un esprit ici}
+ - {Q_Is there a Ghost here}: {Y a-t-il un fantôme ici}
+ - {Q_What is your location}: {Quel est votre emplacement}
+ - {Q_Are you a girl}: {Es-tu une fille}
+ - {Q_Are you a boy}: {Es-tu un garçon}
+ - {Q_Are you male}: {Êtes-vous un homme}
+ - {Q_Are you female}: {Êtes-vous une femme}
+ - {Q_Who are you}: {Qui es-tu}
+ - {Q_What are you}: {Qu'êtes vous}
+ - {Q_Who is this}: {Qui est-ce}
+ - {Q_Who are we talking to}: {A qui parlons-nous}
+ - {Q_Who am I talking to}: {A qui suis-je en train de parler}
+ - {Q_Hello}: {Bonjour}
+ - {Q_What is your name}: {Quel est ton nom}
+ - {Q_Can you give me your name}: {Pouvez-vous me donner votre nom}
+ - {Q_What is your gender}: {Quel est votre sexe}
+ - {Q_What gender}: {Quel genre}
+ - {Q_Are you male or female}: {Êtes-vous un homme ou une femme}
+ - {Q_Are you a man}: {Êtes-vous un homme}
+ - {Q_Are you a woman}: {Êtes-vous une femme}
+ - {Q_How old are you}: {Quel âge as-tu}
+ - {Q_How young are you}: {Quel âge as-tu}
+ - {Q_What is your age}: {Quel âge avez-vous}
+ - {Q_When were you born}: {Quand êtes-vous né}
+ - {Q_Are you a child}: {Es-tu un enfant}
+ - {Q_Are you old}: {Êtes-vous vieux}
+ - {Q_Are you young}: {Es-tu jeune}

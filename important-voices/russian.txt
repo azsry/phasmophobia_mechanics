@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {Ty moshesh gavarit}
+ - {Phrase_2}: {Mozhesh pagavarit}
+ - {Phrase_3}: {Poshumi}
+ - {Phrase_4}: {Otkroi dver}
+ - {Phrase_5}: {Otkroi ehtu dver}
+ - {Phrase_6}: {Vklyuchi svet}
+ - {Phrase_7}: {Vyklyuchi svet}
+ - {Phrase_8}: {Est li zdes}
+ - {Phrase_9}: {Dai nam znak}
+ - {Phrase_10}: {Pakazhi nam}
+ - {Phrase_11}: {Dai nam znat}
+ - {Phrase_12}: {Sdelai chtonibud}
+ - {Phrase_13}: {Zdes ktoto yest}
+ - {Phrase_14}: {Pokrichi}
+ - {Phrase_15}: {tut odin}
+ - {Phrase_16}: {mozhem pagavarit}
+ - {Phrase_17}: {s taboy pagavarit}
+ - {Phrase_18}: {Kto tut}
+ - {Phrase_19}: {zadat vopros}
+ - {Phrase_20}: {Hochesh pagavarit}
+ - {Phrase_21}: {Ty zdes odin}
+ - {Phrase_22}: {Ty zhdyosh}
+ - {Phrase_23}: {dlya tebya sdelat}
+ - {Phrase_24}: {Ty znaesh kto my}
+ - {Phrase_25}: {Ty schastliv}
+ - {Phrase_26}: {Ty zdes vsegda}
+ - {Phrase_27}: {Ty muzhchina ili}
+ - {Phrase_28}: {yest deti}
+ - {Phrase_29}: {chtoby my ushli}
+ - {Phrase_30}: {zadat vapros}
+ - {Phrase_31}: {mozhesh poshumet}
+ - {Phrase_32}: {pakazhi sebya}
+ - {Phrase_33}: {pastuchi}
+ - {Phrase_34}: {zdelai kakoi-nibud}
+ - {Phrase_35}: {Atkroi dvyer}
+ - {Phrase_36}: {Kinni shtonibud}
+ - {Phrase_37}: {Pagavari sa mnoi}
+ - {Phrase_38}: {Pagavari s nami}
+ - {Phrase_39}: {My ne prichinim tibye vreda}
+ - {Phrase_40}: {druzia}
+ - {Phrase_41}: {Eto tvoy dom}
+ - {Phrase_42}: {Ty mozhesh s nami pagavarit}
+ - {Phrase_43}: {Ya boyus}
+ - {Phrase_44}: {Mnye strashno}
+ - {Phrase_45}: {strashno}
+ - {Phrase_46}: {stryom}
+ - {Phrase_47}: {stryomno}
+ - {Phrase_48}: {uzhas}
+ - {Phrase_49}: {pugayet}
+ - {Phrase_50}: {pugat}
+ - {Phrase_51}: {blyat}
+ - {Phrase_52}: {suka}
+ - {Phrase_53}: {pryachsya}
+ - {Phrase_54}: {begi}
+ - {Phrase_55}: {Pokazhis}
+ - {Phrase_56}: {Yavis}
+ - {Phrase_57}: {Pokazhi}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {Kavo ty ubil}
+ - {Ouija_Victim2}: {Kto tvoya zhertva}
+ - {Ouija_Victim3}: {Kak imya tvayei zhertvy}
+ - {Ouija_Victim4}: {Kak zovut tvayu zhertvu}
+ - {Ouija_Victim5}: {tvaya zhertva}
+ - {Ouija_Victim6}: {Ty ubiytsa}
+ - {Ouija_Victim7}: {Kavo ty ubil}
+ - {Ouija_Victim8}: {Kto umer}
+ - {Ouija_Age1}: {Skolko tebye}
+ - {Ouija_Age2}: {Kakovo ty vozrasta}
+ - {Ouija_Age3}: {Ty star}
+ - {Ouija_Age4}: {Ty molod}
+ - {Ouija_Dead1}: {Kak davno ty}
+ - {Ouija_Dead2}: {Skolko lyet nazad ty umer}
+ - {Ouija_Dead3}: {Kak davno ty zdes}
+ - {Ouija_Dead4}: {Kak davno ty umer}
+ - {Ouija_Dead5}: {Kogda ty umer}
+ - {Ouija_RoomAmount1}: {Skolko v etoy komnate}
+ - {Ouija_RoomAmount2}: {Skolko zdes chelovek}
+ - {Ouija_RoomAmount3}: {Skolko zdes lyudei}
+ - {Ouija_RoomAmount4}: {Skolko prizrakov}
+ - {Ouija_RoomAmount5}: {Skolko vas zdes}
+ - {Ouija_RoomAmount6}: {Ty odin}
+ - {Ouija_RoomAmount7}: {My odni}
+ - {Ouija_RoomAmount8}: {Kto zdes}
+ - {Ouija_RoomAmount9}: {est v etoy komnate}
+ - {Ouija_Location1}: {Gde ty}
+ - {Ouija_Location2}: {tvaya lyubimaya komnata}
+ - {Ouija_Location3}: {tvaya komnata}
+ - {Ouija_Location4}: {kakaya is komnat tvaya}
+ - {Ouija_Location5}: {Ty zdes}
+ - {Ouija_Location6}: {Ty ryadom}
+ - {Ouija_Location7}: {Zdes yest duhi}
+ - {Ouija_Location8}: {Ty ryadom}
+ - {Ouija_Location9}: {Ty pablizosti}
+EVP Recorder Questions:
+ - {Q_What do you want}: {Shto tebe nada}
+ - {Q_Why are you here}: {Pachemu ty zdes}
+ - {Q_Do you want to hurt us}: {Ty hochesh nas ubit}
+ - {Q_Are you angry}: {Ty zlishsya}
+ - {Q_Do you want us here}: {Hochesh chtoby my ostalis}
+ - {Q_Shall we leave}: {Davaite uidyom}
+ - {Q_Should we leave}: {Mozhet nam uiti}
+ - {Q_Do you want us to leave}: {hochest shtoby my ushli}
+ - {Q_What should we do}: {Shto nam delat}
+ - {Q_Can we help}: {tebye pamoch}
+ - {Q_Are you friendly}: {Ty drook}
+ - {Q_What are you}: {Shto ty takoe}
+ - {Q_Where are you}: {Gde ty}
+ - {Q_Are you close}: {Ty blizko}
+ - {Q_Can you show yourself}: {pokazatsa}
+ - {Q_Give us a sign}: {Dai nam znak}
+ - {Q_Let us know you are here}: {Dai nam znat}
+ - {Q_Show yourself}: {Pokazhis}
+ - {Q_Can you talk}: {skazhi}
+ - {Q_Speak to us}: {Pagavari}
+ - {Q_Are you here}: {Ty zdes}
+ - {Q_Are you with us}: {Ty s nami}
+ - {Q_Anybody with us}: {Knonibud zdes}
+ - {Q_Is anyone here}: {ktonibud est}
+ - {Q_Anybody in the room}: {est v komnate}
+ - {Q_Anybody here}: {Kto zdes}
+ - {Q_Is there a spirit here}: {Zdes kto nibud est}
+ - {Q_Is there a Ghost here}: {Zdes yest prizrak}
+ - {Q_What is your location}: {Gde ty nahodishsya}
+ - {Q_Are you a girl}: {Ty devochka}
+ - {Q_Are you a boy}: {Ty malchik}
+ - {Q_Are you male}: {Ty muzhchina}
+ - {Q_Are you female}: {Ty zhenschina}
+ - {Q_Who are you}: {Kto ty}
+ - {Q_What are you}: {Shto ty takoe}
+ - {Q_Who is this}: {Kto eto}
+ - {Q_Who are we talking to}: {S kem my razgavarivayem}
+ - {Q_Who am I talking to}: {S kem ya razgavarivayu}
+ - {Q_Hello}: {Privet}
+ - {Q_What is your name}: {Kak tebya zovut}
+ - {Q_Can you give me your name}: {Nazovi imya}
+ - {Q_What is your gender}: {Kakogo ty pola}
+ - {Q_What gender}: {Kakogo pola}
+ - {Q_Are you male or female}: {Ty muzhchina ili zhenschina}
+ - {Q_Are you a man}: {Ty paren}
+ - {Q_Are you a woman}: {Ty devushka}
+ - {Q_How old are you}: {Skolko tebye lyet}
+ - {Q_How young are you}: {Ty molod}
+ - {Q_What is your age}: {Skolko tebye}
+ - {Q_When were you born}: {Kogda ty rodilsya}
+ - {Q_Are you a child}: {Ty rebyonok}
+ - {Q_Are you old}: {Ty starik}
+ - {Q_Are you young}: {Ty molodoy}

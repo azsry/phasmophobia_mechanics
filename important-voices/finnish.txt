@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {Osaatko puhua}
+ - {Phrase_2}: {Voitko puhua meille}
+ - {Phrase_3}: {Tee ääntä}
+ - {Phrase_4}: {Avaa ovi}
+ - {Phrase_5}: {Avaa tämä ovi}
+ - {Phrase_6}: {Laita valot päälle}
+ - {Phrase_7}: {Sammuta valot}
+ - {Phrase_8}: {Onko aaveita}
+ - {Phrase_9}: {Anna merkki}
+ - {Phrase_10}: {Näytä meille}
+ - {Phrase_11}: {Kerro meille, että olet täällä}
+ - {Phrase_12}: {Tee jotain}
+ - {Phrase_13}: {Onko joku kanssani}
+ - {Phrase_14}: {Huuda}
+ - {Phrase_15}: {Oletko yksin}
+ - {Phrase_16}: {Voimmeko puhua}
+ - {Phrase_17}: {Haluaisin puhua sinulle}
+ - {Phrase_18}: {Onko kukaan täällä}
+ - {Phrase_19}: {Voinko kysyä sinulta}
+ - {Phrase_20}: {Haluaisitko jutella}
+ - {Phrase_21}: {Oletko ainoa täällä}
+ - {Phrase_22}: {Odotatko}
+ - {Phrase_23}: {Onko mitään, mitä voin tehdä}
+ - {Phrase_24}: {Tiedätkö, ketä olemme}
+ - {Phrase_25}: {Oletko onnellinen}
+ - {Phrase_26}: {Oletko täällä koko ajan}
+ - {Phrase_27}: {Oletko mies vai nainen}
+ - {Phrase_28}: {Onko täällä lapsia}
+ - {Phrase_29}: {Haluatko meidän lähtevän}
+ - {Phrase_30}: {Voinko kysyä sinulta}
+ - {Phrase_31}: {Voitko tehdä äänen}
+ - {Phrase_32}: {Näytä meille läsnäolosi}
+ - {Phrase_33}: {Koputa jotain}
+ - {Phrase_34}: {Äännähtele}
+ - {Phrase_35}: {Avaa ovi}
+ - {Phrase_36}: {Heitä jotain}
+ - {Phrase_37}: {Puhu minulle}
+ - {Phrase_38}: {Puhu meille}
+ - {Phrase_39}: {Emme tarkoita pahaa}
+ - {Phrase_40}: {Olemme ystäviä}
+ - {Phrase_41}: {Onko tämä kotisi}
+ - {Phrase_42}: {Voitko puhua meille}
+ - {Phrase_43}: {Olen peloissani}
+ - {Phrase_44}: {Minua pelottaa}
+ - {Phrase_45}: {Pelottaa}
+ - {Phrase_46}: {Pelottava}
+ - {Phrase_47}: {Kummittava}
+ - {Phrase_48}: {Kauhu}
+ - {Phrase_49}: {Pelästyttää}
+ - {Phrase_50}: {Pelotella}
+ - {Phrase_51}: {Paniikki}
+ - {Phrase_52}: {Säihkähdys}
+ - {Phrase_53}: {Piiloudu}
+ - {Phrase_54}: {Juokse}
+ - {Phrase_55}: {Näytä olotila}
+ - {Phrase_56}: {Näytä meille}
+ - {Phrase_57}: {Näytä minulle}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {Kenet tapoit}
+ - {Ouija_Victim2}: {Kuka on uhrisi}
+ - {Ouija_Victim3}: {Mikä on tappaneesi henkilön nimi}
+ - {Ouija_Victim4}: {Mikä on murhanneesi henkilön nimi}
+ - {Ouija_Victim5}: {Kuka on uhrisi}
+ - {Ouija_Victim6}: {Murhasitko}
+ - {Ouija_Victim7}: {Kenet murhasit}
+ - {Ouija_Victim8}: {Kuka kuoli}
+ - {Ouija_Age1}: {Kuinka vanha olet}
+ - {Ouija_Age2}: {Minkä ikäinen olet}
+ - {Ouija_Age3}: {Oletko vanha}
+ - {Ouija_Age4}: {Oletko nuori}
+ - {Ouija_Dead1}: {Kuinka kauan olet ollut kuolleena}
+ - {Ouija_Dead2}: {Kuinka monta vuotta sitten kuolit}
+ - {Ouija_Dead3}: {Kuinka kauan olet ollut täällä}
+ - {Ouija_Dead4}: {Kuinka kauan sitten kuolit}
+ - {Ouija_Dead5}: {Milloin kuolit}
+ - {Ouija_RoomAmount1}: {Kuinka monta on tässä huoneessa}
+ - {Ouija_RoomAmount2}: {Kuinka monta ihmistä on tässä huoneessa}
+ - {Ouija_RoomAmount3}: {Kuinka monta ihmistä on täällä}
+ - {Ouija_RoomAmount4}: {Kuinka monta aavetta on tässä huoneessa}
+ - {Ouija_RoomAmount5}: {Kuinka monta aavetta on täällä}
+ - {Ouija_RoomAmount6}: {Oletko yksin}
+ - {Ouija_RoomAmount7}: {Olemmeko yksin}
+ - {Ouija_RoomAmount8}: {Kuka on täällä}
+ - {Ouija_RoomAmount9}: {Kuka on tässä huoneessa}
+ - {Ouija_Location1}: {Missä sinä olet}
+ - {Ouija_Location2}: {Mikä on suosikki huoneesi}
+ - {Ouija_Location3}: {Missä on huoneesi}
+ - {Ouija_Location4}: {Mikä on huoneesi}
+ - {Ouija_Location5}: {Oletko täällä}
+ - {Ouija_Location6}: {Oletko lähellä}
+ - {Ouija_Location7}: {Onko aaveita}
+ - {Ouija_Location8}: {Oletko lähellä}
+ - {Ouija_Location9}: {Oletkä lähistöllä}
+EVP Recorder Questions:
+ - {Q_What do you want}: {Mitä haluat}
+ - {Q_Why are you here}: {Miksi olet täällä}
+ - {Q_Do you want to hurt us}: {Haluatko satuttaa meitä}
+ - {Q_Are you angry}: {Oletko vihainen}
+ - {Q_Do you want us here}: {Haluatka meidän olla täällä}
+ - {Q_Shall we leave}: {Jätämmekö sinut}
+ - {Q_Should we leave}: {Pitäisikö meidän lähteä}
+ - {Q_Do you want us to leave}: {Haluatko meidän lähtevän}
+ - {Q_What should we do}: {Mitä meidän pitäisi tehdä}
+ - {Q_Can we help}: {Voimmeko auttaa}
+ - {Q_Are you friendly}: {Oletko ystävällinen}
+ - {Q_What are you}: {Mikä sinä olet}
+ - {Q_Where are you}: {Missä sinä olet}
+ - {Q_Are you close}: {Oletko lähellä}
+ - {Q_Can you show yourself}: {Voitko näyttää itse}
+ - {Q_Give us a sign}: {Anna merkki}
+ - {Q_Let us know you are here}: {Kerro meille, että olet täällä}
+ - {Q_Show yourself}: {Näytä itsesi}
+ - {Q_Can you talk}: {Voitko puhua}
+ - {Q_Speak to us}: {Puhu meille}
+ - {Q_Are you here}: {Oletko täällä}
+ - {Q_Are you with us}: {Oletko kanssamme}
+ - {Q_Anybody with us}: {Onko kukaan kanssamme}
+ - {Q_Is anyone here}: {Onko täällä ketään}
+ - {Q_Anybody in the room}: {Ketään huoneessa}
+ - {Q_Anybody here}: {Onko täällä ketään}
+ - {Q_Is there a spirit here}: {Onko henki täällä}
+ - {Q_Is there a Ghost here}: {Onko aave täällä}
+ - {Q_What is your location}: {Missä olet}
+ - {Q_Are you a girl}: {Oletko tyttö}
+ - {Q_Are you a boy}: {Oletko poika}
+ - {Q_Are you male}: {Oletko mies}
+ - {Q_Are you female}: {Oletko nainen}
+ - {Q_Who are you}: {Kuka sinä olet}
+ - {Q_What are you}: {Mikä sinä olet}
+ - {Q_Who is this}: {Kuka tämä on}
+ - {Q_Who are we talking to}: {Kenelle me puhumme}
+ - {Q_Who am I talking to}: {Kenelle puhun}
+ - {Q_Hello}: {Hei}
+ - {Q_What is your name}: {Mikä sinun nimesi on}
+ - {Q_Can you give me your name}: {Voitko antaa minulle nimesi}
+ - {Q_What is your gender}: {Mikä on sukupuolesi}
+ - {Q_What gender}: {Mikä sukupuoli}
+ - {Q_Are you male or female}: {Oletko mies vai nainen}
+ - {Q_Are you a man}: {Oletko mies}
+ - {Q_Are you a woman}: {Oletko nainen}
+ - {Q_How old are you}: {Kuinka vanha olet}
+ - {Q_How young are you}: {Kuinka nuori olet}
+ - {Q_What is your age}: {Minkä ikäinen olet}
+ - {Q_When were you born}: {Milloin synnyit}
+ - {Q_Are you a child}: {Oletko lapsi}
+ - {Q_Are you old}: {Oletko vanha}
+ - {Q_Are you young}: {Oletko nuori}

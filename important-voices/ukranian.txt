@@ -1,0 +1,164 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {Ty mozhesh rozmovlyaty}
+ - {Phrase_2}: {Mozhesh pohovoryty}
+ - {Phrase_3}: {Poshumy}
+ - {Phrase_4}: {Vidkryy dveri}
+ - {Phrase_5}: {Vidkryy tsyu}
+ - {Phrase_6}: {Vklyuchy svitlo}
+ - {Phrase_7}: {Vyklyuchy svitlo}
+ - {Phrase_8}: {Yakshcho ty tut}
+ - {Phrase_9}: {Dai nam znak}
+ - {Phrase_10}: {Pokazhy nam}
+ - {Phrase_11}: {Dai nam znaty de ty}
+ - {Phrase_12}: {Zroby shcho-nebud}
+ - {Phrase_13}: {Tut khtos ye}
+ - {Phrase_14}: {Pokrychy}
+ - {Phrase_15}: {Ty odyn}
+ - {Phrase_16}: {Mozhemo pohovoryty}
+ - {Phrase_17}: {ya khochu pohovoryty z toboyu}
+ - {Phrase_18}: {Khto tut}
+ - {Phrase_19}: {mozhna zapytaty}
+ - {Phrase_20}: {Khochesh pohovoryty}
+ - {Phrase_21}: {Ty tut odyn}
+ - {Phrase_22}: {Ty chekayesh}
+ - {Phrase_23}: {Dlya tebe zrobyty}
+ - {Phrase_24}: {Ty znayesh khto my}
+ - {Phrase_25}: {Ty shchaslyvyy}
+ - {Phrase_26}: {Ty tut zavzhdy}
+ - {Phrase_27}: {Ty cholovik chy zhinka}
+ - {Phrase_28}: {ye dity}
+ - {Phrase_29}: {Ty khochesh shchob my pishly}
+ - {Phrase_30}: {Mozhna zapytaty}
+ - {Phrase_31}: {Mozhesh poshumity}
+ - {Phrase_32}: {Pokazhy sebe}
+ - {Phrase_33}: {Postukay}
+ - {Phrase_34}: {Zroby yakyys zvuk}
+ - {Phrase_35}: {Vidkryy dveri}
+ - {Phrase_36}: {kyn shchos}
+ - {Phrase_37}: {Pohovory zi mnoyu}
+ - {Phrase_38}: {Pohovory z namy}
+ - {Phrase_39}: {My ne zavdamo shkody}
+ - {Phrase_40}: {my druzi}
+ - {Phrase_41}: {tse tviy dim}
+ - {Phrase_42}: {ty mozhesh z namy pohovoryty}
+ - {Phrase_43}: {ya boyus}
+ - {Phrase_44}: {meni strashno}
+ - {Phrase_45}: {strashno}
+ - {Phrase_46}: {stromno}
+ - {Phrase_47}: {kripovo}
+ - {Phrase_48}: {uzhas}
+ - {Phrase_49}: {lyakaye}
+ - {Phrase_50}: {lyakaty}
+ - {Phrase_51}: {blyat}
+ - {Phrase_52}: {suka}
+ - {Phrase_53}: {khovaysya}
+ - {Phrase_54}: {bizhy}
+ - {Phrase_55}: {Pokazhys}
+ - {Phrase_56}: {Yavys}
+ - {Phrase_57}: {Pokazhy}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {koho ti vbyv}
+ - {Ouija_Victim2}: {khto tvoya zhertva}
+ - {Ouija_Victim3}: {Yake imya tvoyeyi zhertvy}
+ - {Ouija_Victim4}: {Yak zvaty tvoyu zhertvu}
+ - {Ouija_Victim5}: {tvoya zhertva}
+ - {Ouija_Victim6}: {ty ubyvtsya}
+ - {Ouija_Victim7}: {koho ty vbyv}
+ - {Ouija_Victim8}: {khto pomer}
+ - {Ouija_Age1}: {skilky tobi}
+ - {Ouija_Age2}: {Skilky tobi rokiv}
+ - {Ouija_Age3}: {Ty staryy}
+ - {Ouija_Age4}: {ty molodyy}
+ - {Ouija_Dead1}: {yak davno ty}
+ - {Ouija_Dead2}: {Skilky rokiv tomu ty pomer}
+ - {Ouija_Dead3}: {yak dovho ty tut}
+ - {Ouija_Dead4}: {yak davno ty pomer}
+ - {Ouija_Dead5}: {koly ty pomer}
+ - {Ouija_RoomAmount1}: {Skilky v tsiy kimnati}
+ - {Ouija_RoomAmount2}: {Skilky nas tut}
+ - {Ouija_RoomAmount3}: {Skilky tut lyudey}
+ - {Ouija_RoomAmount4}: {Skilky pryvydiv}
+ - {Ouija_RoomAmount5}: {Skilky vas tut}
+ - {Ouija_RoomAmount6}: {Ti odyn}
+ - {Ouija_RoomAmount7}: {My odni}
+ - {Ouija_RoomAmount8}: {Khto tut}
+ - {Ouija_RoomAmount9}: {ye v tsiy kimnati}
+ - {Ouija_Location1}: {De ti}
+ - {Ouija_Location2}: {Tvoya ulyublenna kimnata}
+ - {Ouija_Location3}: {Tvoya kimnata}
+ - {Ouija_Location4}: {Yaka z kimnat tvoya}
+ - {Ouija_Location5}: {Ti tut}
+ - {Ouija_Location6}: {Ti poruch}
+ - {Ouija_Location7}: {Tut ye dukhy}
+ - {Ouija_Location8}: {Ty des tut}
+ - {Ouija_Location9}: {Ty poblyzu}
+EVP Recorder Questions:
+ - {Q_What do you want}: {Shcho tobi potribno}
+ - {Q_Why are you here}: {Chomu ty tut}
+ - {Q_Do you want to hurt us}: {Ty khochesh nas vbyty}
+ - {Q_Are you angry}: {Ty zlyshsya}
+ - {Q_Do you want us here}: {Khochesh shchob my zalyshylysya}
+ - {Q_Shall we leave}: {Davayte pidem}
+ - {Q_Should we leave}: {Mozhe nam pity}
+ - {Q_Do you want us to leave}: {Khochesh shchob my pishly}
+ - {Q_What should we do}: {Shcho nam robyty}
+ - {Q_Can we help}: {Tobi dopomohty}
+ - {Q_Are you friendly}: {Ty druh}
+ - {Q_What are you}: {Shcho ty take}
+ - {Q_Where are you}: {De ti}
+ - {Q_Are you close}: {Ty blyzko}
+ - {Q_Can you show yourself}: {Pokazhys}
+ - {Q_Give us a sign}: {Dai nam znak}
+ - {Q_Let us know you are here}: {Dai nam znaty}
+ - {Q_Show yourself}: {Pokazhys}
+ - {Q_Can you talk}: {Skazhy}
+ - {Q_Speak to us}: {Pohovory}
+ - {Q_Are you here}: {Ti tut}
+ - {Q_Are you with us}: {Ti z namy}
+ - {Q_Anybody with us}: {Khtos yeah tut}
+ - {Q_Is anyone here}: {Khto nebud tut ye}
+ - {Q_Anybody in the room}: {YE v kimnati}
+ - {Q_Anybody here}: {Khto tut}
+ - {Q_Is there a spirit here}: {tut ye khtos}
+ - {Q_Is there a Ghost here}: {Tut ye pryvyd}
+ - {Q_What is your location}: {De ty znakhodyshsya}
+ - {Q_Are you a girl}: {Ty divchyna}
+ - {Q_Are you a boy}: {Ty khlopchyk}
+ - {Q_Are you male}: {Ty muzhchyna}
+ - {Q_Are you female}: {Ty zhinka}
+ - {Q_Who are you}: {Khto ti}
+ - {Q_What are you}: {Shcho ty take}
+ - {Q_Who is this}: {Khto tse
+}
+ - {Q_Who are we talking to}: {Z kym my hovorymo}
+ - {Q_Who am I talking to}: {Z kym ya hovoryu}
+ - {Q_Hello}: {Pryvit}
+ - {Q_What is your name}: {Yak tebe zvaty}
+ - {Q_Can you give me your name}: {Nazvy imya}
+ - {Q_What is your gender}: {Yaka tvoya stat}
+ - {Q_What gender}: {Yaka stat}
+ - {Q_Are you male or female}: {Ty cholovik chy zhinka}
+ - {Q_Are you a man}: {Ty khlopets}
+ - {Q_Are you a woman}: {Ty divchyna
+}
+ - {Q_How old are you}: {Skilky tobi rokiv
+}
+ - {Q_How young are you}: {Ty molodyy}
+ - {Q_What is your age}: {Skilky tobi}
+ - {Q_When were you born}: {Koly ty narodyvsya}
+ - {Q_Are you a child}: {Ty dytyna}
+ - {Q_Are you old}: {Ty staryy}
+ - {Q_Are you young}: {Ty molodyy}
