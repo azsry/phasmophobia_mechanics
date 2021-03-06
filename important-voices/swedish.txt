@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {Kan du tala}
+ - {Phrase_2}: {Kan du prata med oss}
+ - {Phrase_3}: {Gör ett ljud}
+ - {Phrase_4}: {Öppna en dörr}
+ - {Phrase_5}: {Öppna denna dörr}
+ - {Phrase_6}: {Tänd ljuset}
+ - {Phrase_7}: {Släck ljuset}
+ - {Phrase_8}: {Finns det några spöken}
+ - {Phrase_9}: {Ge oss ett tecken}
+ - {Phrase_10}: {Visa oss}
+ - {Phrase_11}: {Låt oss veta att du är här}
+ - {Phrase_12}: {Göra någonting}
+ - {Phrase_13}: {Finns det någon med mig}
+ - {Phrase_14}: {Skrik}
+ - {Phrase_15}: {Är du ensam}
+ - {Phrase_16}: {Kan vi prata}
+ - {Phrase_17}: {Skulle vilja prata med dig}
+ - {Phrase_18}: {Är det någon här}
+ - {Phrase_19}: {Kan jag fråga dig}
+ - {Phrase_20}: {Vill du prata}
+ - {Phrase_21}: {Är du den enda här}
+ - {Phrase_22}: {Väntar du}
+ - {Phrase_23}: {Finns det något som jag kan göra}
+ - {Phrase_24}: {Vet du vilka vi är}
+ - {Phrase_25}: {Är du glad}
+ - {Phrase_26}: {Är du här hela tiden}
+ - {Phrase_27}: {Är du man eller kvinna}
+ - {Phrase_28}: {Finns det barn här}
+ - {Phrase_29}: {Vill du att vi ska lämna}
+ - {Phrase_30}: {Kan jag fråga dig}
+ - {Phrase_31}: {Kan du göra ett ljud}
+ - {Phrase_32}: {Visa oss din närvaro}
+ - {Phrase_33}: {Knacka på något}
+ - {Phrase_34}: {Gör ett ljud}
+ - {Phrase_35}: {Öppna dörren}
+ - {Phrase_36}: {Kasta något}
+ - {Phrase_37}: {Prata med mig}
+ - {Phrase_38}: {Prata med oss}
+ - {Phrase_39}: {Vi menar dig ingen}
+ - {Phrase_40}: {Vi är vänner}
+ - {Phrase_41}: {Är detta ditt hem}
+ - {Phrase_42}: {Kan du prata med oss}
+ - {Phrase_43}: {Jag är rädd}
+ - {Phrase_44}: {Jag är rädd}
+ - {Phrase_45}: {Rädd}
+ - {Phrase_46}: {Skrämmande}
+ - {Phrase_47}: {Läskigt}
+ - {Phrase_48}: {Skräck}
+ - {Phrase_49}: {Skrämma}
+ - {Phrase_50}: {Skrämma}
+ - {Phrase_51}: {Panik}
+ - {Phrase_52}: {Skrämsel}
+ - {Phrase_53}: {Dölj}
+ - {Phrase_54}: {Springa}
+ - {Phrase_55}: {Visa din närvaro}
+ - {Phrase_56}: {Visa oss}
+ - {Phrase_57}: {Visa mig}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {Vem dödade du}
+ - {Ouija_Victim2}: {Vem är din offer}
+ - {Ouija_Victim3}: {Vad är namnet på den person du dödade}
+ - {Ouija_Victim4}: {Vad är namnet på den person du mördade}
+ - {Ouija_Victim5}: {Vad är ditt offer}
+ - {Ouija_Victim6}: {Har du mördat}
+ - {Ouija_Victim7}: {Vem har du mördat}
+ - {Ouija_Victim8}: {Vem dog}
+ - {Ouija_Age1}: {Hur gammal är du}
+ - {Ouija_Age2}: {Vad är din ålder}
+ - {Ouija_Age3}: {Är du gammal}
+ - {Ouija_Age4}: {Är du ung}
+ - {Ouija_Dead1}: {Hur länge har du varit död}
+ - {Ouija_Dead2}: {Hur många år sedan dog du}
+ - {Ouija_Dead3}: {Hur länge har du varit här}
+ - {Ouija_Dead4}: {Hur länge sen dog du}
+ - {Ouija_Dead5}: {När dog du}
+ - {Ouija_RoomAmount1}: {Hur många är i detta rum}
+ - {Ouija_RoomAmount2}: {Hur många människor är i detta rum}
+ - {Ouija_RoomAmount3}: {Hur många personer är här}
+ - {Ouija_RoomAmount4}: {Hur många spöken är i detta rum}
+ - {Ouija_RoomAmount5}: {Hur många spöken är här}
+ - {Ouija_RoomAmount6}: {Är du ensam}
+ - {Ouija_RoomAmount7}: {Är vi ensamma}
+ - {Ouija_RoomAmount8}: {Vem är här}
+ - {Ouija_RoomAmount9}: {Vem är i detta rum}
+ - {Ouija_Location1}: {Var är du}
+ - {Ouija_Location2}: {Vilken är din favorit rum}
+ - {Ouija_Location3}: {Var är ditt rum}
+ - {Ouija_Location4}: {Vad är ditt rum}
+ - {Ouija_Location5}: {Är du här}
+ - {Ouija_Location6}: {Är du nära}
+ - {Ouija_Location7}: {Finns det några andar}
+ - {Ouija_Location8}: {Är du i närheten}
+ - {Ouija_Location9}: {Är du i närheten}
+EVP Recorder Questions:
+ - {Q_What do you want}: {Vad vill du}
+ - {Q_Why are you here}: {Varför är du här}
+ - {Q_Do you want to hurt us}: {Vill du skada oss}
+ - {Q_Are you angry}: {Är du arg}
+ - {Q_Do you want us here}: {Vill du ha oss här}
+ - {Q_Shall we leave}: {Ska vi lämna}
+ - {Q_Should we leave}: {Borde vi lämna}
+ - {Q_Do you want us to leave}: {Vill du att vi ska lämna}
+ - {Q_What should we do}: {Vad borde vi göra}
+ - {Q_Can we help}: {Kan vi hjälpa till}
+ - {Q_Are you friendly}: {Är du vänlig}
+ - {Q_What are you}: {Vad är du}
+ - {Q_Where are you}: {Var är du}
+ - {Q_Are you close}: {Är du nära}
+ - {Q_Can you show yourself}: {Kan du visa dig själv}
+ - {Q_Give us a sign}: {Ge oss ett tecken}
+ - {Q_Let us know you are here}: {Låt oss veta att du är här}
+ - {Q_Show yourself}: {Visa dig själv}
+ - {Q_Can you talk}: {Kan du prata}
+ - {Q_Speak to us}: {Prata med oss}
+ - {Q_Are you here}: {Är du här}
+ - {Q_Are you with us}: {Är du med oss}
+ - {Q_Anybody with us}: {Någon med oss}
+ - {Q_Is anyone here}: {Är någon här}
+ - {Q_Anybody in the room}: {Någon i rummet}
+ - {Q_Anybody here}: {Någon här}
+ - {Q_Is there a spirit here}: {Finns det en Ande här}
+ - {Q_Is there a Ghost here}: {Finns det ett Spöke här}
+ - {Q_What is your location}: {Vad är din plats}
+ - {Q_Are you a girl}: {Är du en tjej}
+ - {Q_Are you a boy}: {Är du en pojke}
+ - {Q_Are you male}: {Är du man}
+ - {Q_Are you female}: {Är du kvinna}
+ - {Q_Who are you}: {Vem är du}
+ - {Q_What are you}: {Vad är du}
+ - {Q_Who is this}: {Vem är detta}
+ - {Q_Who are we talking to}: {Vem talar vi med}
+ - {Q_Who am I talking to}: {Vem pratar jag med}
+ - {Q_Hello}: {Hallå}
+ - {Q_What is your name}: {Vad är ditt namn}
+ - {Q_Can you give me your name}: {Kan du ge mig ditt namn}
+ - {Q_What is your gender}: {Vad är ditt kön}
+ - {Q_What gender}: {Vilket kön}
+ - {Q_Are you male or female}: {Är du man eller kvinna}
+ - {Q_Are you a man}: {Är du en man}
+ - {Q_Are you a woman}: {Är du en kvinna}
+ - {Q_How old are you}: {Hur gammal är du}
+ - {Q_How young are you}: {Hur ung är du}
+ - {Q_What is your age}: {Vad är din ålder}
+ - {Q_When were you born}: {När föddes du}
+ - {Q_Are you a child}: {Är du ett barn}
+ - {Q_Are you old}: {Är du gammal}
+ - {Q_Are you young}: {Är du ung}

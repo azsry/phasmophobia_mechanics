@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {Kan du snakke}
+ - {Phrase_2}: {Kan du snakke med oss}
+ - {Phrase_3}: {Lag en lyd}
+ - {Phrase_4}: {Åpne en dør}
+ - {Phrase_5}: {Åpne døren}
+ - {Phrase_6}: {Slå på lyset}
+ - {Phrase_7}: {Slå av lyset}
+ - {Phrase_8}: {Er det noen spøkelser}
+ - {Phrase_9}: {Gi oss et tegn}
+ - {Phrase_10}: {Vis oss}
+ - {Phrase_11}: {La oss få vite at du er her}
+ - {Phrase_12}: {Gjør noe}
+ - {Phrase_13}: {Er det noen med meg}
+ - {Phrase_14}: {Hyle}
+ - {Phrase_15}: {Er du alene}
+ - {Phrase_16}: {Kan vi snakke}
+ - {Phrase_17}: {vil gjerne snakke med deg}
+ - {Phrase_18}: {Er det noen her}
+ - {Phrase_19}: {Kan jeg spørre deg}
+ - {Phrase_20}: {Vil du snakke}
+ - {Phrase_21}: {Er du den eneste her}
+ - {Phrase_22}: {Venter du}
+ - {Phrase_23}: {Er det noe jeg kan gjøre}
+ - {Phrase_24}: {Vet du hvem vi er}
+ - {Phrase_25}: {Er du glad}
+ - {Phrase_26}: {Er du her hele tiden}
+ - {Phrase_27}: {Er du mann eller kvinne}
+ - {Phrase_28}: {Er det barn her}
+ - {Phrase_29}: {Ønsker du oss til å forlate}
+ - {Phrase_30}: {Kan jeg spørre deg}
+ - {Phrase_31}: {Kan du lage en lyd}
+ - {Phrase_32}: {Vis oss ditt nærvær}
+ - {Phrase_33}: {Knock noe}
+ - {Phrase_34}: {Lag en lyd}
+ - {Phrase_35}: {Åpne døren}
+ - {Phrase_36}: {kast noe}
+ - {Phrase_37}: {Snakk med meg}
+ - {Phrase_38}: {Snakk til oss}
+ - {Phrase_39}: {Vi mener du ingen skade}
+ - {Phrase_40}: {Vi er venner}
+ - {Phrase_41}: {Er dette ditt hjem}
+ - {Phrase_42}: {Kan du snakke med oss}
+ - {Phrase_43}: {jeg er redd}
+ - {Phrase_44}: {jeg er redd}
+ - {Phrase_45}: {redd}
+ - {Phrase_46}: {skummelt}
+ - {Phrase_47}: {skummelt}
+ - {Phrase_48}: {Skrekk}
+ - {Phrase_49}: {Skremme}
+ - {Phrase_50}: {Skremme}
+ - {Phrase_51}: {panikk}
+ - {Phrase_52}: {Frykt}
+ - {Phrase_53}: {Gjemme seg}
+ - {Phrase_54}: {Løpe}
+ - {Phrase_55}: {Vis din tilstedeværelse}
+ - {Phrase_56}: {Vis oss}
+ - {Phrase_57}: {Vis meg}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {Hvem drepte du}
+ - {Ouija_Victim2}: {Hvem er offeret}
+ - {Ouija_Victim3}: {Hva er navnet på den personen du drepte}
+ - {Ouija_Victim4}: {Hva er navnet på den personen du myrdet}
+ - {Ouija_Victim5}: {Hva er ditt offer}
+ - {Ouija_Victim6}: {Har du drepe}
+ - {Ouija_Victim7}: {Hvem har du myrde}
+ - {Ouija_Victim8}: {Hvem døde}
+ - {Ouija_Age1}: {Hvor gammel er du}
+ - {Ouija_Age2}: {Hvor gammel er du}
+ - {Ouija_Age3}: {Er du gammel}
+ - {Ouija_Age4}: {Er du ung}
+ - {Ouija_Dead1}: {Hvor lenge har du vært død}
+ - {Ouija_Dead2}: {Hvor mange år siden gjorde du dør}
+ - {Ouija_Dead3}: {Hvor lenge har du vært her}
+ - {Ouija_Dead4}: {Hvor lenge er det siden du dør}
+ - {Ouija_Dead5}: {Når begynte du dør}
+ - {Ouija_RoomAmount1}: {Hvor mange er i dette rommet}
+ - {Ouija_RoomAmount2}: {Hvor mange mennesker er i dette rommet}
+ - {Ouija_RoomAmount3}: {Hvor mange mennesker er her}
+ - {Ouija_RoomAmount4}: {Hvor mange spøkelser er i dette rommet}
+ - {Ouija_RoomAmount5}: {Hvor mange spøkelser er her}
+ - {Ouija_RoomAmount6}: {Er du alene}
+ - {Ouija_RoomAmount7}: {Er vi alene}
+ - {Ouija_RoomAmount8}: {Hvem er her}
+ - {Ouija_RoomAmount9}: {Hvem er i dette rommet}
+ - {Ouija_Location1}: {Hvor er du}
+ - {Ouija_Location2}: {Hva er din favoritt rom}
+ - {Ouija_Location3}: {Hvor er rommet ditt}
+ - {Ouija_Location4}: {Hva har du på rommet}
+ - {Ouija_Location5}: {Er du her}
+ - {Ouija_Location6}: {Er du nærme}
+ - {Ouija_Location7}: {Er det noen ånder}
+ - {Ouija_Location8}: {Er du i nærheten}
+ - {Ouija_Location9}: {Er du i nærheten}
+EVP Recorder Questions:
+ - {Q_What do you want}: {Hva vil du}
+ - {Q_Why are you here}: {Hvorfor er du her}
+ - {Q_Do you want to hurt us}: {Ønsker du å skade oss}
+ - {Q_Are you angry}: {Er du sint}
+ - {Q_Do you want us here}: {Ønsker du oss her}
+ - {Q_Shall we leave}: {Skal vi dra}
+ - {Q_Should we leave}: {Bør vi dra}
+ - {Q_Do you want us to leave}: {Ønsker du at vi skal dra}
+ - {Q_What should we do}: {Hva skal vi gjøre}
+ - {Q_Can we help}: {Kan vi hjelpe}
+ - {Q_Are you friendly}: {Er du vennlig}
+ - {Q_What are you}: {Hva er du}
+ - {Q_Where are you}: {Hvor er du}
+ - {Q_Are you close}: {Er du nær}
+ - {Q_Can you show yourself}: {Kan du vise deg}
+ - {Q_Give us a sign}: {Gi oss et tegn}
+ - {Q_Let us know you are here}: {La oss vite du er her}
+ - {Q_Show yourself}: {Vis deg}
+ - {Q_Can you talk}: {Kan du snakke}
+ - {Q_Speak to us}: {Snakk med oss}
+ - {Q_Are you here}: {Er du her}
+ - {Q_Are you with us}: {Er du med oss}
+ - {Q_Anybody with us}: {Noe her}
+ - {Q_Is anyone here}: {Er det noen her}
+ - {Q_Anybody in the room}: {Noen i rommet}
+ - {Q_Anybody here}: {Noen her}
+ - {Q_Is there a spirit here}: {Er det en ånd her}
+ - {Q_Is there a Ghost here}: {Er det et spøkelse her}
+ - {Q_What is your location}: {Hvor er du}
+ - {Q_Are you a girl}: {Er du en jente}
+ - {Q_Are you a boy}: {Er du en gutt}
+ - {Q_Are you male}: {Er du mann}
+ - {Q_Are you female}: {Er du kvinne}
+ - {Q_Who are you}: {Hvem er du}
+ - {Q_What are you}: {Hva er du}
+ - {Q_Who is this}: {Hvem er dette}
+ - {Q_Who are we talking to}: {Hvem snakker jeg med}
+ - {Q_Who am I talking to}: {Hvem snakker jeg til}
+ - {Q_Hello}: {Hallo}
+ - {Q_What is your name}: {Hva heter du}
+ - {Q_Can you give me your name}: {Kan du gi meg navnet ditt}
+ - {Q_What is your gender}: {Hvilket kjønn er du}
+ - {Q_What gender}: {Hvilket kjønn}
+ - {Q_Are you male or female}: {Er du mann eller kvinne}
+ - {Q_Are you a man}: {Er du en mann}
+ - {Q_Are you a woman}: {Er du en kvinne}
+ - {Q_How old are you}: {Hvor gammel er du}
+ - {Q_How young are you}: {Hvor ung er du}
+ - {Q_What is your age}: {Hva er din alder}
+ - {Q_When were you born}: {Når ble du født}
+ - {Q_Are you a child}: {Er du et barn}
+ - {Q_Are you old}: {Er du gammel}
+ - {Q_Are you young}: {Er du ung}

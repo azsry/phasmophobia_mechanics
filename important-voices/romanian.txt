@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {Potsi vorbi}
+ - {Phrase_2}: {Potsi suh vorbeshti cu noi}
+ - {Phrase_3}: {Fuh un sunet}
+ - {Phrase_4}: {Deschide o ushuh}
+ - {Phrase_5}: {Deschide usha}
+ - {Phrase_6}: {Aprinde lumina}
+ - {Phrase_7}: {Stinge lumina}
+ - {Phrase_8}: {Este vreo fantomuh}
+ - {Phrase_9}: {Dă-ne un semn}
+ - {Phrase_10}: {Aratuh-ne ceva}
+ - {Phrase_11}: {Aratuh-ne un semn}
+ - {Phrase_12}: {Fă ceva}
+ - {Phrase_13}: {Este cineva cu mine}
+ - {Phrase_14}: {Tsipuh}
+ - {Phrase_15}: {Eshti singur}
+ - {Phrase_16}: {Putem vorbi}
+ - {Phrase_17}: {Am dori suh vorbim cu tine}
+ - {Phrase_18}: {E cineva aici}
+ - {Phrase_19}: {Pot suh te intreb}
+ - {Phrase_20}: {Mi-ar pluhcea suh vorbim}
+ - {Phrase_21}: {Suntetsi singurul de aici}
+ - {Phrase_22}: {Tu ashteptsi}
+ - {Phrase_23}: {Este ceva ce pot face}
+ - {Phrase_24}: {Shtii cine suntem}
+ - {Phrase_25}: {Eshti fericit}
+ - {Phrase_26}: {Suntetsi aici mereu}
+ - {Phrase_27}: {Eshti buhrbat sau femeie}
+ - {Phrase_28}: {Este vreoon copil pe aici}
+ - {Phrase_29}: {Vrei suh plecuhm}
+ - {Phrase_30}: {Pot suh te ihntreb}
+ - {Phrase_31}: {Potsi scoate un zgomot}
+ - {Phrase_32}: {Aratuh-ne prezentsa ta}
+ - {Phrase_33}: {Duh ceva pe jos}
+ - {Phrase_34}: {Fuh un sunet}
+ - {Phrase_35}: {Deschide usha}
+ - {Phrase_36}: {Aruncuh ceva}
+ - {Phrase_37}: {Vorbeshte}
+ - {Phrase_38}: {Vorbeshte cu noi}
+ - {Phrase_39}: {Noi vuh facem ruhooh}
+ - {Phrase_40}: {Noi suntem prieteni}
+ - {Phrase_41}: {Este casa ta}
+ - {Phrase_42}: {Potsi suh vorbeshti cu noi}
+ - {Phrase_43}: {Sunt speriat}
+ - {Phrase_44}: {Mi-e fricuh}
+ - {Phrase_45}: {Speriat}
+ - {Phrase_46}: {ihnfricoshuhtor}
+ - {Phrase_47}: {ihnfricoshuhtor}
+ - {Phrase_48}: {groazuh}
+ - {Phrase_49}: {Sperie}
+ - {Phrase_50}: {Speria}
+ - {Phrase_51}: {Panicuh}
+ - {Phrase_52}: {Sperieturuh}
+ - {Phrase_53}: {Ascunde}
+ - {Phrase_54}: {Fugi}
+ - {Phrase_55}: {Aratuhne}
+ - {Phrase_56}: {Aratuhneh}
+ - {Phrase_57}: {Aruhtatsimi}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {Pe cine ai ucis}
+ - {Ouija_Victim2}: {Cine este victima ta}
+ - {Ouija_Victim3}: {Care este numele persoanei pe care l-ai ucis}
+ - {Ouija_Victim4}: {Care este numele persoanei pe care ai ucis}
+ - {Ouija_Victim5}: {Care este victima}
+ - {Ouija_Victim6}: {Ahts omoriht}
+ - {Ouija_Victim7}: {Pe cine ai omoriht}
+ - {Ouija_Victim8}: {Cine a murit}
+ - {Ouija_Age1}: {Cihts ani ai}
+ - {Ouija_Age2}: {Ce vihrstuh ai}
+ - {Ouija_Age3}: {Eshti buhtrihn}
+ - {Ouija_Age4}: {Eshti tihnuhr}
+ - {Ouija_Dead1}: {De ciht timp eshti mort}
+ - {Ouija_Dead2}: {Acum cihts ani ai murit}
+ - {Ouija_Dead3}: {De cight timp eshti aici}
+ - {Ouija_Dead4}: {Cu ciht timp ihn urmuh ai murit}
+ - {Ouija_Dead5}: {Cihnd ai murit}
+ - {Ouija_RoomAmount1}: {Ciht de multsi sunt ihn aceastuh cameruh}
+ - {Ouija_RoomAmount2}: {Ciht de multsi oameni sunt ihn aceastuh cameruh}
+ - {Ouija_RoomAmount3}: {Ciht de multsi oameni sunt aici}
+ - {Ouija_RoomAmount4}: {Ciht de multe fantome sunt ihn aceastuh cameruh}
+ - {Ouija_RoomAmount5}: {Cihte fantome sunt aici}
+ - {Ouija_RoomAmount6}: {Eshti singur}
+ - {Ouija_RoomAmount7}: {Suntem singuri}
+ - {Ouija_RoomAmount8}: {Cine e aici}
+ - {Ouija_RoomAmount9}: {Cine este in aceastuh cameruh}
+ - {Ouija_Location1}: {Unde eshti }
+ - {Ouija_Location2}: {Care este camera ta preferatuh}
+ - {Ouija_Location3}: {Unde este camera ta}
+ - {Ouija_Location4}: {Care este camera ta}
+ - {Ouija_Location5}: {Eshti aici}
+ - {Ouija_Location6}: {Eshti aproape}
+ - {Ouija_Location7}: {Existuh spirite}
+ - {Ouija_Location8}: {Suntetsi aproape}
+ - {Ouija_Location9}: {Eshti prin zonuh}
+EVP Recorder Questions:
+ - {Q_What do you want}: {Ce vrei}
+ - {Q_Why are you here}: {De ce eshti aici}
+ - {Q_Do you want to hurt us}: {Vrei suh ne faci ruhooh}
+ - {Q_Are you angry}: {Suntetsi nervos}
+ - {Q_Do you want us here}: {Doreshti suh stuhm aici}
+ - {Q_Shall we leave}: {Vretsi sa plecuhm}
+ - {Q_Should we leave}: {Ar trebui suh plecuhm}
+ - {Q_Do you want us to leave}: {Vrei suh plecuhm}
+ - {Q_What should we do}: {Ce ar trebui suh facem}
+ - {Q_Can we help}: {Putem ajuta}
+ - {Q_Are you friendly}: {Eshti prietenos}
+ - {Q_What are you}: {Ce eshti}
+ - {Q_Where are you}: {Unde eshti}
+ - {Q_Are you close}: {Eshti aproape}
+ - {Q_Can you show yourself}: {Poti suh te aruhtsi}
+ - {Q_Give us a sign}: {Dă-ne un semn}
+ - {Q_Let us know you are here}: {Ne dai un semn cuh eshti aici}
+ - {Q_Show yourself}: {Aratuh-te}
+ - {Q_Can you talk}: {Potsi vorbi}
+ - {Q_Speak to us}: {Vorbeshte-ne}
+ - {Q_Are you here}: {Eshti aici}
+ - {Q_Are you with us}: {Suntetsi}
+ - {Q_Anybody with us}: {Cineva cu noi}
+ - {Q_Is anyone here}: {Este cineva aici}
+ - {Q_Anybody in the room}: {Cineva in cameruh}
+ - {Q_Anybody here}: {Cineva aici}
+ - {Q_Is there a spirit here}: {Este un spirit aici}
+ - {Q_Is there a Ghost here}: {Existuh o fantomuh aici}
+ - {Q_What is your location}: {Unde te aflii}
+ - {Q_Are you a girl}: {Eshti fatuh}
+ - {Q_Are you a boy}: {Eshti un buhiat}
+ - {Q_Are you male}: {Eshti buhrbat}
+ - {Q_Are you female}: {Eshti femeie}
+ - {Q_Who are you}: {Cine eshti}
+ - {Q_What are you}: {Ce eshti}
+ - {Q_Who is this}: {Cine suntetsi}
+ - {Q_Who are we talking to}: {Cu cine vorbim}
+ - {Q_Who am I talking to}: {Cu cine vorbesc}
+ - {Q_Hello}: {Buna ziua}
+ - {Q_What is your name}: {Cum te numeshti}
+ - {Q_Can you give me your name}: {Potsi suh-mi dai numele tuhu}
+ - {Q_What is your gender}: {Care este sexul tuhu}
+ - {Q_What gender}: {Ce eshti}
+ - {Q_Are you male or female}: {Eshti buhrbat sau femeie}
+ - {Q_Are you a man}: {Eshti buhrbat}
+ - {Q_Are you a woman}: {Eshti femeie}
+ - {Q_How old are you}: {Cihtsi ani ai}
+ - {Q_How young are you}: {Ciht de tanar eshti}
+ - {Q_What is your age}: {Ce vihrstuh ai}
+ - {Q_When were you born}: {Cihnd te-ai nuhscut}
+ - {Q_Are you a child}: {Eshti un copil}
+ - {Q_Are you old}: {Eshti buhtrihn}
+ - {Q_Are you young}: {Eshti tihnuhr}

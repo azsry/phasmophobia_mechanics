@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {話せますか？}
+ - {Phrase_2}: {話して}
+ - {Phrase_3}: {音をだして}
+ - {Phrase_4}: {ドアを開けて}
+ - {Phrase_5}: {ドア開けて}
+ - {Phrase_6}: {電気をつけて}
+ - {Phrase_7}: {電気を消して}
+ - {Phrase_8}: {ゴーストいますか}
+ - {Phrase_9}: {もしもし}
+ - {Phrase_10}: {見せて}
+ - {Phrase_11}: {ここに居るなら}
+ - {Phrase_12}: {なにかして}
+ - {Phrase_13}: {誰かいませんか？}
+ - {Phrase_14}: {叫んで}
+ - {Phrase_15}: {一人ですか}
+ - {Phrase_16}: {返事して}
+ - {Phrase_17}: {はなしたい}
+ - {Phrase_18}: {いますか}
+ - {Phrase_19}: {質問}
+ - {Phrase_20}: {あなたと話したい}
+ - {Phrase_21}: {あなただけ}
+ - {Phrase_22}: {待ってる}
+ - {Phrase_23}: {なにかできる}
+ - {Phrase_24}: {私たちを知って}
+ - {Phrase_25}: {幸せ}
+ - {Phrase_26}: {ずっとここに}
+ - {Phrase_27}: {男？女？}
+ - {Phrase_28}: {子供はいますか}
+ - {Phrase_29}: {出て行ってほしい}
+ - {Phrase_30}: {聞きたい}
+ - {Phrase_31}: {音をたてて}
+ - {Phrase_32}: {出てきて}
+ - {Phrase_33}: {何かたたいて}
+ - {Phrase_34}: {音を鳴らして}
+ - {Phrase_35}: {ドアを開けて}
+ - {Phrase_36}: {何か投げて}
+ - {Phrase_37}: {話して}
+ - {Phrase_38}: {私達と話して}
+ - {Phrase_39}: {仲良く}
+ - {Phrase_40}: {友達}
+ - {Phrase_41}: {ここはあなたの家}
+ - {Phrase_42}: {話せる}
+ - {Phrase_43}: {たすけて}
+ - {Phrase_44}: {まずい}
+ - {Phrase_45}: {ちょっと待って}
+ - {Phrase_46}: {やば}
+ - {Phrase_47}: {ビビった}
+ - {Phrase_48}: {こわ}
+ - {Phrase_49}: {びっくり}
+ - {Phrase_50}: {逃げよ}
+ - {Phrase_51}: {出る}
+ - {Phrase_52}: {心臓に悪い}
+ - {Phrase_53}: {やだ}
+ - {Phrase_54}: {帰りたい}
+ - {Phrase_55}: {姿を見せ}
+ - {Phrase_56}: {見せて}
+ - {Phrase_57}: {私達にみせて}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {誰を殺しましたか？}
+ - {Ouija_Victim2}: {殺されたのは誰ですか？}
+ - {Ouija_Victim3}: {殺した人の名前はなんですか？}
+ - {Ouija_Victim4}: {殺害された人の名前はなんですか？}
+ - {Ouija_Victim5}: {殺された人の名前はなんですか？}
+ - {Ouija_Victim6}: {殺しましたか？}
+ - {Ouija_Victim7}: {誰か殺しましたか？}
+ - {Ouija_Victim8}: {誰が死にましたか？}
+ - {Ouija_Age1}: {あなたは何歳ですか？}
+ - {Ouija_Age2}: {何歳ですか？}
+ - {Ouija_Age3}: {大人ですか？}
+ - {Ouija_Age4}: {若いですか？}
+ - {Ouija_Dead1}: {いつ死にましたか？}
+ - {Ouija_Dead2}: {いつ亡くなったんですか？}
+ - {Ouija_Dead3}: {いつからここに居ますか？}
+ - {Ouija_Dead4}: {何年前に死にましたか？}
+ - {Ouija_Dead5}: {いつ死にましたか？}
+ - {Ouija_RoomAmount1}: {この部屋に何人いますか？}
+ - {Ouija_RoomAmount2}: {ここ何人いますか？}
+ - {Ouija_RoomAmount3}: {何人いますか？}
+ - {Ouija_RoomAmount4}: {何人ゴーストが居ますか？}
+ - {Ouija_RoomAmount5}: {ゴーストは何人居ますか？}
+ - {Ouija_RoomAmount6}: {一人ですか？}
+ - {Ouija_RoomAmount7}: {誰もいませんか？}
+ - {Ouija_RoomAmount8}: {誰が居ますか？}
+ - {Ouija_RoomAmount9}: {この部屋に誰がいますか？}
+ - {Ouija_Location1}: {どこにいますか？}
+ - {Ouija_Location2}: {好きな部屋はどこですか？}
+ - {Ouija_Location3}: {あなたの部屋はどこですか？}
+ - {Ouija_Location4}: {どの部屋にいますか？}
+ - {Ouija_Location5}: {ここにいますか？}
+ - {Ouija_Location6}: {近くにいますか？}
+ - {Ouija_Location7}: {ゴーストありますか}
+ - {Ouija_Location8}: {近くですか？}
+ - {Ouija_Location9}: {いますか？}
+EVP Recorder Questions:
+ - {Q_What do you want}: {なにがしたいですか？}
+ - {Q_Why are you here}: {なんで居るんですか？}
+ - {Q_Do you want to hurt us}: {攻撃しますか？}
+ - {Q_Are you angry}: {怒ってますか？}
+ - {Q_Do you want us here}: {ここにいていいですか？}
+ - {Q_Shall we leave}: {帰りましょうか？}
+ - {Q_Should we leave}: {帰ったほうがいい？}
+ - {Q_Do you want us to leave}: {出て行って欲しいですか？}
+ - {Q_What should we do}: {何すればいい？}
+ - {Q_Can we help}: {何か力になれますか？}
+ - {Q_Are you friendly}: {敵意はありますか？}
+ - {Q_What are you}: {何者？}
+ - {Q_Where are you}: {どこに居ますか？}
+ - {Q_Are you close}: {近くに居ますか？}
+ - {Q_Can you show yourself}: {姿を見せて}
+ - {Q_Give us a sign}: {アピールしてください}
+ - {Q_Let us know you are here}: {もしもし}
+ - {Q_Show yourself}: {出てきてくれますか}
+ - {Q_Can you talk}: {話をしませんか}
+ - {Q_Speak to us}: {話してください}
+ - {Q_Are you here}: {ここにいますか？}
+ - {Q_Are you with us}: {今いますか}
+ - {Q_Anybody with us}: {誰かいますか？}
+ - {Q_Is anyone here}: {誰かいませんか？}
+ - {Q_Anybody in the room}: {部屋に誰かいますか？}
+ - {Q_Anybody here}: {こんばんは}
+ - {Q_Is there a spirit here}: {ゴーストいますか？}
+ - {Q_Is there a Ghost here}: {ここにいますか？}
+ - {Q_What is your location}: {あなたはどこですか？}
+ - {Q_Are you a girl}: {女の子ですか？}
+ - {Q_Are you a boy}: {男の子ですか？}
+ - {Q_Are you male}: {男ですか？}
+ - {Q_Are you female}: {女ですか？}
+ - {Q_Who are you}: {あなたは誰ですか？}
+ - {Q_What are you}: {何者？}
+ - {Q_Who is this}: {誰ですか？}
+ - {Q_Who are we talking to}: {誰が話して}
+ - {Q_Who am I talking to}: {私は誰に話してますか？}
+ - {Q_Hello}: {こんにちは}
+ - {Q_What is your name}: {名前はなんですか？}
+ - {Q_Can you give me your name}: {名前を教えてください}
+ - {Q_What is your gender}: {あなたの性別は？}
+ - {Q_What gender}: {性別はどっちですか？}
+ - {Q_Are you male or female}: {男ですか？女ですか？}
+ - {Q_Are you a man}: {男性ですか？}
+ - {Q_Are you a woman}: {女性ですか？}
+ - {Q_How old are you}: {何歳ですか？}
+ - {Q_How young are you}: {おいくつですか}
+ - {Q_What is your age}: {あなたは何歳？}
+ - {Q_When were you born}: {いつ生まれですか？}
+ - {Q_Are you a child}: {子供ですか？}
+ - {Q_Are you old}: {大人ですか？}
+ - {Q_Are you young}: {若いですか？}

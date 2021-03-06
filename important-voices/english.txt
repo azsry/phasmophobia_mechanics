@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {Can you speak}
+ - {Phrase_2}: {Can you speak to us}
+ - {Phrase_3}: {Make a noise}
+ - {Phrase_4}: {Open a door}
+ - {Phrase_5}: {Open this door}
+ - {Phrase_6}: {Turn on the light}
+ - {Phrase_7}: {Turn off the light}
+ - {Phrase_8}: {Are there any ghosts}
+ - {Phrase_9}: {Give us a sign}
+ - {Phrase_10}: {Show us}
+ - {Phrase_11}: {Let us know you are here}
+ - {Phrase_12}: {Do something}
+ - {Phrase_13}: {Is there anyone with me}
+ - {Phrase_14}: {Scream}
+ - {Phrase_15}: {Are you alone}
+ - {Phrase_16}: {Can we speak}
+ - {Phrase_17}: {would like to speak to you}
+ - {Phrase_18}: {Is there anyone here}
+ - {Phrase_19}: {May I ask you}
+ - {Phrase_20}: {Would you like to talk}
+ - {Phrase_21}: {Are you the only one here}
+ - {Phrase_22}: {Are you waiting}
+ - {Phrase_23}: {Is there anything that I can do}
+ - {Phrase_24}: {Do you know who we are}
+ - {Phrase_25}: {Are you happy}
+ - {Phrase_26}: {Are you here all the time}
+ - {Phrase_27}: {Are you male or female}
+ - {Phrase_28}: {Are there children here}
+ - {Phrase_29}: {Do you want us to leave}
+ - {Phrase_30}: {Can I ask you }
+ - {Phrase_31}: {Can you make a sound}
+ - {Phrase_32}: {Show us your presence}
+ - {Phrase_33}: {Knock something}
+ - {Phrase_34}: {Make a sound}
+ - {Phrase_35}: {Open the door}
+ - {Phrase_36}: {Throw something}
+ - {Phrase_37}: {Talk to me}
+ - {Phrase_38}: {Talk to us}
+ - {Phrase_39}: {We mean you no harm}
+ - {Phrase_40}: {We are friends}
+ - {Phrase_41}: {Is this your home}
+ - {Phrase_42}: {Can you speak to us}
+ - {Phrase_43}: {I'm scared}
+ - {Phrase_44}: {I am scared}
+ - {Phrase_45}: {scared}
+ - {Phrase_46}: {scary}
+ - {Phrase_47}: {spooky}
+ - {Phrase_48}: {Horror}
+ - {Phrase_49}: {Scare}
+ - {Phrase_50}: {Frighten}
+ - {Phrase_51}: {panic}
+ - {Phrase_52}: {Fright}
+ - {Phrase_53}: {Hide}
+ - {Phrase_54}: {Run}
+ - {Phrase_55}: {Show your presence}
+ - {Phrase_56}: {Show us}
+ - {Phrase_57}: {Show me}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {Who did you kill}
+ - {Ouija_Victim2}: {Who is your victim}
+ - {Ouija_Victim3}: {What is the name of the person you killed}
+ - {Ouija_Victim4}: {What is the name of the person you murdered}
+ - {Ouija_Victim5}: {What is your victim}
+ - {Ouija_Victim6}: {Did you murder}
+ - {Ouija_Victim7}: {Who did you murder}
+ - {Ouija_Victim8}: {Who died}
+ - {Ouija_Age1}: {How old are you}
+ - {Ouija_Age2}: {What is your age}
+ - {Ouija_Age3}: {Are you old}
+ - {Ouija_Age4}: {Are you young}
+ - {Ouija_Dead1}: {How long have you been dead}
+ - {Ouija_Dead2}: {How many years ago did you die}
+ - {Ouija_Dead3}: {How long have you been here}
+ - {Ouija_Dead4}: {How long ago did you die}
+ - {Ouija_Dead5}: {When did you die}
+ - {Ouija_RoomAmount1}: {How many are in this room}
+ - {Ouija_RoomAmount2}: {How many people are in this room}
+ - {Ouija_RoomAmount3}: {How many people are here}
+ - {Ouija_RoomAmount4}: {How many ghosts are in this room}
+ - {Ouija_RoomAmount5}: {How many ghosts are here}
+ - {Ouija_RoomAmount6}: {Are you alone}
+ - {Ouija_RoomAmount7}: {Are we alone}
+ - {Ouija_RoomAmount8}: {Who is here}
+ - {Ouija_RoomAmount9}: {Who is in this room}
+ - {Ouija_Location1}: {Where are you}
+ - {Ouija_Location2}: {What is your favourite room}
+ - {Ouija_Location3}: {Where is your room}
+ - {Ouija_Location4}: {What is your room}
+ - {Ouija_Location5}: {Are you here}
+ - {Ouija_Location6}: {Are you close}
+ - {Ouija_Location7}: {Are there any spirits}
+ - {Ouija_Location8}: {Are you near}
+ - {Ouija_Location9}: {Are you around}
+EVP Recorder Questions:
+ - {Q_What do you want}: {What do you want}
+ - {Q_Why are you here}: {Why are you here}
+ - {Q_Do you want to hurt us}: {Do you want to hurt us}
+ - {Q_Are you angry}: {Are you angry}
+ - {Q_Do you want us here}: {Do you want us here}
+ - {Q_Shall we leave}: {Shall we leave}
+ - {Q_Should we leave}: {Should we leave}
+ - {Q_Do you want us to leave}: {Do you want us to leave}
+ - {Q_What should we do}: {What should we do}
+ - {Q_Can we help}: {Can we help}
+ - {Q_Are you friendly}: {Are you friendly}
+ - {Q_What are you}: {What are you}
+ - {Q_Where are you}: {Where are you}
+ - {Q_Are you close}: {Are you close}
+ - {Q_Can you show yourself}: {Can you show yourself}
+ - {Q_Give us a sign}: {Give us a sign}
+ - {Q_Let us know you are here}: {Let us know you are here}
+ - {Q_Show yourself}: {Show yourself}
+ - {Q_Can you talk}: {Can you talk}
+ - {Q_Speak to us}: {Speak to us}
+ - {Q_Are you here}: {Are you here}
+ - {Q_Are you with us}: {Are you with us}
+ - {Q_Anybody with us}: {Anybody with us}
+ - {Q_Is anyone here}: {Is anyone here}
+ - {Q_Anybody in the room}: {Anybody in the room}
+ - {Q_Anybody here}: {Anybody here}
+ - {Q_Is there a spirit here}: {Is there a spirit here}
+ - {Q_Is there a Ghost here}: {Is there a Ghost here}
+ - {Q_What is your location}: {What is your location}
+ - {Q_Are you a girl}: {Are you a girl}
+ - {Q_Are you a boy}: {Are you a boy}
+ - {Q_Are you male}: {Are you male}
+ - {Q_Are you female}: {Are you female}
+ - {Q_Who are you}: {Who are you}
+ - {Q_What are you}: {What are you}
+ - {Q_Who is this}: {Who is this}
+ - {Q_Who are we talking to}: {Who are we talking to}
+ - {Q_Who am I talking to}: {Who am I talking to}
+ - {Q_Hello}: {Hello}
+ - {Q_What is your name}: {What is your name}
+ - {Q_Can you give me your name}: {Can you give me your name}
+ - {Q_What is your gender}: {What is your gender}
+ - {Q_What gender}: {What gender}
+ - {Q_Are you male or female}: {Are you male or female}
+ - {Q_Are you a man}: {Are you a man}
+ - {Q_Are you a woman}: {Are you a woman}
+ - {Q_How old are you}: {How old are you}
+ - {Q_How young are you}: {How young are you}
+ - {Q_What is your age}: {What is your age}
+ - {Q_When were you born}: {When were you born}
+ - {Q_Are you a child}: {Are you a child}
+ - {Q_Are you old}: {Are you old}
+ - {Q_Are you young}: {Are you young}

@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {Tudsz beszélni}
+ - {Phrase_2}: {Tudsz beszélni hozzánk}
+ - {Phrase_3}: {Csapj zajt}
+ - {Phrase_4}: {Nyiss ki egy ajtót}
+ - {Phrase_5}: {Nyisd ki ezt az ajtót}
+ - {Phrase_6}: {Kapcsold fel a villanyt}
+ - {Phrase_7}: {Kapcsold le a villanyt}
+ - {Phrase_8}: {Van itt bármilyen szellem}
+ - {Phrase_9}: {Adj nekünk jelet}
+ - {Phrase_10}: {Mutasd meg}
+ - {Phrase_11}: {Jelezd ha itt vagy}
+ - {Phrase_12}: {Csinálj valamit}
+ - {Phrase_13}: {Van itt velem valaki}
+ - {Phrase_14}: {Sikíts}
+ - {Phrase_15}: {Egyedül vagy}
+ - {Phrase_16}: {Beszélhetünk}
+ - {Phrase_17}: {Szeretnék beszélni veled}
+ - {Phrase_18}: {Van itt valaki}
+ - {Phrase_19}: {Megkérdezhetem}
+ - {Phrase_20}: {Szeretnél beszélgetni}
+ - {Phrase_21}: {Egyedül vagy itt}
+ - {Phrase_22}: {Vársz}
+ - {Phrase_23}: {Tehetek valamit}
+ - {Phrase_24}: {Tudod kik vagyunk}
+ - {Phrase_25}: {Boldog vagy}
+ - {Phrase_26}: {Mindig itt vagy}
+ - {Phrase_27}: {Férfi vagy nő vagy}
+ - {Phrase_28}: {Vannak itt gyerekek}
+ - {Phrase_29}: {Szeretnéd hogy elmenjünk}
+ - {Phrase_30}: {Kérdezhetek}
+ - {Phrase_31}: {Tudsz hangot kiadni}
+ - {Phrase_32}: {Mutasd magad}
+ - {Phrase_33}: {Kopogtass}
+ - {Phrase_34}: {Adj ki hangot}
+ - {Phrase_35}: {Nyisd ki az ajtót}
+ - {Phrase_36}: {Dobj valamit}
+ - {Phrase_37}: {Beszélj hozzám}
+ - {Phrase_38}: {Beszélj hozzánk}
+ - {Phrase_39}: {Nem akarunk bántani}
+ - {Phrase_40}: {Barátok vagyunk}
+ - {Phrase_41}: {Ez az otthonod}
+ - {Phrase_42}: {Tudsz beszélni hozzánk}
+ - {Phrase_43}: {Félek}
+ - {Phrase_44}: {para}
+ - {Phrase_45}: {megijedtem}
+ - {Phrase_46}: {ijesztő}
+ - {Phrase_47}: {kísérteties}
+ - {Phrase_48}: {Horror}
+ - {Phrase_49}: {Ijessz meg}
+ - {Phrase_50}: {megrémültem}
+ - {Phrase_51}: {pánik}
+ - {Phrase_52}: {rémisztő}
+ - {Phrase_53}: {Bújj el}
+ - {Phrase_54}: {Fuss}
+ - {Phrase_55}: {Mutasd magad}
+ - {Phrase_56}: {Mutasd nekünk}
+ - {Phrase_57}: {Mutasd nekem}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {Kit öltél meg}
+ - {Ouija_Victim2}: {Ki az áldozatod}
+ - {Ouija_Victim3}: {Mi a neve annak akit megöltél}
+ - {Ouija_Victim4}: {Mi a neve annak akit meggyilkoltál}
+ - {Ouija_Victim5}: {Ki az áldozat}
+ - {Ouija_Victim6}: {Gyilkoltál}
+ - {Ouija_Victim7}: {Kit gyilkoltál meg}
+ - {Ouija_Victim8}: {Ki halt meg}
+ - {Ouija_Age1}: {Hány éves vagy}
+ - {Ouija_Age2}: {Mennyi idős vagy}
+ - {Ouija_Age3}: {Öreg vagy}
+ - {Ouija_Age4}: {Fiatal vagy}
+ - {Ouija_Dead1}: {Mióta vagy halott}
+ - {Ouija_Dead2}: {Hány éve haltál meg}
+ - {Ouija_Dead3}: {Mennyi ideje vagy itt}
+ - {Ouija_Dead4}: {Milyen rég haltál meg}
+ - {Ouija_Dead5}: {Mikor haltál meg}
+ - {Ouija_RoomAmount1}: {Hányan vannak ebben a szobában}
+ - {Ouija_RoomAmount2}: {Hány ember van ebben a szobában}
+ - {Ouija_RoomAmount3}: {Hányan vannak itt}
+ - {Ouija_RoomAmount4}: {Hány kísértet van ebben a szobában}
+ - {Ouija_RoomAmount5}: {Hány kísértet van itt}
+ - {Ouija_RoomAmount6}: {Egyedül vagy}
+ - {Ouija_RoomAmount7}: {Egyedül vagyunk}
+ - {Ouija_RoomAmount8}: {Ki van itt}
+ - {Ouija_RoomAmount9}: {Ki van ebben a szobában}
+ - {Ouija_Location1}: {Merre vagy}
+ - {Ouija_Location2}: {Melyik a kedvenc szobád}
+ - {Ouija_Location3}: {Hol van a szobád}
+ - {Ouija_Location4}: {Melyik a te szobád}
+ - {Ouija_Location5}: {Itt vagy}
+ - {Ouija_Location6}: {A közelben vagy}
+ - {Ouija_Location7}: {Vannak itt szellemek}
+ - {Ouija_Location8}: {A közelben vagy}
+ - {Ouija_Location9}: {Körülöttünk vagy}
+EVP Recorder Questions:
+ - {Q_What do you want}: {Mit akarsz}
+ - {Q_Why are you here}: {Miért vagy itt}
+ - {Q_Do you want to hurt us}: {Bántani akarsz minket}
+ - {Q_Are you angry}: {Mérges vagy}
+ - {Q_Do you want us here}: {Szeretnéd hogy itt legyünk}
+ - {Q_Shall we leave}: {Elmenjünk}
+ - {Q_Should we leave}: {El kellene menjünk}
+ - {Q_Do you want us to leave}: {Szeretnéd hogy elmenjünk}
+ - {Q_What should we do}: {Mit tehetünk}
+ - {Q_Can we help}: {Segíthetünk}
+ - {Q_Are you friendly}: {Barátságos vagy}
+ - {Q_What are you}: {Mi vagy }
+ - {Q_Where are you}: {Merre vagy}
+ - {Q_Are you close}: {Közel vagy}
+ - {Q_Can you show yourself}: {Meg tudnád mutatni magad}
+ - {Q_Give us a sign}: {Adj nekünk jelet}
+ - {Q_Let us know you are here}: {Tudasd, hogy itt vagy}
+ - {Q_Show yourself}: {Mutasd magad}
+ - {Q_Can you talk}: {Tudsz beszélni}
+ - {Q_Speak to us}: {Beszélj hozzánk}
+ - {Q_Are you here}: {Itt vagy}
+ - {Q_Are you with us}: {Jelen vagy}
+ - {Q_Anybody with us}: {Köztünk vagy}
+ - {Q_Is anyone here}: {Van itt valaki}
+ - {Q_Anybody in the room}: {Van valaki a szobában}
+ - {Q_Anybody here}: {Van itt valaki}
+ - {Q_Is there a spirit here}: {Van itt szellem}
+ - {Q_Is there a Ghost here}: {Van itt kísértet}
+ - {Q_What is your location}: {Hol vagy most}
+ - {Q_Are you a girl}: {Lány vagy}
+ - {Q_Are you a boy}: {Fiú vagy}
+ - {Q_Are you male}: {Férfi vagy}
+ - {Q_Are you female}: {Nő vagy}
+ - {Q_Who are you}: {Ki vagy}
+ - {Q_What are you}: {Mi vagy }
+ - {Q_Who is this}: {Ki az}
+ - {Q_Who are we talking to}: {Kihez beszélünk}
+ - {Q_Who am I talking to}: {Kihez beszélek}
+ - {Q_Hello}: {Helló}
+ - {Q_What is your name}: {Mi a neved}
+ - {Q_Can you give me your name}: {Meg tudnád mondani a neved}
+ - {Q_What is your gender}: {Mi a nemed}
+ - {Q_What gender}: {Milyen nemű vagy}
+ - {Q_Are you male or female}: {Férfi vagy nő vagy}
+ - {Q_Are you a man}: {Férfi vagy}
+ - {Q_Are you a woman}: {Nő vagy}
+ - {Q_How old are you}: {Hány éves vagy}
+ - {Q_How young are you}: {Mennyi idős vagy}
+ - {Q_What is your age}: {Hány éves vagy}
+ - {Q_When were you born}: {Mikor születtél}
+ - {Q_Are you a child}: {Gyermek vagy}
+ - {Q_Are you old}: {Idős vagy}
+ - {Q_Are you young}: {Fiatal vagy}

@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {Можеш ли да говориш}
+ - {Phrase_2}: {Може ли да се говори за нас}
+ - {Phrase_3}: {Издавам звук}
+ - {Phrase_4}: {Отваряне на врата}
+ - {Phrase_5}: {Отворете тази врата}
+ - {Phrase_6}: {Включване на светлината}
+ - {Phrase_7}: {Изгаси осветлението}
+ - {Phrase_8}: {Има ли някакви призраци}
+ - {Phrase_9}: {Дайте ни знак}
+ - {Phrase_10}: {Покажи ни}
+ - {Phrase_11}: {Нека се знае, че сте тук}
+ - {Phrase_12}: {Направи нещо}
+ - {Phrase_13}: {Има ли някой с мен}
+ - {Phrase_14}: {Вик}
+ - {Phrase_15}: {Сам ли си}
+ - {Phrase_16}: {Може ли да говорим}
+ - {Phrase_17}: {бих искал да говоря с вас}
+ - {Phrase_18}: {Има ли някой тук}
+ - {Phrase_19}: {Мога ли да ви попитам}
+ - {Phrase_20}: {Бихте ли искали да се говори}
+ - {Phrase_21}: {Вие сте единственият тук}
+ - {Phrase_22}: {Чакаш}
+ - {Phrase_23}: {Има ли нещо, което мога да направя}
+ - {Phrase_24}: {Знаеш ли кои сме ние}
+ - {Phrase_25}: {Щастлив ли си}
+ - {Phrase_26}: {Вие сте тук през цялото време}
+ - {Phrase_27}: {Вие сте мъж или жена}
+ - {Phrase_28}: {Има ли деца тук}
+ - {Phrase_29}: {Искаш ли да излезем}
+ - {Phrase_30}: {Може ли да те питам}
+ - {Phrase_31}: {Можете ли да издадеш звук}
+ - {Phrase_32}: {Покажи ни присъствието си}
+ - {Phrase_33}: {Бутни нещо}
+ - {Phrase_34}: {Издай звук}
+ - {Phrase_35}: {Отвори вратата}
+ - {Phrase_36}: {Хвърли нещо}
+ - {Phrase_37}: {Говори с мен}
+ - {Phrase_38}: {Говори ни}
+ - {Phrase_39}: {Не ти мислим вреда}
+ - {Phrase_40}: {Ние сме приятели}
+ - {Phrase_41}: {Това ли е вашият дом}
+ - {Phrase_42}: {Можете ли да говорите с нас}
+ - {Phrase_43}: {уплашен съм}
+ - {Phrase_44}: {страх ме е}
+ - {Phrase_45}: {уплашен}
+ - {Phrase_46}: {страшен}
+ - {Phrase_47}: {зловещ}
+ - {Phrase_48}: {Ужас}
+ - {Phrase_49}: {Изплаши}
+ - {Phrase_50}: {Плаша}
+ - {Phrase_51}: {Паника}
+ - {Phrase_52}: {Уплаха}
+ - {Phrase_53}: {скрий се}
+ - {Phrase_54}: {Тичай}
+ - {Phrase_55}: {Покави си присъствието}
+ - {Phrase_56}: {Покажи ни}
+ - {Phrase_57}: {Покажи ми}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {Кой уби}
+ - {Ouija_Victim2}: {Кой е вашият жертва}
+ - {Ouija_Victim3}: {Какво е името на човека, когото е убил}
+ - {Ouija_Victim4}: {Какво е името на човека, когото е убил}
+ - {Ouija_Victim5}: {Каква е вашата жертва}
+ - {Ouija_Victim6}: {Знаете ли, убийство}
+ - {Ouija_Victim7}: {С кого убийство}
+ - {Ouija_Victim8}: {Кой умря}
+ - {Ouija_Age1}: {На колко години си}
+ - {Ouija_Age2}: {На колко години си}
+ - {Ouija_Age3}: {Вие сте стар}
+ - {Ouija_Age4}: {Вие сте млад}
+ - {Ouija_Dead1}: {От колко време сте бил мъртъв}
+ - {Ouija_Dead2}: {Преди Колко години ще умреш}
+ - {Ouija_Dead3}: {От колко време си тук}
+ - {Ouija_Dead4}: {Преди колко време да умреш}
+ - {Ouija_Dead5}: {Кога умре}
+ - {Ouija_RoomAmount1}: {Колко сме в тази стая}
+ - {Ouija_RoomAmount2}: {Колко хора са в тази стая}
+ - {Ouija_RoomAmount3}: {Колко хора са тук}
+ - {Ouija_RoomAmount4}: {Колко призраци са в тази стая}
+ - {Ouija_RoomAmount5}: {Колко призраци сте тук}
+ - {Ouija_RoomAmount6}: {Сам ли си}
+ - {Ouija_RoomAmount7}: {Сами ли сме}
+ - {Ouija_RoomAmount8}: {Кой е тук}
+ - {Ouija_RoomAmount9}: {Кой е в тази стая}
+ - {Ouija_Location1}: {Къде си}
+ - {Ouija_Location2}: {Коя е любимата ви стая}
+ - {Ouija_Location3}: {Къде е вашата стая}
+ - {Ouija_Location4}: {Каква е вашата стая}
+ - {Ouija_Location5}: {Тук ли си}
+ - {Ouija_Location6}: {Близо ли си}
+ - {Ouija_Location7}: {Има ли духове}
+ - {Ouija_Location8}: {Вие сте в близост до}
+ - {Ouija_Location9}: {Наоколо ли си}
+EVP Recorder Questions:
+ - {Q_What do you want}: {Какво искаш}
+ - {Q_Why are you here}: {Защо си тук}
+ - {Q_Do you want to hurt us}: {Искате ли да ни навреди}
+ - {Q_Are you angry}: {Ядосан ли си}
+ - {Q_Do you want us here}: {Искате ли да ни искат тук}
+ - {Q_Shall we leave}: {Трябва ли да оставим}
+ - {Q_Should we leave}: {Трябва ли да оставим}
+ - {Q_Do you want us to leave}: {Искате ли да напуснете}
+ - {Q_What should we do}: {Какво да правим}
+ - {Q_Can we help}: {Можем ли да помогне}
+ - {Q_Are you friendly}: {Вие сте приятелски}
+ - {Q_What are you}: {Какво си ти}
+ - {Q_Where are you}: {Къде си}
+ - {Q_Are you close}: {Близо ли си}
+ - {Q_Can you show yourself}: {Можеш ли да покажеш себе си}
+ - {Q_Give us a sign}: {Дайте ни знак}
+ - {Q_Let us know you are here}: {Нека се знае, че сте тук}
+ - {Q_Show yourself}: {Покажи се}
+ - {Q_Can you talk}: {Можеш ли да говориш}
+ - {Q_Speak to us}: {Говорете с нас}
+ - {Q_Are you here}: {Тук ли си}
+ - {Q_Are you with us}: {Вие ли сте с нас}
+ - {Q_Anybody with us}: {Някой с нас}
+ - {Q_Is anyone here}: {Има ли някой тук}
+ - {Q_Anybody in the room}: {Някой в ​​стаята}
+ - {Q_Anybody here}: {Някой тук}
+ - {Q_Is there a spirit here}: {Има ли дух тук}
+ - {Q_Is there a Ghost here}: {Има ли Ghost тук}
+ - {Q_What is your location}: {Какво е вашето местоположение}
+ - {Q_Are you a girl}: {момиче ли си}
+ - {Q_Are you a boy}: {Момче ли си}
+ - {Q_Are you male}: {Мъж ли си}
+ - {Q_Are you female}: {Жена ли си}
+ - {Q_Who are you}: {Кой си ти}
+ - {Q_What are you}: {Какво си ти}
+ - {Q_Who is this}: {Кой е това}
+ - {Q_Who are we talking to}: {Кои сме ние говорим за}
+ - {Q_Who am I talking to}: {Кой съм аз да говоря}
+ - {Q_Hello}: {Здравейте}
+ - {Q_What is your name}: {Как се казваш}
+ - {Q_Can you give me your name}: {Можете ли да ми дадете име}
+ - {Q_What is your gender}: {Какъв е вашият пол}
+ - {Q_What gender}: {Какво пол}
+ - {Q_Are you male or female}: {Вие сте мъж или жена}
+ - {Q_Are you a man}: {Мъж ли си}
+ - {Q_Are you a woman}: {Ти жена ли си}
+ - {Q_How old are you}: {На колко години си}
+ - {Q_How young are you}: {Как млад сте}
+ - {Q_What is your age}: {На колко години си}
+ - {Q_When were you born}: {Кога си роден}
+ - {Q_Are you a child}: {Вие сте дете}
+ - {Q_Are you old}: {Вие сте стар}
+ - {Q_Are you young}: {Вие сте млад}

@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Fuck}
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+ - {Phrase_1}: {Konuşabilir misin}
+ - {Phrase_2}: {Bizimle konuşabiliyor musun}
+ - {Phrase_3}: {Ses çıkart}
+ - {Phrase_4}: {Bir kapıyı aç}
+ - {Phrase_5}: {Bu kapıyı aç}
+ - {Phrase_6}: {Işığı aç}
+ - {Phrase_7}: {Işığı kapat}
+ - {Phrase_8}: {Burada herhangi bir hayalet var mı}
+ - {Phrase_9}: {Bize bir işaret ver}
+ - {Phrase_10}: {Bize göster}
+ - {Phrase_11}: {Eğer buradaysan söyle}
+ - {Phrase_12}: {Bir şey yap}
+ - {Phrase_13}: {Yanımda kimse var mı}
+ - {Phrase_14}: {Çığlık}
+ - {Phrase_15}: {Yalnız mısın}
+ - {Phrase_16}: {Konuşabilir miyiz}
+ - {Phrase_17}: {Seninle konuşmak istiyoruz}
+ - {Phrase_18}: {Burada kimse var mı}
+ - {Phrase_19}: {Sana sorabilir miyim}
+ - {Phrase_20}: {Konuşmak ister misin}
+ - {Phrase_21}: {Burada sadece sen mi varsın}
+ - {Phrase_22}: {Bekliyor musun}
+ - {Phrase_23}: {Yapabiliceğim bir şey var mı?}
+ - {Phrase_24}: {Kim olduğumuzu biliyor musun}
+ - {Phrase_25}: {Mutlu musun}
+ - {Phrase_26}: {Hep burada mısın}
+ - {Phrase_27}: {Kadın mısın erkek mi}
+ - {Phrase_28}: {Burada çocuk var mı}
+ - {Phrase_29}: {Gitmemizi mi istiyorsun}
+ - {Phrase_30}: {Sana sorabilir miyim}
+ - {Phrase_31}: {Ses çıkartabilir misin}
+ - {Phrase_32}: {Bize varlığını göster}
+ - {Phrase_33}: {Bir yeri çal}
+ - {Phrase_34}: {Ses yap}
+ - {Phrase_35}: {Kapıyı aç}
+ - {Phrase_36}: {Bir şey fırlat}
+ - {Phrase_37}: {Benimle konuş}
+ - {Phrase_38}: {Bizimle konuş}
+ - {Phrase_39}: {Sana zarar vermek istemiyoruz.}
+ - {Phrase_40}: {Arkadaş canlısıyız}
+ - {Phrase_41}: {Burası senin evinmi?}
+ - {Phrase_42}: {Bizimle konuşabiliyor musun}
+ - {Phrase_43}: {korkuyorum}
+ - {Phrase_44}: {korkuyorum}
+ - {Phrase_45}: {korkmuş}
+ - {Phrase_46}: {korkutucu}
+ - {Phrase_47}: {hayalet gibi}
+ - {Phrase_48}: {Korku}
+ - {Phrase_49}: {Korkmak}
+ - {Phrase_50}: {Korkutmak}
+ - {Phrase_51}: {Panik}
+ - {Phrase_52}: {Kork}
+ - {Phrase_53}: {Saklan}
+ - {Phrase_54}: {Koş}
+ - {Phrase_55}: {Varlığını göster}
+ - {Phrase_56}: {Bize göster}
+ - {Phrase_57}: {Bana göster}
+Ouija Board Questions:
+ - {Ouija_Victim1}: {Kimi öldürdün}
+ - {Ouija_Victim2}: {Kurbanın kim}
+ - {Ouija_Victim3}: {Öldürdüğün kişinin adı ne}
+ - {Ouija_Victim4}: {Katlettiğin kişinin adı ne}
+ - {Ouija_Victim5}: {Kurbanın ne}
+ - {Ouija_Victim6}: {Birisini öldürdün mü}
+ - {Ouija_Victim7}: {Kimi katlettin}
+ - {Ouija_Victim8}: {Kim öldü}
+ - {Ouija_Age1}: {Kaç yaşındasın}
+ - {Ouija_Age2}: {Yaşın kaç}
+ - {Ouija_Age3}: {Yaşlı mısın}
+ - {Ouija_Age4}: {Genç misin}
+ - {Ouija_Dead1}: {Ne zamandır ölüsün}
+ - {Ouija_Dead2}: {Kaç sene önce öldün}
+ - {Ouija_Dead3}: {Ne zamandır buradasın}
+ - {Ouija_Dead4}: {Ne kadar süredir ölüsün}
+ - {Ouija_Dead5}: {Ne zaman öldün}
+ - {Ouija_RoomAmount1}: {Bu odada kaç kişi var}
+ - {Ouija_RoomAmount2}: {Bu odada kaç insan var}
+ - {Ouija_RoomAmount3}: {Burada kaç kişi var}
+ - {Ouija_RoomAmount4}: {Bu odada kaç hayalet var}
+ - {Ouija_RoomAmount5}: {Burada kaç hayalet var}
+ - {Ouija_RoomAmount6}: {Yalnız mısın}
+ - {Ouija_RoomAmount7}: {Yalnız mıyız}
+ - {Ouija_RoomAmount8}: {Buradaki kim}
+ - {Ouija_RoomAmount9}: {Bu odadaki kim}
+ - {Ouija_Location1}: {Neredesin}
+ - {Ouija_Location2}: {En sevdiğin oda hangisi}
+ - {Ouija_Location3}: {Odan nerede}
+ - {Ouija_Location4}: {Odan ne}
+ - {Ouija_Location5}: {Burada mısın}
+ - {Ouija_Location6}: {Yakın mısın}
+ - {Ouija_Location7}: {Burada herhangi bir ruh var mı}
+ - {Ouija_Location8}: {Yakın mısın}
+ - {Ouija_Location9}: {Buralarda mısın}
+EVP Recorder Questions:
+ - {Q_What do you want}: {Ne istiyorsun}
+ - {Q_Why are you here}: {Neden buradasın}
+ - {Q_Do you want to hurt us}: {Bize zarar vermek mi istiyorsun}
+ - {Q_Are you angry}: {Bize kızgın mısın}
+ - {Q_Do you want us here}: {Burada olmamızı istiyor musun}
+ - {Q_Shall we leave}: {Gitmeli miyiz}
+ - {Q_Should we leave}: {Gidelim mi}
+ - {Q_Do you want us to leave}: {Gitmemizi mi istiyorsun}
+ - {Q_What should we do}: {Ne yapmalıyız}
+ - {Q_Can we help}: {Yardım edebilir miyiz}
+ - {Q_Are you friendly}: {Arkadaş canlısı mısın}
+ - {Q_What are you}: {Nesin}
+ - {Q_Where are you}: {Neredesin}
+ - {Q_Are you close}: {Yakın mısın}
+ - {Q_Can you show yourself}: {Kendini gösterebilir misin}
+ - {Q_Give us a sign}: {Bize bir işaret ver}
+ - {Q_Let us know you are here}: {Burada olduğunu bize göster}
+ - {Q_Show yourself}: {Kendini göster}
+ - {Q_Can you talk}: {Konuşabiliyor musun}
+ - {Q_Speak to us}: {Bizimle konuş}
+ - {Q_Are you here}: {Burada mısın}
+ - {Q_Are you with us}: {Yanımızda mısın}
+ - {Q_Anybody with us}: {Yanımızda kimse var mı}
+ - {Q_Is anyone here}: {Burada birisi var mı}
+ - {Q_Anybody in the room}: {Odada birisi var mı}
+ - {Q_Anybody here}: {Burada kimse var mı}
+ - {Q_Is there a spirit here}: {Burada bir ruh var mı}
+ - {Q_Is there a Ghost here}: {Burada bir hayalet var mı}
+ - {Q_What is your location}: {Neredesin}
+ - {Q_Are you a girl}: {Kız mısın}
+ - {Q_Are you a boy}: {Erkek misin}
+ - {Q_Are you male}: {Erkek misin}
+ - {Q_Are you female}: {Bayan mısınız}
+ - {Q_Who are you}: {Sen kimsin}
+ - {Q_What are you}: {Nesin}
+ - {Q_Who is this}: {Kimsin}
+ - {Q_Who are we talking to}: {Kiminle konuşuyoruz}
+ - {Q_Who am I talking to}: {Kiminle konuşuyorum}
+ - {Q_Hello}: {Merhaba}
+ - {Q_What is your name}: {Adın ne}
+ - {Q_Can you give me your name}: {Adını söyleyebilir misin}
+ - {Q_What is your gender}: {Cinsiyetin ne}
+ - {Q_What gender}: {Hangi cinsiyettesin}
+ - {Q_Are you male or female}: {Kadın mısın erkek mi}
+ - {Q_Are you a man}: {Erkek misin}
+ - {Q_Are you a woman}: {Kadın mısın}
+ - {Q_How old are you}: {Kaç yaşındasın}
+ - {Q_How young are you}: {Ne kadar gençsin}
+ - {Q_What is your age}: {Yaşın kaç}
+ - {Q_When were you born}: {Ne zaman doğdun}
+ - {Q_Are you a child}: {Çocuk musun}
+ - {Q_Are you old}: {Yaşlı mısın}
+ - {Q_Are you young}: {Genç misin}
