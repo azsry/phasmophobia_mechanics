@@ -8,13 +8,11 @@ Thanks to the following people for spotting errors in this guide:
 - zendabbq
 
 - [Phasmophobia Mechanics](#phasmophobia-mechanics)
-      - [Compiled by Azsry & Mythra](#)
   - [General Gameplay](#general-gameplay)
     - [Difficulty levels](#difficulty-levels)
     - [Sanity](#sanity)
       - [Sanity effects](#sanity-effects)
   - [Evidence](#evidence)
-    - [Dirty Water](#dirty-water)
     - [Freezing Temperatures](#freezing-temperatures)
     - [Ghost Orbs](#ghost-orbs)
     - [Ghost Writing](#ghost-writing)
@@ -43,6 +41,7 @@ Thanks to the following people for spotting errors in this guide:
       - [Ghost appearing](#ghost-appearing)
       - [Hunting](#hunting)
     - [Window knocking](#window-knocking)
+    - [Candle Blowout](#candle-blowout)
   - [Items](#items)
     - [Candles](#candles)
     - [Cameras](#cameras)
@@ -50,6 +49,7 @@ Thanks to the following people for spotting errors in this guide:
       - [Truck EMF Data](#truck-emf-data)
     - [Ouija Board](#ouija-board)
     - [Photo camera](#photo-camera)
+    - [Photo Ratings](#photo-ratings)
     - [Salt](#salt)
     - [Smudge Sticks](#smudge-sticks)
     - [Sound Sensors / Parabolic Microphone](#sound-sensors--parabolic-microphone)
@@ -380,6 +380,11 @@ Setup phase is when the timer in the truck is non-zero:
 
 - Ghosts can occasionally knock on windows. When they do, they create fingerprint evidence on the window, and create a Ghost Interaction EMF (Level 2) on the window
 
+### Candle Blowout
+
+<!-- TODO(xxx): document the actual chance -->
+- Ghosts can occasionally blow out your candles when they are nearby a player.
+
 ## Items
 
 ### Candles
@@ -448,6 +453,33 @@ The EMF Reader tells you different things about the ghost depending on what leve
 - The journal can hold up to 10 photos. Additional photos will NOT count toward cash rewards.
 - The game performs a simple ray cast from the camera's world position to the ghost's "raycastPoint", which may not be at its head. As a result, you should frame the entire ghost in your photos to complete the mission.
 - Phantoms disappear after having their photo taken. This removes their sanity draining effect as well.
+
+### Photo Ratings
+
+Ghost Photo Ratings are determined based off of distance:
+
+  - Anything less than 4.0 meters you get a 3 star picture.
+  - Between 4.0, and 8.0 meters is a 2 star.
+  - Everything else is a 1 star.
+
+Regular photos of evidence are mostly the same however in order to get three
+stars you need to be within 1.5 meters.
+
+The money count is different based off the type of evidence, and star rating. The table
+below describes the money payout:
+
+| Evidence Type        | One Star Base Payout Factor | Two Star Base Payout Factor | Three Star Base Payout Factor |
+|----------------------|-----------------------------|-----------------------------|-------------------------------|
+| Ouija Board          | 30                          | 45                          | 60                            |
+| Fingerprints         | 15                          | 30                          | 50                            |
+| Footstep/Interaction | 20                          | 30                          | 40                            |
+| "DNA" (bone)         | 40                          | 55                          | 70                            |
+| Dead Body            | 10                          | 20                          | 30                            |
+| Dirty Water          | 15                          | 25                          | 35                            |
+
+The means in general your most "worth the money" photos are:
+
+  ghost > bone > ouija > fingerprints > interaction > dirty water > dead body
 
 ### Salt
 
