@@ -381,6 +381,10 @@ Setup phase is when the timer in the truck is non-zero:
 
 - Ghosts can occasionally knock on windows. When they do, they create fingerprint evidence on the window, and create a Ghost Interaction EMF (Level 2) on the window
 
+### Footsteps sounds
+- All ghosts make footsteps noises on the ground within 15 to 45 seconds.
+- Spirit has a period of between 2 and 15 seconds to reproduce the sound of footsteps.
+
 ### Candle Blowout
 
 <!-- TODO(xxx): document the actual chance -->
