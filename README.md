@@ -6,6 +6,7 @@ Thanks to the following people for spotting errors in this guide:
 - Kyle2142
 - u/Sowelu
 - zendabbq
+- Misukun
 
 - [Phasmophobia Mechanics](#phasmophobia-mechanics)
   - [Compiled by Azsry & Mythra](#)
