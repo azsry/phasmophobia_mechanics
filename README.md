@@ -6,6 +6,7 @@ Thanks to the following people for spotting errors in this guide:
 - Kyle2142
 - u/Sowelu
 - zendabbq
+- Misukun
 
 - [Phasmophobia Mechanics](#phasmophobia-mechanics)
   - [Compiled by Azsry & Mythra](#)
@@ -27,6 +28,7 @@ Thanks to the following people for spotting errors in this guide:
     - [Generic VOIP recognition](#generic-voip-recognition)
     - [Ghost activity](#ghost-activity)
       - [Ghost Powers](#ghost-powers)
+        - [Spirit](#spirit)
         - [Banshee](#banshee)
         - [Jinn](#jinn)
         - [Phantom](#phantom)
@@ -250,6 +252,10 @@ Poltergeists throw objects with a random force between ((-5, 5), (-2.5, 2.5), (-
 - All ghosts have a 4-in-12 chance of entering a ghost ability state.
 - Ghosts that have specific behaviours (listed below) have a 2-in-12 chance of using their specific power on Amateur, and a 2-in-15 chance on other difficulties, once this state has been entered.
 
+##### Spirit
+
+- Spirit has a period of between 2 and 15 seconds to reproduce the sound of footsteps.
+
 ##### Banshee
 
 - If the Banshee's current target is outside the house, it will not use its ability
@@ -380,6 +386,10 @@ Setup phase is when the timer in the truck is non-zero:
 ### Window knocking
 
 - Ghosts can occasionally knock on windows. When they do, they create fingerprint evidence on the window, and create a Ghost Interaction EMF (Level 2) on the window
+
+### Footsteps sounds
+- All ghosts make footsteps noises on the ground within 15 to 40 seconds.
+- Ghosts with the ability to float (like the Wraith) do not do the footstep event under normal circumstances as they float and do not always reproduce it. However, the sound of footsteps will always be greater than 15 seconds
 
 ### Candle Blowout
 
