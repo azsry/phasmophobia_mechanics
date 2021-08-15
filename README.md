@@ -231,7 +231,7 @@ Thanks to the following people for spotting errors in this guide:
     - Does not increase steadily over time
     - Decreases by 10 if ghost type is a Mare and a light switch in their current room is on
     - Increases by 10 if ghost type is a Mare and no lights in their current room are on, or there are no light switches in their current room
-    - Increases by 15 if the ghost type is a Demon
+    - Increases by 20 if the ghost type is a Demon
 - Ghost activity level
   - Starts at 0
   - Increases by 10 to 25 on phrase recognition
@@ -261,6 +261,10 @@ Poltergeists throw objects with a random force between ((-5, 5), (-2.5, 2.5), (-
 - The Banshee will wait 20s. If the target player enters line of sight during this navigation time, the Banshee will go into hunting phase. If the current game is a tutorial, it will go back to idle.
 - If the Banshee reaches its destination without spotting the target player, it will return to idle phase.
 
+##### Mare
+
+- Mares never turn on the lights of his/hes favourite room.
+
 ##### Jinn
 
 - If the fusebox is off, Jinns will not enter their ability state, and will return to idle
@@ -285,6 +289,10 @@ Poltergeists throw objects with a random force between ((-5, 5), (-2.5, 2.5), (-
 - The Wraith will choose a random player
 - If the chosen player is outside the house, or dead, the Wraith will return to idle phase
 - If the chosen player is in the house and not dead, the Wraith will teleport to a spot within 3m of the chosen player, then return to idle phase
+
+##### Yurei
+
+- If yurei enters its ability state, all players within 3 meters of the yurei, decrease their sanity by 25% as would happen with a Jinn with the difference that the Yurei does not depend on whether the fusebox is on or off.
 
 ### Ghost interactions
 
