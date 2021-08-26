@@ -1,5 +1,15 @@
 No-No Phrases:
-
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
 Listen Phrases:
   - {Mozesz mowic}
   - {Mozesz mowic do nas}
