@@ -1,5 +1,148 @@
 No-No Phrases:
 
 Listen Phrases:
+  - {Mozesz mowic}
+  - {Mozesz mowic do nas}
+  - {Zrob halas}
+  - {Otworz drzwi}
+  - {Otworz te drzwi}
+  - {Wlacz swiatla}
+  - {Wylacz swiatla}
+  - {Czy sa tu jakies duchy}
+  - {Daj nam znak}
+  - {Pokaz nam}
+  - {Daj nam znac ze tu jestes}
+  - {Zrob cos}
+  - {Czy ktos jest ze mna}
+  - {Krzyknij}
+  - {Czy jestes sam}
+  - {Mozemy porozmawiac}
+  - {Chcialbym z toba porozmawiac}
+  - {Jest tu ktos}
+  - {Czy moge cie spytac}
+  - {Czy chcialbys porozmawiac}
+  - {Czy jestes jedyna osoba tutaj}
+  - {Czy czekasz}
+  - {Czy jest cos co moge zrobic}
+  - {Czy wiesz kim jestesmy}
+  - {Czy jestes szczesliwy}
+  - {Jestes tutaj caly czas}
+  - {Jestes mezczyzna czy kobieta}
+  - {Czy sa tu dzieci}
+  - {Czy chcesz abysmy wyszli}
+  - {Czy moge cie zapytac}
+  - {Mozesz wydac dzwiek}
+  - {Pokaz nam swoja obecnosc}
+  - {Przewroc cos}
+  - {Wydaj dzwiek}
+  - {Otworz drzwi}
+  - {Rzuc cos}
+  - {Mow do mnie}
+  - {Mow do nas}
+  - {Nie chcemy cie skrzywdzic}
+  - {Jestesmy przyjaciolmi}
+  - {Czy to twoj dom}
+  - {Mozesz do nas mowic}
+  - {Boje sie}
+  - {Ja sie boje}
+  - {przestraszony}
+  - {straszne}
+  - {straszny}
+  - {Przerazenie}
+  - {Przestraszyc}
+  - {Przerazony}
+  - {panika}
+  - {Strach}
+  - {Ukryj sie}
+  - {Uciekaj}
+  - {Pokaz swoja obecnosc}
+  - {Pokaz mi}
 Ouija Board Questions:
+  - {Kogo zabiles}
+  - {Kto jest twoją ofiara}
+  - {Jak się nazywa osoba ktora zabiles}
+  - {Jakie jest nazwisko osoby ktora zamordowales}
+  - {Kto jest twoja ofiara}
+  - {Czy zabiles}
+  - {Kogo zabiles}
+  - {Kto zmarl}
+  - {Jaki jest twoj wiek}
+  - {Ile masz lat}
+  - {Czy jestes stary}
+  - {Czy jestes mlody}
+  - {Jak dlugo jestes martwy}
+  - {Ile lat temu zmarles}
+  - {Jak dlugo tu byles}
+  - {Jak dawno temu umarles}
+  - {Kiedy umarles}
+  - {Ilu jest w tym pokoju}
+  - {Ile osob jest w tym pokoju}
+  - {Ile osob jest tutaj}
+  - {Ile duchow jest w tym pokoju}
+  - {Ile duchow jest tutaj}
+  - {Czy jestes sam}
+  - {Czy jestesmy sami}
+  - {Kto tu jest}
+  - {Kto jest w tym pokoju}
+  - {Gdzie jestes}
+  - {Jaki jest twoj ulubiony pokoj}
+  - {Gdzie jest twoj pokoj}
+  - {Jaki jest twoj pokoj}
+  - {Jestes tu}
+  - {Jestes blisko}
+  - {Czy sa jakies duchy}
+  - {Czy jestes w poblizu}
+  - {Jestes w poblizu}
 EVP Recorder Questions:
+  - {Czego chcesz}
+  - {Dlaczego tu jestes}
+  - {Czy chcesz nas skrzywdzic}
+  - {Czy jestes zly}
+  - {Czy chcesz nas tutaj}
+  - {Czy powinnismy wyjsc}
+  - {Powinnismy wyjsc}
+  - {Chcesz abysmy wyszli}
+  - {Co powinnismy zrobic}
+  - {Czy mozemy pomoc}
+  - {Jestes przyjazny}
+  - {Czym jestes}
+  - {Gdzie jestes}
+  - {Czy jestes blisko}
+  - {Czy mozesz sie pokazac}
+  - {Daj nam znak}
+  - {Daj nam znac czy tu jestes}
+  - {Pokaz sie}
+  - {Czy mozesz rozmawiac}
+  - {Porozmawiaj z nami}
+  - {Jestes tu}
+  - {Jestes z nami}
+  - {Ktokolwiek z nami jest}
+  - {Czy ktos tu jest}
+  - {Ktokolwiek jest w pokoju}
+  - {Czy jest tu kto}
+  - {Czy istnieje tutaj duch}
+  - {Czy jest tutaj duch}
+  - {Czy jestes dziewczyna}
+  - {Czy jestes chlopcem}
+  - {Czy jestes mezczyzna}
+  - {Czy jestes kobieta}
+  - {Kim jestes}
+  - {Kto to jest}
+  - {Z kim rozmawiamy}
+  - {Z kim rozmawiam}
+  - {Czesc}
+  - {Jak masz na imie}
+  - {Mozesz dac mi swoje imie}
+  - {Ile masz lat}
+  - {Jak mlody jestes}
+  - {Jaki jest twoj wiek}
+  - {Kiedy sie urodziles}
+  - {Czy jestes dzieckiem}
+  - {Czy jestes stary}
+  - {Czy jestes mlody}
+  - {Jaka jest Twoja pozycja}
+  - {Jaka jest Twoja plec}
+  - {Jaka plec}
+  - {Jestes mezczyzna czy kobieta}
+  - {Jestes mezczyzna}
+  - {Czy jestes kobieta}

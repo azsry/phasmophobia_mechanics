@@ -1,5 +1,148 @@
 No-No Phrases:
 
 Listen Phrases:
+  - {Kun je spreken}
+  - {Kan je met ons praten}
+  - {Maak een geluid}
+  - {Open een deur}
+  - {Open deze deur}
+  - {Doe de lichten aan}
+  - {Doe de lichten uit}
+  - {Zijn er spoken}
+  - {Geef ons een teken}
+  - {Laat ons zien}
+  - {Laat ons weten dat je er bent}
+  - {Doe iets}
+  - {Is er iemand met mij}
+  - {Schreeuw}
+  - {Ben je alleen}
+  - {Mogen wij spreken}
+  - {Willen graag met je praten}
+  - {Is er iemand hier}
+  - {Mag ik jouw wat vragen}
+  - {Wil je graag praten}
+  - {Ben jij de enige hier}
+  - {Ben je aan het wachten}
+  - {Is er iets wat ik kan doen}
+  - {Weet jij wie wij zijn}
+  - {Ben je blij}
+  - {Ben je altijd hier}
+  - {Ben je een man of een vrouw}
+  - {Zijn er kinderen hier}
+  - {Wil je dat wij weggaan}
+  - {Kan ik je wat vragen}
+  - {Kan je een geluid maken}
+  - {Laat jezelf zien}
+  - {klop iets}
+  - {Maak een gluid}
+  - {Open de deur}
+  - {Gooi iets}
+  - {Praat met me}
+  - {Praat met ons}
+  - {Wij doen je geen kwaad}
+  - {Wij zien vrienden}
+  - {Is dit jouw huis}
+  - {Kan je met ons praten}
+  - {Ik ben bang}
+  - {Ik ben bang}
+  - {Bang}
+  - {Eng}
+  - {Spookachtig}
+  - {Horror}
+  - {Bang}
+  - {Schrikken}
+  - {Paniek}
+  - {Schrikken}
+  - {Verstop je}
+  - {Ren}
+  - {Laat uwzelf zien}
+  - {Laat het mij zien}
 Ouija Board Questions:
+  - {Wie heb je vermoord}
+  - {Wie is jouw slachtoffer}
+  - {Wat is de naam van jouw slachtoffer}
+  - {Wat is de naam van de persoon die je heb vermoord}
+  - {Wat is jouw slachtoffer}
+  - {Heb je vermoord}
+  - {Wie heb je vermoord}
+  - {Wie is er dood}
+  - {Hoe oud ben je}
+  - {Hoe oud ben je}
+  - {Ben je oud}
+  - {Ben je jong}
+  - {Hoe lang ben je al dood}
+  - {Hoeveel jaar geleden ben je overleden}
+  - {Hoe lang ben je hier al}
+  - {Hoe lang geleden ben je overleden}
+  - {Wanneer ben je overleden}
+  - {Hoeveel zijn er in deze kamer}
+  - {Hoevbeel mensen zijn er in deze kamer}
+  - {Hoeveel mensen zijn er}
+  - {Hoeveel geesten zijn er in deze kamer}
+  - {Hoeveel spoken zijn er hier}
+  - {Ben je alleen}
+  - {Zijn wiij alleen}
+  - {Wie is er hier}
+  - {Wie is in deze kamer}
+  - {Waar ben je}
+  - {Wat is jouw favourite kamer}
+  - {Waar is jouw kamer}
+  - {Wat is jouw kamer}
+  - {Ban je hier}
+  - {Ben je dichtbij}
+  - {Zijn er spoken}
+  - {Ben je naarbij}
+  - {Ben je in de buurt}
 EVP Recorder Questions:
+  - {Wat wilt U}
+  - {Waarom bent U hier}
+  - {Wilt U ons pijn doen}
+  - {Bent U boos}
+  - {Wilt U ons hier hebben}
+  - {Zullen wij weg gaan}
+  - {Zullen wij vertrekken}
+  - {Wilt U dat wij weggaan}
+  - {Wat moeten wij doen}
+  - {Kunnen wij helpen}
+  - {Bent U vriendelijk}
+  - {Wat bent U}
+  - {Waar bent U}
+  - {Bent U dichtbij}
+  - {Kunt U Uwzelf laten zien?}
+  - {Geef ons een teken}
+  - {Laat ons weten dat U er bent}
+  - {Laat Uwzelf zien}
+  - {Kunt U spreken}
+  - {Spreek met ons}
+  - {Bent U hier}
+  - {Bent U  hier bij ons}
+  - {Iemand bij ons}
+  - {Is er iemand}
+  - {Is er iemand in de kamer}
+  - {Iemand hier}
+  - {Is er een Spook hier}
+  - {Is er een Geest hier}
+  - {Bent U een meisje}
+  - {Bent U een jongen}
+  - {Bent U een man}
+  - {Bent U een vrouw}
+  - {Wie bent U}
+  - {Wie is dit}
+  - {Met wie praten wij}
+  - {Met wie praat ik}
+  - {Hallo}
+  - {Wat is Uw naam}
+  - {Kunt U Uw naam geven}
+  - {Hoe oud bent u}
+  - {Hoe jong bent U}
+  - {Wat is Uw leeftijd}
+  - {Waar bent U geboren}
+  - {Bent U een kind}
+  - {Bent U oud}
+  - {Bent U jong}
+  - {Wat is Uw locatie}
+  - {Wat is Uw geslacht}
+  - {Welk geslacht}
+  - {Bent U een man of een vrouw}
+  - {Bent U een man}
+  - {Bent U een vrouw}

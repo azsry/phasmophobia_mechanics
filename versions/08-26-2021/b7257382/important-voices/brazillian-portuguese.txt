@@ -1,5 +1,148 @@
 No-No Phrases:
 
 Listen Phrases:
+  - {Você pode falar}
+  - {Você pode falar conosco}
+  - {Faça um barulho}
+  - {Abra uma porta}
+  - {Abra essa porta}
+  - {Acenda a luz}
+  - {Apague a luz}
+  - {Tem algum fantasma aqui}
+  - {Nos dê um sinal}
+  - {Nos mostre}
+  - {Nos informe que você está aqui}
+  - {Faça algo}
+  - {Tem alguém comigo}
+  - {Grito}
+  - {Você está sozinho}
+  - {Podemos conversar}
+  - {Gostaria de falar com você}
+  - {Tem alguém aqui}
+  - {Posso fazer uma pergunta}
+  - {Você quer conversar}
+  - {Você é o único aqui}
+  - {Você está esperando}
+  - {Há alguma coisa que eu possa fazer?}
+  - {Sabe quem somos nós}
+  - {Você está feliz}
+  - {Você sempre fica aqui}
+  - {Você é homem ou mulher}
+  - {Tem crianças aqui}
+  - {Você quer que a gente saia}
+  - {Posso te fazer uma pergunta}
+  - {Pode fazer um barulho}
+  - {Nos mostre sua presença}
+  - {Bata em algo}
+  - {Faça um barulho}
+  - {Abra a porta}
+  - {Jogue alguma coisa}
+  - {Fale comigo}
+  - {Fale Conosco}
+  - {Não queremos te machucar}
+  - {Nós somos amigos}
+  - {Esta é a sua casa}
+  - {Você pode falar com a gente}
+  - {Eu estou com medo}
+  - {Estou com medo}
+  - {assustado}
+  - {apavorante}
+  - {arrepiei}
+  - {Aterrorizado}
+  - {Medo}
+  - {Amedrontar}
+  - {Pânico}
+  - {Susto}
+  - {Esconde}
+  - {Corre}
+  - {Mostre sua presença}
+  - {Me mostre}
 Ouija Board Questions:
+  - {Quem você matou}
+  - {Quem é seu alvo}
+  - {Qual é o nome da pessoa que você matou}
+  - {Qual é o nome da pessoa que você assassinou}
+  - {Quem é sua vítima}
+  - {Você assasinou alguém}
+  - {Quem você assasinou}
+  - {Quem morreu}
+  - {Quantos anos você tem}
+  - {Qual é a sua idade}
+  - {Você é velho}
+  - {Você é jovem}
+  - {Há quanto tempo você está morto?}
+  - {Quantos anos atrás você morreu?}
+  - {A quanto tempo você está aqui}
+  - {A quanto tempo você morreu}
+  - {Quando você morreu}
+  - {Quantos estão nesta sala?}
+  - {Quantas pessoas estão nesta sala}
+  - {Quantas pessoas estão aqui}
+  - {Quantos fantasmas estão nesta sala}
+  - {Quantos fantasmas há aqui}
+  - {Você está sozinho}
+  - {Estamos sozinhos}
+  - {Quem está aqui}
+  - {Quem está nesta sala}
+  - {Onde você está}
+  - {Qual é o seu quarto favorito?}
+  - {Onde esta o seu quarto}
+  - {Qual é o seu quarto}
+  - {Você está aqui}
+  - {Você está próximo}
+  - {Tem algum espírito aqui}
+  - {Você está perto}
+  - {Você está por perto}
 EVP Recorder Questions:
+  - {O que você quer}
+  - {Por quê você está aqui}
+  - {Você quer nos machucar}
+  - {Você está com raiva}
+  - {Você nos quer aqui}
+  - {Nós devemos sair}
+  - {Nós deveriamos sair}
+  - {Você quer que a gente saia}
+  - {O que deveríamos fazer}
+  - {Nós podemos ajudar}
+  - {Você é amigável}
+  - {O que você está}
+  - {Onde você está}
+  - {Você está perto}
+  - {Você pode se mostrar}
+  - {Nos dê um sinal}
+  - {Deixe-nos saber que você está aqui}
+  - {Apareça}
+  - {Você pode falar}
+  - {Fale com a gente}
+  - {Você está aqui}
+  - {Você está conosco}
+  - {Tem alguém com a gente}
+  - {É alguém aqui}
+  - {Tem alguém neste quarto?}
+  - {Alguém aqui}
+  - {Tem um espírito aqui?}
+  - {Tem um fantasma aqui}
+  - {Você é uma garota}
+  - {Você é um garoto}
+  - {Você é homem}
+  - {Você é mulher}
+  - {Quem é Você}
+  - {Quem é}
+  - {Com quem estou falando}
+  - {Com quem estou falando}
+  - {Olá}
+  - {Qual é o seu nome}
+  - {Pode me dizer seu nome}
+  - {Quantos anos você tem}
+  - {O quão jovem você é}
+  - {Qual é a sua idade}
+  - {Quando você nasceu}
+  - {Você é uma criança}
+  - {Você é velho}
+  - {Você é jovem}
+  - {Qual é a sua localização}
+  - {Qual é o seu gênero?}
+  - {Qual gênero}
+  - {Você é homem ou mulher}
+  - {Você é um homem}
+  - {Você é uma mulher}

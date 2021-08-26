@@ -1,5 +1,148 @@
 No-No Phrases:
 
 Listen Phrases:
+  - {Ty moshesh gavarit}
+  - {Mozhesh pagavarit}
+  - {Pashumi}
+  - {Atkroi dver}
+  - {Atkroi ehtu dver}
+  - {Vklyuchi svet}
+  - {Vyklyuchi svet}
+  - {Est li zdes}
+  - {Dai nam znak}
+  - {Pakazhi nam}
+  - {Dai nam znat}
+  - {Sdelai shtonibud}
+  - {Zdes ktoto yest}
+  - {Pakrichi}
+  - {Ty tut adin}
+  - {mozhem pagavarit}
+  - {staboy pagavarit}
+  - {Kto tut}
+  - {zadat vapros}
+  - {Hochesh pagavarit}
+  - {Ty zdes odin}
+  - {Ty zhdyosh}
+  - {dlya tebya sdelat}
+  - {Ty znaesh kto my}
+  - {Ty schastliv}
+  - {Ty zdes vsegda}
+  - {Ty muzhchina ili}
+  - {yest deti}
+  - {chtoby my ushli}
+  - {sprosit}
+  - {mozhesh pashumet}
+  - {pakazhi sebya}
+  - {pastuchi}
+  - {sdelay kakoy-nibud}
+  - {Atkroy dver}
+  - {Kin shtonibud}
+  - {Pagavari sa mnoi}
+  - {Pagavari s nami}
+  - {My ne prichinim tibye vreda}
+  - {druzia}
+  - {Eto tvoy dom}
+  - {Ty mozhesh s nami pagavarit}
+  - {Ya boyus}
+  - {Mnye strashno}
+  - {strashno}
+  - {stryom}
+  - {stryomno}
+  - {uzhas}
+  - {pugayet}
+  - {pugat}
+  - {panikuy}
+  - {zhesti}
+  - {pryachsya}
+  - {begi}
+  - {Pokazhis}
+  - {Pokazhi}
 Ouija Board Questions:
+  - {Kavo ty ubil}
+  - {Kto tvoya zhertva}
+  - {Kak imya tvayei zhertvy}
+  - {Kak zavut tvayu zhertvu}
+  - {tvaya zhertva}
+  - {Ty ubiytsa}
+  - {Kavo ty ubil}
+  - {Kto umer}
+  - {Skoliko tebye}
+  - {Kakova ty vozrasta}
+  - {Ty star}
+  - {Ty molad}
+  - {Kak dolga ty uzhe}
+  - {Skolko lyet nazad ty umer}
+  - {Kak davno ty zdes}
+  - {Kak davno ty umer}
+  - {Kogda ty umer}
+  - {Skolika v etoy komnate}
+  - {Skolika zdes chelovek}
+  - {Skolika zdes lyudei}
+  - {Skolika prizrakov}
+  - {Skolika vas zdes}
+  - {Ty adin}
+  - {My adni}
+  - {Kto zdes}
+  - {est v etoy komnate}
+  - {Gde ty}
+  - {tvaya lyubimaya komnata}
+  - {tvaya komnata}
+  - {kakaya is komnat tvaya}
+  - {Ty zdes}
+  - {Ty ryadom}
+  - {Zdes yest duhi}
+  - {Ty ryadom}
+  - {Ty pablizosti}
 EVP Recorder Questions:
+  - {Shto tebe nada}
+  - {Pachemu ty zdes}
+  - {Ty hochesh nas ubit}
+  - {Ty zlishsya}
+  - {Hochesh chtoby my ostalis}
+  - {Davaite uidyom}
+  - {Mozhet nam uiti}
+  - {hochest shtoby my ushli}
+  - {Shto nam delat}
+  - {tebye pamoch}
+  - {Ty drook}
+  - {Shto ty takoe}
+  - {Gde ty}
+  - {Ty blizko}
+  - {pokazatsa}
+  - {Dai nam znak}
+  - {Dai nam znat}
+  - {Pokazhis}
+  - {skazhi}
+  - {Pagavari}
+  - {Ty zdes}
+  - {Ty s nami}
+  - {Knonibud zdes}
+  - {ktonibud est}
+  - {est v komnate}
+  - {Kto zdes}
+  - {Zdes kto nibud est}
+  - {Zdes yest prizrak}
+  - {Ty devochka}
+  - {Ty malchik}
+  - {Ty muzhchina}
+  - {Ty zhenschina}
+  - {Kto ty}
+  - {Kto eto}
+  - {S kem my razgavarivayem}
+  - {S kem ya razgavarivayu}
+  - {Privet}
+  - {Kak tebya zovut}
+  - {Nazovi imya}
+  - {Skolko tebye lyet}
+  - {Ty molod}
+  - {Skolko tebye}
+  - {Kogda ty rodilsya}
+  - {Ty rebyonok}
+  - {Ty starik}
+  - {Ty molodoy}
+  - {Gde ty nahodishsya}
+  - {Kakova ty pola}
+  - {Kakova pola}
+  - {Ty muzhchina ili zhenschina}
+  - {Ty paren}
+  - {Ty devushka}

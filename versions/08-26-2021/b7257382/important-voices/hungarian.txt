@@ -1,5 +1,148 @@
 No-No Phrases:
 
 Listen Phrases:
+  - {Tudsz beszélni}
+  - {Tudsz beszélni hozzánk}
+  - {Csapj zajt}
+  - {Nyiss ki egy ajtót}
+  - {Nyisd ki ezt az ajtót}
+  - {Kapcsold fel a villanyt}
+  - {Kapcsold le a villanyt}
+  - {Van itt bármilyen szellem}
+  - {Adj nekünk jelet}
+  - {Mutasd meg}
+  - {Jelezd ha itt vagy}
+  - {Csinálj valamit}
+  - {Van itt velem valaki}
+  - {Sikíts}
+  - {Egyedül vagy}
+  - {Beszélhetünk}
+  - {Szeretnék beszélni veled}
+  - {Van itt valaki}
+  - {Megkérdezhetem}
+  - {Szeretnél beszélgetni}
+  - {Egyedül vagy itt}
+  - {Vársz}
+  - {Tehetek valamit}
+  - {Tudod kik vagyunk}
+  - {Boldog vagy}
+  - {Mindig itt vagy}
+  - {Férfi vagy nő vagy}
+  - {Vannak itt gyerekek}
+  - {Szeretnéd hogy elmenjünk}
+  - {Kérdezhetek}
+  - {Tudsz hangot kiadni}
+  - {Mutasd magad}
+  - {Kopogtass}
+  - {Adj ki hangot}
+  - {Nyisd ki az ajtót}
+  - {Dobj valamit}
+  - {Beszélj hozzám}
+  - {Beszélj hozzánk}
+  - {Nem akarunk bántani}
+  - {Barátok vagyunk}
+  - {Ez az otthonod}
+  - {Tudsz beszélni hozzánk}
+  - {Félek}
+  - {para}
+  - {megijedtem}
+  - {ijesztő}
+  - {kísérteties}
+  - {Horror}
+  - {Ijessz meg}
+  - {megrémültem}
+  - {pánik}
+  - {rémisztő}
+  - {Bújj el}
+  - {Fuss}
+  - {Mutasd magad}
+  - {Mutasd nekem}
 Ouija Board Questions:
+  - {Kit öltél meg}
+  - {Ki az áldozatod}
+  - {Mi a neve annak akit megöltél}
+  - {Mi a neve annak akit meggyilkoltál}
+  - {Ki az áldozat}
+  - {Gyilkoltál}
+  - {Kit gyilkoltál meg}
+  - {Ki halt meg}
+  - {Hány éves vagy}
+  - {Mennyi idős vagy}
+  - {Öreg vagy}
+  - {Fiatal vagy}
+  - {Mióta vagy halott}
+  - {Hány éve haltál meg}
+  - {Mennyi ideje vagy itt}
+  - {Milyen rég haltál meg}
+  - {Mikor haltál meg}
+  - {Hányan vannak ebben a szobában}
+  - {Hány ember van ebben a szobában}
+  - {Hányan vannak itt}
+  - {Hány kísértet van ebben a szobában}
+  - {Hány kísértet van itt}
+  - {Egyedül vagy}
+  - {Egyedül vagyunk}
+  - {Ki van itt}
+  - {Ki van ebben a szobában}
+  - {Merre vagy}
+  - {Melyik a kedvenc szobád}
+  - {Hol van a szobád}
+  - {Melyik a te szobád}
+  - {Itt vagy}
+  - {A közelben vagy}
+  - {Vannak itt szellemek}
+  - {A közelben vagy}
+  - {Körülöttünk vagy}
 EVP Recorder Questions:
+  - {Mit akarsz}
+  - {Miért vagy itt}
+  - {Bántani akarsz minket}
+  - {Mérges vagy}
+  - {Szeretnéd hogy itt legyünk}
+  - {Elmenjünk}
+  - {El kellene menjünk}
+  - {Szeretnéd hogy elmenjünk}
+  - {Mit tehetünk}
+  - {Segíthetünk}
+  - {Barátságos vagy}
+  - {Mi vagy }
+  - {Merre vagy}
+  - {Közel vagy}
+  - {Meg tudnád mutatni magad}
+  - {Adj nekünk jelet}
+  - {Tudasd, hogy itt vagy}
+  - {Mutasd magad}
+  - {Tudsz beszélni}
+  - {Beszélj hozzánk}
+  - {Itt vagy}
+  - {Jelen vagy}
+  - {Köztünk vagy}
+  - {Van itt valaki}
+  - {Van valaki a szobában}
+  - {Van itt valaki}
+  - {Van itt szellem}
+  - {Van itt kísértet}
+  - {Lány vagy}
+  - {Fiú vagy}
+  - {Férfi vagy}
+  - {Nő vagy}
+  - {Ki vagy}
+  - {Ki az}
+  - {Kihez beszélünk}
+  - {Kihez beszélek}
+  - {Helló}
+  - {Mi a neved}
+  - {Meg tudnád mondani a neved}
+  - {Hány éves vagy}
+  - {Mennyi idős vagy}
+  - {Hány éves vagy}
+  - {Mikor születtél}
+  - {Gyermek vagy}
+  - {Idős vagy}
+  - {Fiatal vagy}
+  - {Hol vagy most}
+  - {Mi a nemed}
+  - {Milyen nemű vagy}
+  - {Férfi vagy nő vagy}
+  - {Férfi vagy}
+  - {Nő vagy}

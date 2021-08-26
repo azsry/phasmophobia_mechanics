@@ -1,5 +1,148 @@
 No-No Phrases:
 
 Listen Phrases:
+  - {Konuşabilir misin}
+  - {Bizimle konuşabiliyor musun}
+  - {Ses çıkart}
+  - {Kapıyı açmak}
+  - {Bu kapıyı aç}
+  - {Işığı aç}
+  - {Işığı kapat}
+  - {Burada herhangi bir hayalet var mı}
+  - {Bize bir işaret ver}
+  - {Bize göster}
+  - {Eğer buradaysan söyle}
+  - {Bir şey yap}
+  - {Yanımda kimse var mı}
+  - {Çığlık}
+  - {Yalnız mısın}
+  - {Konuşabilir miyiz}
+  - {Seninle konuşmak istiyoruz}
+  - {Burada kimse var mı}
+  - {Sana sorabilir miyim}
+  - {Konuşmak ister misin}
+  - {Burada sadece sen mi varsın}
+  - {Bekliyor musun}
+  - {Yapabiliceğim bir şey var mı?}
+  - {Kim olduğumuzu biliyor musun}
+  - {Mutlu musun}
+  - {Hep burada mısın}
+  - {Kadın mısın erkek mi}
+  - {Burada çocuk var mı}
+  - {Gitmemizi mi istiyorsun}
+  - {Sana sorabilir miyim}
+  - {Ses çıkartabilir misin}
+  - {Bize varlığını göster}
+  - {Bir yeri çal}
+  - {Ses yap}
+  - {Kapıyı aç}
+  - {Bir şey fırlat}
+  - {Benimle konuş}
+  - {Bizimle konuş}
+  - {Sana zarar vermek istemiyoruz.}
+  - {Arkadaş canlısıyız}
+  - {Burası senin evinmi?}
+  - {Bizimle konuşabiliyor musun}
+  - {Korkuyorum}
+  - {korkuyorum}
+  - {korkmuş}
+  - {korkutucu}
+  - {ürpertici}
+  - {Korku}
+  - {Korkmak}
+  - {Korkutmak}
+  - {Panik}
+  - {Kork}
+  - {Saklan}
+  - {Koş}
+  - {Varlığını göster}
+  - {Bana göster}
 Ouija Board Questions:
+  - {Kimi öldürdün}
+  - {Kurbanın kim}
+  - {Öldürdüğün kişinin adı ne}
+  - {Katlettiğin kişinin adı ne}
+  - {Kurbanın ne}
+  - {Birisini öldürdün mü}
+  - {Kimi katlettin}
+  - {Kim öldü}
+  - {Kaç yaşındasın}
+  - {Yaşın kaç}
+  - {Yaşlı mısın}
+  - {Genç misin}
+  - {Ne zamandır ölüsün}
+  - {Kaç sene önce öldün}
+  - {Ne zamandır buradasın}
+  - {Ne kadar süredir ölüsün}
+  - {Ne zaman öledin}
+  - {Bu odada kaç kişi var}
+  - {Bu odada kaç insan var}
+  - {Burada kaç kişi var}
+  - {Bu odada kaç hayalet var}
+  - {Burada kaç hayalet var}
+  - {Yalnız mısın}
+  - {Yalnız mıyız}
+  - {Buradaki kim}
+  - {Bu odadaki kim}
+  - {Neredesin}
+  - {En sevdiğin oda hangisi}
+  - {Odan nerede}
+  - {Odan ne}
+  - {Burada mısın}
+  - {Yakın mısın}
+  - {Burada herhangi bir ruh var mı}
+  - {Yakın mısın}
+  - {Buralarda mısın}
 EVP Recorder Questions:
+  - {Ne istiyorsun}
+  - {Neden buradasın}
+  - {Bize zarar vermek mi istiyorsun}
+  - {Bize kızgın mısın}
+  - {Burada olmamızı istiyor musun}
+  - {Gitmeli miyiz}
+  - {Gidelim mi}
+  - {Gitmemizi mi istiyorsun}
+  - {Ne yapmalıyız}
+  - {Yardım edebilir miyiz}
+  - {Arkadaş canlısı mısın}
+  - {Nesin}
+  - {Neredesin}
+  - {Yakın mısın}
+  - {Kendini gösterebilir misin}
+  - {Bize bir işaret ver}
+  - {Burada olduğunu bize göster}
+  - {Kendini göster}
+  - {Konuşabiliyor musun}
+  - {Bizimle konuş}
+  - {Burada mısın}
+  - {Yanımızda mısın}
+  - {Yanımızda kimse var mı}
+  - {Burada birisi var mı}
+  - {Odada birisi var mı}
+  - {Burada kimse var mı}
+  - {Burada bir ruh var mı}
+  - {Burada bir hayalet var mı}
+  - {Kız mısın}
+  - {Erkek misin}
+  - {Erkek misin}
+  - {Bayan mısınız}
+  - {Sen kimsin}
+  - {Kimsin}
+  - {Kiminle konuşuyoruz}
+  - {Kiminle konuşuyorum}
+  - {Merhaba}
+  - {Adın ne}
+  - {Adını söyleyebilir misin}
+  - {Kaç yaşındasın}
+  - {Ne kadar gençsin}
+  - {Yaşın kaç}
+  - {Ne zaman doğdun}
+  - {Çocuk musun}
+  - {Yaşlı mısın}
+  - {Genç misin}
+  - {Neredesin}
+  - {Cinsiyetin ne}
+  - {Hangi cinsiyettesin}
+  - {Kadın mısın erkek mi}
+  - {Erkek misin}
+  - {Kadın mısın}
