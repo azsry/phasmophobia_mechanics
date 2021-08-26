@@ -1,0 +1,148 @@
+No-No Phrases:
+
+Listen Phrases:
+  - {Osaatko puhua}
+  - {Voitko puhua meille}
+  - {Tee ääntä}
+  - {Avaa ovi}
+  - {Avaa tämä ovi}
+  - {Laita valot päälle}
+  - {Sammuta valot}
+  - {Onko aaveita}
+  - {Anna meille merkki}
+  - {Näytä meille}
+  - {Kerro meille, että olet täällä}
+  - {Tee jotain}
+  - {Onko joku kanssani}
+  - {Huuda}
+  - {Oletko yksin}
+  - {Voimmeko puhua}
+  - {Haluaisin puhua sinulle}
+  - {Onko joku täällä}
+  - {Voinko kysyä sinulta}
+  - {Haluaisitko jutella}
+  - {Oletko ainoa täällä}
+  - {Odotatko}
+  - {Onko mitään, mitä voin tehdä}
+  - {Tiedätkö, ketä olemme}
+  - {Oletko onnellinen}
+  - {Oletko täällä koko ajan}
+  - {Oletko mies vai nainen}
+  - {Onko täällä lapsia}
+  - {Haluatko meidän lähteä}
+  - {Voinko kysyä sinulta}
+  - {Voitko tehdä äänen}
+  - {Näytä meille läsnäolosi}
+  - {Koputa jotain}
+  - {Äännähtele}
+  - {Avaa ovi}
+  - {Heittää jotain}
+  - {Puhu minulle}
+  - {Puhu meille}
+  - {Emme tarkoita pahaa}
+  - {Olemme ystäviä}
+  - {Onko tämä kotisi}
+  - {Voitko puhua meille}
+  - {Olen peloissani}
+  - {Minua pelottaa}
+  - {Pelottaa}
+  - {Pelottavaa}
+  - {Kammottavaa}
+  - {Kauhu}
+  - {Pelästyttää}
+  - {Pelotella}
+  - {Paniikki}
+  - {Säihkähdys}
+  - {Piiloudu}
+  - {Juokse}
+  - {Näytä läsnäolosi}
+  - {Näytä minulle}
+Ouija Board Questions:
+  - {Kenet tapoit}
+  - {Kuka on uhrisi}
+  - {Mikä on tappaneesi henkilön nimi}
+  - {Mikä on murhanneesi henkilön nimi}
+  - {Kuka on uhrisi}
+  - {Murhasitko}
+  - {Kenet murhasit}
+  - {Kuka kuoli}
+  - {Kuinka vanha olet}
+  - {Minkä ikäinen olet}
+  - {Oletko vanha}
+  - {Oletko nuori}
+  - {Kuinka kauan olet ollut kuollut}
+  - {Kuinka monta vuotta sitten kuolit}
+  - {Kuinka kauan olet ollut täällä}
+  - {Kuinka kauan sitten kuolit}
+  - {Milloin kuolit}
+  - {Kuinka monta on tässä huoneessa}
+  - {Kuinka monta ihmistä on tässä huoneessa}
+  - {Kuinka monta ihmistä on täällä}
+  - {Kuinka monta aavetta on tässä huoneessa}
+  - {Kuinka monta aavetta on täällä}
+  - {Oletko yksin}
+  - {Olemmeko yksin}
+  - {Kuka on täällä}
+  - {Kuka on tässä huoneessa}
+  - {Missä sinä olet}
+  - {Mikä on suosikki huoneesi}
+  - {Missä on huoneesi}
+  - {Mikä on huoneesi}
+  - {Oletko täällä}
+  - {Oletko lähellä}
+  - {Onko aaveita}
+  - {Oletko lähellä}
+  - {Oletkä lähistöllä}
+EVP Recorder Questions:
+  - {Mitä haluat}
+  - {Miksi olet täällä}
+  - {Haluatko satuttaa meitä}
+  - {Oletko vihainen}
+  - {Haluatko meidän olevan täällä}
+  - {Lähdemmekö}
+  - {Pitäisikö meidän lähteä}
+  - {Haluatko meidän lähtevän}
+  - {Mitä meidän pitäisi tehdä}
+  - {Voimme auttaa}
+  - {Oletko ystävällinen}
+  - {Mikä sinä olet}
+  - {Missä sinä olet}
+  - {Oletko lähellä}
+  - {Voitko näyttäytyä}
+  - {Anna meille merkki}
+  - {Ilmoita läsnäolostasi}
+  - {Näytä itsesi}
+  - {Voitko puhua}
+  - {Puhua meille}
+  - {Oletko täällä}
+  - {Oletko kanssamme}
+  - {Onko kukaan kanssamme}
+  - {Onko täällä ketään}
+  - {Onko ketään huoneessa}
+  - {Onko täällä ketään}
+  - {Onko täällä henki}
+  - {Onko täällä aave}
+  - {Oletko tyttö}
+  - {Oletko poika}
+  - {Oletko mies}
+  - {Oletko nainen}
+  - {Kuka sinä olet}
+  - {Kuka tämä on}
+  - {Kenelle me puhumme}
+  - {Kenelle puhun}
+  - {Hei}
+  - {Mikä sinun nimesi on}
+  - {Voitko kertoa nimesi minulle}
+  - {Kuinka vanha olet}
+  - {Kuinka nuori olet}
+  - {Minkä ikäinen olet}
+  - {Milloin synnyit}
+  - {Oletko lapsi}
+  - {Oletko vanha}
+  - {Oletko nuori}
+  - {Mikä on sijaintisi}
+  - {Mikä on sukupuolesi}
+  - {Mikä sukupuoli}
+  - {Oletko mies vai nainen}
+  - {Oletko mies}
+  - {Oletko nainen}
