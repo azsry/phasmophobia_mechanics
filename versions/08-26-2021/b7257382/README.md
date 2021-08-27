@@ -14,6 +14,8 @@
   - [Ghosts](#ghosts)
     - [Ghost Types](#ghost-types)
     - [Spawning](#spawning)
+    - [Banshees](#banshees)
+    - [Phantoms](#phantoms)
   - [Process Detection](#process-detection)
 
 ## General Gameplay
@@ -197,6 +199,24 @@ There are 16 types of ghosts in the game, but one is just an 'empty' state for l
   - The Ghost Type is selected from a random range between (1, 17), we do not use choice '0' as that is a 'none' ghost.
   - Whether or not the Ghost is a male or a female.
   - The ghosts name (is chosen from a list based on if the ghost is male or female).
+
+### Hunts
+
+<!-- GhostAI_Update -->
+
+- During a Hunt a Ghost will appear every 0.3-1.0 seconds.
+
+### Banshees
+
+<!-- GhostAI_StartGhost -->
+
+- Banshees choose a player at the start of the game to target above all else.
+
+### Phantoms
+
+<!-- GhostAI_Update -->
+
+- Phantoms during a hunt instead of appearing once every 0.3-1.0 second, will appear every 1.0-2.0 seconds.
 
 ## Process Detection
 
