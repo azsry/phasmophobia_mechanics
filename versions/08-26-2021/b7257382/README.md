@@ -6,6 +6,11 @@
     - [Leveling](#leveling)
     - [Difficulty Levels](#difficulty-levels)
     - [Sanity](#sanity)
+  - [Evidence](#evidence)
+    - [DNA Evidence](#dna-evidence)
+    - [Ghost Orbs](#ghost-orbs)
+    - [Freezing Temps](#freezing-temps)
+  - [Ghost Types](#ghosts)
 
 ## General Gameplay
 
@@ -75,5 +80,93 @@ Effects on Sanity (excluding ghost specialities which are down below):
 
 <!-- HeartRateData_u0921u091Cu0923u091Fu0929u091Au0922u091Du0920u091Du091A -->
 - Sanity is displayed in the truck, the game calls this "Heart Rate Data"
-  - The true sanity for a player is not ever displayed, instead it is a range of sanity from: `(Sanity-2, Sanity+3)`
+  - The true sanity for a player is not ever displayed, instead it is random number in the range of: `(Sanity-2, Sanity+3)`
   - For players with zero/one percent sanity, the heart rate data represents treats the sanity as '2' so it can still display 0, but it doesn't have to do any fancy trickery dealing with negative numbers.
+
+## Evidence
+
+### DNA Evidence
+
+<!-- EvidenceController_SpawnAllGhostTypeEvidence -->
+<!-- EvidenceController_u0927u0928u0929u0926u0921u0924u0925u091Bu091Du091Fu0927 -->
+
+- DNA Evidence is what players commonly know as the 'bone'.
+- The bone will spawn no matter what, it's position is chosen randomly by the host.
+- This evidence doesn't actually help you catch the ghost, but it is listed here, because
+  the game manages it like it is managed by the games Evidence Controller.
+
+### Ghost Orbs
+
+<!-- EvidenceController_SpawnAllGhostTypeEvidence -->
+<!-- EvidenceController_u091Du091Cu0921u0920u091Cu0925u0927u0923u091Fu0929u091D -->
+
+- Ghost Orbs are a type of evidence, for identifying certain types of ghosts.
+  - Ghost Orbs are spawned in at the beginning of the game, and can be seen with a video camera.
+  - Ghost Orbs will always spawn in the chosen 'ghost room', or the ghosts favorite room.
+  - The Following Ghost Types are capable of spawning ghost orbs:
+    - Banshee
+    - Mare
+    - Revenant
+    - Yurei
+    - Yokai
+    - Hantu
+
+### Freezing Temps
+
+<!-- EvidenceController_SpawnAllGhostTypeEvidence -->
+<!-- Thermometer_u091Du0929u0929u0923u0921u091Eu0926u0925u0928u0920u0921 -->
+<!-- LevelRoom_Update -->
+<!-- Thermometer_Update -->
+
+- Freezing Temperatures are a type of evidence, for identifying certain types of ghosts.
+  - Freezing Temperatures can be detected by using a themometer, or by waiting to see their breath visualize.
+  - Thermometer will update every 2 seconds, except for the first update which is still 5 seconds
+  - Temperature will not drop during the setup phase.
+  - During a hunt if the player is within 10 meters of a ghost a random temperature will be display between 5-30 degrees celsius (41 - 86 fareinheit)
+  - The temperature display on the termometer is not the real temperature of the room. Instead it is a random number in the range of: `(Real Temperature - 2, Real Temperature + 4)`
+  - If the ghost is not in the room, and the fuse box is on the room will not change temperature, except to raise itself out of the minimum temperature allowed for the room.
+    - The specific formula used is: `currentTempForRoom + (Random.Range(0.02, 0.05) * TimeSinceLastFrame)`
+    - This is about ~0.6 degrees per call
+  - If the ghost is not in the room, and the fuse box is off, the temperature will lower.
+    - The specific formula used is: `currentTempForRoom - (Random.Range(0.04, 0.08) * TimeSinceLastFrame)`
+    - This is about ~1 degrees per call
+  - If the ghost is in the room, regardless of the fuse box the temperature will lower.
+    - The specific formula used is: `currentTempForRoom - (0.5 * TimeSinceLastFrame)`
+  - If the ghost is not a freezing ghost the room cannot go below 5 degrees celsius.
+    - ***This means if you see a number below 3 degrees celsius/37.4 degrees Farenheit on your thermometer you know it is a freezing ghost.***
+    - We have to use 3 degrees, as the thermometer may randomly take up to two degrees away.
+  - If the ghost is a freezing ghost it will not go below -10 degrees celsius.
+  - The following Ghost Types are capable of spawning Freezing Temps
+    - Jinn
+    - Revenant
+    - Shade
+    - Demon
+    - Yurei
+    - Oni
+    - Hantu
+
+## Ghosts
+
+<!--
+The enum for ghost types is called: u091Eu0925u091Fu0929u0927u0923u0925u0925u0921u0929u0920_u091Eu091Du0925u0920u0924u0929u091Bu091Fu0925u0927u0925__Enum
+
+The internal numbers for ghost types are:
+
+  - 0: none
+  - 1: Spirit
+  - 2: Wraith
+  - 3: Phantom
+  - 4: Poltergeist
+  - 5: Banshee
+  - 6: Jinn
+  - 7: Mare
+  - 8: Revenant
+  - 9: Shade
+  - 10 (0xA): Demon
+  - 11 (0xB): Yurei
+  - 12 (0xC): Oni
+  - 13 (0xD): Yokai
+  - 14 (0xE): Hantu
+  - 15 (0xF): Goryo
+  - 16 (0x10): Myling
+-->
