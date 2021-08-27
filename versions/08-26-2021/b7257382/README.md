@@ -7,6 +7,7 @@
     - [Difficulty Levels](#difficulty-levels)
     - [Sanity](#sanity)
     - [Setup Phase](#setup-phase)
+    - [Stamina](#stamina)
   - [Evidence](#evidence)
     - [DNA Evidence](#dna-evidence)
     - [Ghost Orbs](#ghost-orbs)
@@ -37,6 +38,22 @@
   - This difficulty is unlocked at level 10
 - Professional is represented as '2' difficulty
   - This difficulty is unlocked at level 15
+
+### Stamina
+
+<!-- PCStamina_Update -->
+<!-- PlayerStamina__ctor -->
+<!-- PlayerStamina_u0927u0925u0927u091Eu0928u091Du0929u091Au0929u0922u0926 -->
+
+- Currently your Stamina is only affected by Sprinting.
+- Sprinting on the PC has the following mechanics:
+  - You can sprint for up to 3 seconds
+  - If you sprint for a full 3 seconds you enter a 'drained' state where you cannot sprint again for 5 seconds.
+  - If you are not drained there is a 2 second buffer before your stamina starts recharging again.
+  - Your stamina if not drained will recharge equal to the time you are not sprinting (e.g. it takes two seconds, to recharge two seconds of sprinting).
+  - You can techincally get more distance in a short time span with perfect stutter-sprinting because of this, but overtime it evens out.
+- VR Sprinting:
+  - VR Sprinting is pretty simple, you can teleport 3.5 meters more than your 'sprint time' in the X axis.
 
 ### Sanity
 
