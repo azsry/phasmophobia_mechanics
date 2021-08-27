@@ -6,6 +6,7 @@
     - [Leveling](#leveling)
     - [Difficulty Levels](#difficulty-levels)
     - [Sanity](#sanity)
+    - [Setup Phase](#setup-phase)
   - [Evidence](#evidence)
     - [DNA Evidence](#dna-evidence)
     - [Ghost Orbs](#ghost-orbs)
@@ -82,6 +83,18 @@ Effects on Sanity (excluding ghost specialities which are down below):
 - Sanity is displayed in the truck, the game calls this "Heart Rate Data"
   - The true sanity for a player is not ever displayed, instead it is random number in the range of: `(Sanity-2, Sanity+3)`
   - For players with zero/one percent sanity, the heart rate data represents treats the sanity as '2' so it can still display 0, but it doesn't have to do any fancy trickery dealing with negative numbers.
+
+### Setup Phase
+
+There is a clock in the truck that has a timer, this timer displays what is known as the 'Setup Timer'. The Setup Timer is a special time where players have time to collect, and set the things up they want to set up. Depending on your difficulty you'll get a different setup time.
+
+<!-- SetupPhaseController__ctor -->
+<!-- SetupPhaseController_Start -->
+<!-- SetupPhaseController_Update -->
+
+- For Amatuer Players you will have a setup time of: 4 minutes, and 59 seconds
+- For Intermediate Players you will have a setup time of: 1 minute, and 59 seconds
+- For Professional Players you will have no setup time.
 
 ## Evidence
 
