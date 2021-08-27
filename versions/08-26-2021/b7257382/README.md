@@ -121,7 +121,7 @@ Effects on Sanity (excluding ghost specialities which are down below):
 - Freezing Temperatures are a type of evidence, for identifying certain types of ghosts.
   - Freezing Temperatures can be detected by using a themometer, or by waiting to see their breath visualize.
   - Thermometer will update every 2 seconds, except for the first update which is still 5 seconds
-  - Temperature will not drop during the setup phase.
+  - Temperature will not drop while the door is closed.
   - During a hunt if the player is within 10 meters of a ghost a random temperature will be display between 5-30 degrees celsius (41 - 86 fareinheit)
   - The temperature display on the termometer is not the real temperature of the room. Instead it is a random number in the range of: `(Real Temperature - 2, Real Temperature + 4)`
   - If the ghost is not in the room, and the fuse box is on the room will not change temperature, except to raise itself out of the minimum temperature allowed for the room.
