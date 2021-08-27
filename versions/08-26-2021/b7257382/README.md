@@ -11,7 +11,10 @@
     - [DNA Evidence](#dna-evidence)
     - [Ghost Orbs](#ghost-orbs)
     - [Freezing Temps](#freezing-temps)
-  - [Ghost Types](#ghosts)
+  - [Ghosts](#ghosts)
+    - [Ghost Types](#ghost-types)
+    - [Spawning](#spawning)
+  - [Process Detection](#process-detection)
 
 ## General Gameplay
 
@@ -160,26 +163,51 @@ There is a clock in the truck that has a timer, this timer displays what is know
 
 ## Ghosts
 
-<!--
-The enum for ghost types is called: u091Eu0925u091Fu0929u0927u0923u0925u0925u0921u0929u0920_u091Eu091Du0925u0920u0924u0929u091Bu091Fu0925u0927u0925__Enum
+### Ghost Types
 
-The internal numbers for ghost types are:
+<!-- u091Eu0925u091Fu0929u0927u0923u0925u0925u0921u0929u0920_u091Eu091Du0925u0920u0924u0929u091Bu091Fu0925u0927u0925__Enum -->
 
-  - 0: none
-  - 1: Spirit
-  - 2: Wraith
-  - 3: Phantom
-  - 4: Poltergeist
-  - 5: Banshee
-  - 6: Jinn
-  - 7: Mare
-  - 8: Revenant
-  - 9: Shade
-  - 10 (0xA): Demon
-  - 11 (0xB): Yurei
-  - 12 (0xC): Oni
-  - 13 (0xD): Yokai
-  - 14 (0xE): Hantu
-  - 15 (0xF): Goryo
-  - 16 (0x10): Myling
--->
+There are 16 types of ghosts in the game, but one is just an 'empty' state for like when your sitting in a lobby:
+
+- 0: none
+- 1: Spirit
+- 2: Wraith
+- 3: Phantom
+- 4: Poltergeist
+- 5: Banshee
+- 6: Jinn
+- 7: Mare
+- 8: Revenant
+- 9: Shade
+- 10 (0xA): Demon
+- 11 (0xB): Yurei
+- 12 (0xC): Oni
+- 13 (0xD): Yokai
+- 14 (0xE): Hantu
+- 15 (0xF): Goryo
+- 16 (0x10): Myling
+
+### Spawning
+
+<!-- GhostController_CreateGhost -->
+<!-- GhostController_Start -->
+
+- A ghosts spawns when a level is actually created after a contract has been selected, and the game is loading in.
+- During Ghost Spawn the following things are randomized:
+  - The Ghost Type is selected from a random range between (1, 17), we do not use choice '0' as that is a 'none' ghost.
+  - Whether or not the Ghost is a male or a female.
+  - The ghosts name (is chosen from a list based on if the ghost is male or female).
+
+## Process Detection
+
+<!-- u091Au091Du0922u091Au0923u091Eu0929u0922u091Du091Bu091F_u0927u091Eu091Bu091Bu0920u0926u091Du0927u091Cu091Eu0922 -->
+
+Phasmophobia at certain points will look for certain process names running, and if they are running throw an exception. This feels like a really really bad form of anti-cheat/anti-debugging but it's incredibly ineffective.
+
+Phasmophobia looks for processes the contain the following strings (case insensitively):
+
+  - `cheatengine`
+  - `sharpmonoinjector`
+  - `fiddler`
+  - `dnspy`
+  - `ollydbg`
