@@ -1,0 +1,158 @@
+No-No Phrases:
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+  - {¿Puedes hablarnos?}
+  - {¿Puede hablarnos?}
+  - {Haz ruido}
+  - {Abre una puerta}
+  - {Abre esta puerta}
+  - {Enciende la luz}
+  - {Apaga la luz}
+  - {¿Hay algún fantasma?}
+  - {Danos una señal}
+  - {Muestranos algo}
+  - {Haznos saber que estás presente}
+  - {Haz algo}
+  - {¿Estás conmigo?}
+  - {Grita}
+  - {¿Estás solo?}
+  - {¿Podemos hablar?}
+  - {Me gustaria hablar contigo}
+  - {¿Hay alguien aquí?}
+  - {¿Puedo preguntarte?}
+  - {¿Te gustaría hablar?}
+  - {¿Eres el único aquí?}
+  - {¿Estás esperando?}
+  - {¿Hay algo que pueda hacer?}
+  - {¿Sabes quienes somos?}
+  - {¿Estás feliz?}
+  - {¿Cuánto llevas con nosotros?}
+  - {¿Eres un hombre o una mujer?}
+  - {¿Hay niños aquí?}
+  - {¿Quieres que nos vayamos?}
+  - {¿Te puedo preguntar?}
+  - {¿Puedes hacer un sonido?}
+  - {Muéstrate}
+  - {Golpea algo}
+  - {Haz un sonido}
+  - {Abre la puerta}
+  - {Tira algo}
+  - {Háblame}
+  - {Háblanos}
+  - {No queremos hacerte daño}
+  - {Somos amigos}
+  - {¿Es esta tu casa?}
+  - {¿Puedes hablarnos?}
+  - {Estoy asustado}
+  - {Tengo miedo}
+  - {Asustado}
+  - {Miedo}
+  - {Escalofriante}
+  - {Horrorizado}
+  - {Miedo}
+  - {Amedrentado}
+  - {Pánico}
+  - {Susto}
+  - {Escóndete}
+  - {Corre}
+  - {Muestra tu presencia}
+  - {Muéstrame}
+Ouija Board Questions:
+  - {¿A quién has matado?}
+  - {¿Quién es tu victima?}
+  - {¿Cómo se llama la persona a la que mataste?}
+  - {¿Cómo se llama la persona a la que asesinaste?}
+  - {¿A quién has matado?}
+  - {¿Has matado? }
+  - {¿A quién has asesinado?}
+  - {¿Quién ha muerto?}
+  - {¿Cuántos años tienes?}
+  - {¿Cuál es tu edad?}
+  - {¿Eres viejo?}
+  - {¿Eres joven?}
+  - {¿Cuánto tiempo llevas muerto?}
+  - {¿Cuántos años hace que moriste? }
+  - {¿Cuanto tiempo llevas aqui?}
+  - {¿Cuánto tiempo hace que moriste?}
+  - {¿Cuando moriste?}
+  - {¿Cuántos hay en esta sala?}
+  - {¿Cuántas personas hay en esta habitación?}
+  - {¿Cuántas personas hay aquí?}
+  - {¿Cuántos fantasmas se encuentran en esta habitación?}
+  - {¿Cuántos fantasmas hay aquí?}
+  - {¿Estás solo?}
+  - {¿Estamos solos?}
+  - {¿Hay alguien aquí?}
+  - {¿Quién está en esta habitación?}
+  - {¿Dónde estás?}
+  - {¿Cuál es tu habitación favorita?}
+  - {¿Dónde está tu habitación?}
+  - {¿Cuál es tu habitación?}
+  - {¿Estás aquí?}
+  - {¿Estás cerca?}
+  - {¿Hay algún espiritu?}
+  - {¿Estás cerca?}
+  - {¿Estás alrededor?}
+EVP Recorder Questions:
+  - {¿Qué quieres?}
+  - {¿Por qué estás aquí?}
+  - {¿Quieres hacernos daño?}
+  - {¿Estás enfadado?}
+  - {¿Quieres que estemos aquí?}
+  - {¿Tenemos que irnos?}
+  - {¿Deberíamos irnos?}
+  - {¿Quieres que nos vayamos?}
+  - {¿Qué debemos hacer?}
+  - {¿Podemos ayudar?}
+  - {¿Eres amistoso?}
+  - {¿Qué eres?}
+  - {¿Dónde estás?}
+  - {¿Estás cerca?}
+  - {¿Te puedes mostrar?}
+  - {Danos una señal}
+  - {Déjanos saber que estás aquí}
+  - {Muéstrate}
+  - {¿Puedes hablar?}
+  - {Habla con nosotros}
+  - {¿Estás aquí?}
+  - {¿Estás con nosotros?}
+  - {¿Hay alguien con nosotros?}
+  - {¿Hay alguien aquí?}
+  - {¿Hay alguién en la habitación?}
+  - {¿Hay alguién aquí?}
+  - {¿Hay un espíritu aquí?}
+  - {¿Hay un fantasma aquí?}
+  - {¿Eres una chica?}
+  - {¿Eres un chico?}
+  - {¿Eres hombre?}
+  - {¿Eres mujer?}
+  - {¿Quién eres?}
+  - {¿Quién eres?}
+  - {¿A quién le estamos hablando?}
+  - {¿Con quién hablo?}
+  - {Hola}
+  - {¿Cómo te llamas?}
+  - {¿Me puedes dar tu nombre?}
+  - {¿Cuántos años tienes?}
+  - {¿Cuán joven eres?}
+  - {¿Cuál es tu edad?}
+  - {¿Cuándo naciste?}
+  - {¿Eres un niño?}
+  - {¿Eres viejo?}
+  - {¿Eres joven?}
+  - {¿Dónde estás?}
+  - {¿Cuál es tu género?}
+  - {¿De que género eres? }
+  - {¿Eres un hombre o una mujer?}
+  - {¿Eres un hombre?}
+  - {¿Eres una mujer?}

@@ -1,0 +1,148 @@
+No-No Phrases:
+
+Listen Phrases:
+  - {Můžete mluvit}
+  - {Můžete s námi mluvit}
+  - {Udělej hluk}
+  - {Otevři dveře}
+  - {Otevři tyto dveře}
+  - {Rozsviť světlo}
+  - {Zhasni světlo}
+  - {Jsou tu nějací duchové}
+  - {Dej nám znamení}
+  - {Ukaž nám}
+  - {Dejte nám vědět, že jste tady}
+  - {Udělej něco}
+  - {Je tu někdo se mnou}
+  - {Zakřič}
+  - {Jsi sám}
+  - {Můžeme mluvit}
+  - {by s vámi rád mluvil}
+  - {Je tu někdo}
+  - {Mohu se zeptat}
+  - {Chtěl by jsi mluvit}
+  - {Jsi tu jediný}
+  - {Čekáš}
+  - {Existuje něco, co mohu udělat}
+  - {Víš, kdo jsme}
+  - {Jsi šťastný}
+  - {Jsi zde po celou dobu}
+  - {Jsi muž nebo žena}
+  - {Jsou zde děti}
+  - {Chcete, abychom odešli}
+  - {Mohu se tě zeptat}
+  - {Můžeš udělat zvuk}
+  - {Ukaž nám svou přítomnost}
+  - {Zaklepej na něco}
+  - {Vydej zvuk}
+  - {Otevři dveře}
+  - {Hoď něčím}
+  - {Mluv se mnou}
+  - {Mluv s námi}
+  - {Nechceme ti ublížit}
+  - {Jsme přátelé}
+  - {Je toto tvůj domov}
+  - {Můžeš s námi mluvit}
+  - {Bojím se}
+  - {Bojím se}
+  - {vyděšený}
+  - {děsivý}
+  - {strašidelný}
+  - {Hrůza}
+  - {Děs}
+  - {Vystrašit}
+  - {Panika}
+  - {Zděšení}
+  - {Ukrýt se}
+  - {Útěk}
+  - {Ukaž svou přítomnost}
+  - {Ukaž mi}
+Ouija Board Questions:
+  - {Koho jsi zabil}
+  - {Kdo je tvá oběť}
+  - {Jaký je jméno osoby, kterou jsi zabil}
+  - {Jaký je jméno osoby, kterou jsi zavraždil}
+  - {Co je tvá oběť}
+  - {Zavraždil jsi}
+  - {Koho jsi zavraždil}
+  - {Kdo umřel}
+  - {Kolik je ti let}
+  - {Jaký je tvůj věk}
+  - {Jsi starý}
+  - {Jsi mladý}
+  - {Jak dlouho jsi mrtvý}
+  - {Před kolika lety jsi umřel}
+  - {Jak dlouho tu jsi}
+  - {Jak je to dávno co jsi umřel}
+  - {Kdy jsi zemřel}
+  - {Kolik je v této místnosti}
+  - {Kolik lidí je v této místnosti}
+  - {Kolik lidí je tady}
+  - {Kolik duchů je v této místnosti}
+  - {Kolik duchů je zde}
+  - {Jsi sám}
+  - {Jsme sami}
+  - {Kdo je tady}
+  - {Kdo je v tomto pokoji}
+  - {Kde jsi}
+  - {Jaký je tvá oblíbená místnost}
+  - {Kde je tvá místnost}
+  - {Jaká je tvá místnost}
+  - {Jsi tu}
+  - {Jsi blízko}
+  - {Existují nějaké duše}
+  - {Jsi blízko}
+  - {Jsi tu poblíž}
+EVP Recorder Questions:
+  - {Co chceš}
+  - {Proč jsi tady}
+  - {Chceš nám ublížit}
+  - {Jsi naštvaný}
+  - {Chceš nás tady}
+  - {Můžeme odejít}
+  - {Měli bychom odejít}
+  - {Chceš, abychom odešli}
+  - {Co bychom měli dělat}
+  - {Můžeme pomoci}
+  - {Jsi přátelský}
+  - {Co jsi zač}
+  - {Kde jsi}
+  - {Jsi blízko}
+  - {Můžeš se ukázat}
+  - {Dej nám znamení}
+  - {Dej nám vědět, že jsi tady}
+  - {Ukaž se}
+  - {Můžeš mluvit}
+  - {Mluv s námi}
+  - {Jsi tu}
+  - {Jsi s námi}
+  - {Je tu někdo s námi}
+  - {Je tu někdo}
+  - {Je tu někdo v místnosti}
+  - {Je tu někdo}
+  - {Je zde duše}
+  - {Je zde duch}
+  - {Jsi holka}
+  - {Jsi kluk}
+  - {Jsi muž}
+  - {Jste žena}
+  - {Kdo jsi}
+  - {Kdo je to}
+  - {S kým mluvíme}
+  - {S kým mluvím}
+  - {Ahoj}
+  - {Jak se jmenuješ}
+  - {Můžeš mi říct své jméno}
+  - {Kolik je ti let}
+  - {Jak jsi mladý}
+  - {Jaký je tvůj věk}
+  - {Kdy ses narodil}
+  - {Jsi dítě}
+  - {Jsi starý}
+  - {Jsi mladý}
+  - {Jaká je tvoje poloha}
+  - {Jaké je tvé pohlaví}
+  - {Jaké pohlaví}
+  - {Jsi muž nebo žena}
+  - {Jsi muž}
+  - {Jsi žena}

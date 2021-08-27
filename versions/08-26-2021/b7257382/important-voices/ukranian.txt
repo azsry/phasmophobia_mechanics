@@ -1,0 +1,161 @@
+No-No Phrases:
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+  - {Ty mozhesh rozmovlyaty}
+  - {Mozhesh pohovoryty}
+  - {Poshumy}
+  - {Vidkryy dveri}
+  - {Vidkryy tsyu}
+  - {Vklyuchy svitlo}
+  - {Vyklyuchy svitlo}
+  - {Yakshcho ty tut}
+  - {Dai nam znak}
+  - {Pokazhy nam}
+  - {Dai nam znaty de ty}
+  - {Zroby shcho-nebud}
+  - {Tut khtos ye}
+  - {Pokrychy}
+  - {Ty odyn}
+  - {Mozhemo pohovoryty}
+  - {ya khochu pohovoryty z toboyu}
+  - {Khto tut}
+  - {mozhna zapytaty}
+  - {Khochesh pohovoryty}
+  - {Ty tut odyn}
+  - {Ty chekayesh}
+  - {Dlya tebe zrobyty}
+  - {Ty znayesh khto my}
+  - {Ty shchaslyvyy}
+  - {Ty tut zavzhdy}
+  - {Ty cholovik chy zhinka}
+  - {ye dity}
+  - {Ty khochesh shchob my pishly}
+  - {Mozhna zapytaty}
+  - {Mozhesh poshumity}
+  - {Pokazhy sebe}
+  - {Postukay}
+  - {Zroby yakyys zvuk}
+  - {Vidkryy dveri}
+  - {kyn shchos}
+  - {Pohovory zi mnoyu}
+  - {Pohovory z namy}
+  - {My ne zavdamo shkody}
+  - {my druzi}
+  - {tse tviy dim}
+  - {ty mozhesh z namy pohovoryty}
+  - {ya boyus}
+  - {meni strashno}
+  - {strashno}
+  - {stromno}
+  - {kripovo}
+  - {uzhas}
+  - {lyakaye}
+  - {lyakaty}
+  - {blyat}
+  - {suka}
+  - {khovaysya}
+  - {bizhy}
+  - {Pokazhys}
+  - {Pokazhy}
+Ouija Board Questions:
+  - {koho ti vbyv}
+  - {khto tvoya zhertva}
+  - {Yake imya tvoyeyi zhertvy}
+  - {Yak zvaty tvoyu zhertvu}
+  - {tvoya zhertva}
+  - {ty ubyvtsya}
+  - {koho ty vbyv}
+  - {khto pomer}
+  - {skilky tobi}
+  - {Skilky tobi rokiv}
+  - {Ty staryy}
+  - {ty molodyy}
+  - {yak davno ty}
+  - {Skilky rokiv tomu ty pomer}
+  - {yak dovho ty tut}
+  - {yak davno ty pomer}
+  - {koly ty pomer}
+  - {Skilky v tsiy kimnati}
+  - {Skilky nas tut}
+  - {Skilky tut lyudey}
+  - {Skilky pryvydiv}
+  - {Skilky vas tut}
+  - {Ti odyn}
+  - {My odni}
+  - {Khto tut}
+  - {ye v tsiy kimnati}
+  - {De ti}
+  - {Tvoya ulyublenna kimnata}
+  - {Tvoya kimnata}
+  - {Yaka z kimnat tvoya}
+  - {Ti tut}
+  - {Ti poruch}
+  - {Tut ye dukhy}
+  - {Ty des tut}
+  - {Ty poblyzu}
+EVP Recorder Questions:
+  - {Shcho tobi potribno}
+  - {Chomu ty tut}
+  - {Ty khochesh nas vbyty}
+  - {Ty zlyshsya}
+  - {Khochesh shchob my zalyshylysya}
+  - {Davayte pidem}
+  - {Mozhe nam pity}
+  - {Khochesh shchob my pishly}
+  - {Shcho nam robyty}
+  - {Tobi dopomohty}
+  - {Ty druh}
+  - {Shcho ty take}
+  - {De ty}
+  - {Ty blyzko}
+  - {Pokazhys}
+  - {Dai nam znak}
+  - {Dai nam znaty}
+  - {Pokazhys}
+  - {Skazhy}
+  - {Pohovory}
+  - {Ty tut}
+  - {Ty z namy}
+  - {Ktos yeah tut}
+  - {Kto nebud tut ye}
+  - {YE v kimnati}
+  - {Khto tut}
+  - {tut ye khtos}
+  - {Tut yeah pryvyd}
+  - {Ty divchyna}
+  - {Ty khlopchyk}
+  - {Ty muzhchyna}
+  - {Ty zhinka}
+  - {Khto ti}
+  - {Khto tse
+}
+  - {Z kym my hovorymo}
+  - {Z kym ya hovoryu}
+  - {Pryvit}
+  - {Yak tebe zvaty}
+  - {Nazvy imya}
+  - {Skilky tobi rokiv
+}
+  - {Ty molodyy}
+  - {Skilky tobi}
+  - {Koly ty narodyvsya}
+  - {Ty dytyna}
+  - {Ty staryy}
+  - {Ty molodyy}
+  - {De ty znakhodyshsya}
+  - {Yaka tvoya stat}
+  - {Yaka stat}
+  - {Ty cholovik chy zhinka}
+  - {Ty khlopets}
+  - {Ty divchyna
+}

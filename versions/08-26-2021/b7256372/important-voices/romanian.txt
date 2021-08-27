@@ -1,0 +1,148 @@
+No-No Phrases:
+
+Listen Phrases:
+  - {Potsi vorbi}
+  - {Potsi suh vorbeshti cu noi}
+  - {Fuh un sunet}
+  - {Deschide o ushuh}
+  - {Deschide usha}
+  - {Aprinde lumina}
+  - {Stinge lumina}
+  - {Este vreo fantomuh}
+  - {Dă-ne un semn}
+  - {Aratuh-ne ceva}
+  - {Aratuh-ne un semn}
+  - {Fă ceva}
+  - {Există cineva cu mine}
+  - {Tsipuh}
+  - {Eshti singur}
+  - {Putem vorbi}
+  - {Am dori suh vorbim cu tine}
+  - {E cineva aici}
+  - {Pot suh te intreb}
+  - {Mi-ar pluhcea suh vorbim}
+  - {Suntetsi singurul de aici}
+  - {Tu ashteptsi}
+  - {Este ceva ce pot face}
+  - {Shtii cine suntem}
+  - {Eshti fericit}
+  - {Suntetsi aici mereu}
+  - {Eshti buhrbat sau femeie}
+  - {Este vreoon copil pe aici}
+  - {Vrei suh plecuhm}
+  - {Pot suh te ihntreb}
+  - {Potsi scoate un zgomot}
+  - {Aratuh-ne prezentsa ta}
+  - {Duh ceva pe jos}
+  - {Fuh un sunet}
+  - {Deschide usha}
+  - {Aruncuh ceva}
+  - {Vorbeshte}
+  - {Vorbeshte cu noi}
+  - {Noi vuh facem ruhooh}
+  - {Noi suntem prieteni}
+  - {Este casa ta}
+  - {Potsi suh vorbeshti cu noi}
+  - {Sunt speriat}
+  - {Mi-e fricuh}
+  - {Speriat}
+  - {ihnfricoshuhtor}
+  - {ihnfricoshuhtor}
+  - {groazuh}
+  - {Sperie}
+  - {Speria}
+  - {Panicuh}
+  - {Sperieturuh}
+  - {Ascunde}
+  - {Fugi}
+  - {Aratuhne}
+  - {Aruhtatsimi}
+Ouija Board Questions:
+  - {Cine ați ucis}
+  - {Cine este victima ta}
+  - {Care este numele persoanei pe care l-ai ucis}
+  - {Care este numele persoanei pe care ai ucis}
+  - {Care este victima}
+  - {Ahts omoriht}
+  - {Pe cine ai omoriht}
+  - {Cine a murit}
+  - {Cihts ani ai}
+  - {Ce vihrstuh ai}
+  - {Eshti buhtrihn}
+  - {Eshti tihnuhr}
+  - {De ciht timp eshti mort}
+  - {Acum cihts ani ai murit}
+  - {De cight timp eshti aici}
+  - {Cu ciht timp ihn urmuh ai murit}
+  - {Cihnd ai murit}
+  - {Ciht de multsi sunt ihn aceastuh cameruh}
+  - {Ciht de multsi oameni sunt ihn aceastuh cameruh}
+  - {Ciht de multsi oameni sunt aici}
+  - {Ciht de multe fantome sunt ihn aceastuh cameruh}
+  - {Cihte fantome sunt aici}
+  - {Eshti singur}
+  - {Suntem singuri}
+  - {Cine e aici}
+  - {Cine este in aceastuh cameruh}
+  - {Unde eshti }
+  - {Care este camera ta preferatuh}
+  - {Unde este camera ta}
+  - {Care este camera ta}
+  - {Eshti aici}
+  - {Eshti aproape}
+  - {Existuh spirite}
+  - {Suntetsi aproape}
+  - {Eshti prin zonuh}
+EVP Recorder Questions:
+  - {Ce vrei}
+  - {De ce eshti aici}
+  - {Vrei suh ne faci ruhooh}
+  - {Suntetsi nervos}
+  - {Doreshti suh stuhm aici}
+  - {Vretsi sa plecuhm}
+  - {Ar trebui suh plecuhm}
+  - {Vrei suh plecuhm}
+  - {Ce ar trebui suh facem}
+  - {Putem ajuta}
+  - {Eshti prietenos}
+  - {Ce eshti}
+  - {Unde eshti}
+  - {Eshti aproape}
+  - {Poti suh te aruhtsi}
+  - {Dă-ne un semn}
+  - {Ne dai un semn cuh eshti aici}
+  - {Aratuh-te}
+  - {Potsi vorbi}
+  - {Vorbeshte-ne}
+  - {Eshti aici}
+  - {Suntetsi}
+  - {Cineva cu noi}
+  - {Este cineva aici}
+  - {Cineva in cameruh}
+  - {Cineva aici}
+  - {Este un spirit aici}
+  - {Existuh o fantomuh aici}
+  - {Eshti fatuh}
+  - {Eshti un buhiat}
+  - {Eshti buhrbat}
+  - {Eshti femeie}
+  - {Cine eshti}
+  - {Cine suntetsi}
+  - {Cu cine vorbim}
+  - {Cu cine vorbesc}
+  - {Buna ziua}
+  - {Cum te numeshti}
+  - {Potsi suh-mi dai numele tuhu}
+  - {Cihtsi ani ai}
+  - {Ciht de tanar eshti}
+  - {Ce vihrstuh ai}
+  - {Cihnd te-ai nuhscut}
+  - {Eshti un copil}
+  - {Eshti buhtrihn}
+  - {Eshti tihnuhr}
+  - {Unde te aflii}
+  - {Care este sexul tuhu}
+  - {Ce eshti}
+  - {Eshti buhrbat sau femeie}
+  - {Eshti buhrbat}
+  - {Eshti femeie}

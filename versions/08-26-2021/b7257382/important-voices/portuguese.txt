@@ -1,0 +1,158 @@
+No-No Phrases:
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+  - {Você pode falar}
+  - {Você pode falar connosco}
+  - {Faça um barulho}
+  - {Abra uma porta}
+  - {Abra esta porta}
+  - {Acenda a luz}
+  - {Apague a luz}
+  - {Existem aqui fantasmas}
+  - {Dê-nos um sinal}
+  - {Mostre-nos}
+  - {Deixe-nos saber que você está aqui}
+  - {Faça algo}
+  - {Está alguém comigo}
+  - {Grite}
+  - {Você está sozinho}
+  - {Podemos falar}
+  - {gostaria de falar com você}
+  - {Está aqui alguém}
+  - {Posso-te perguntar}
+  - {Você gostaria de conversar}
+  - {Você é o único aqui}
+  - {Você está esperando}
+  - {Existe alguma coisa que eu possa fazer}
+  - {Você sabe quem nós somos}
+  - {Você está feliz}
+  - {Você está aqui o tempo todo}
+  - {Você é homem ou mulher}
+  - {Há crianças aqui}
+  - {Você quer que nós saiamos}
+  - {Posso te perguntar}
+  - {Você pode fazer um som}
+  - {Mostre-nos a sua presença}
+  - {Bata em algo}
+  - {Faça um som}
+  - {Abra a porta}
+  - {Lançe alguma coisa}
+  - {Fale Comigo}
+  - {Fale Connosco}
+  - {Não te queremos magoar}
+  - {Nós somos amigos}
+  - {É este o seu lar}
+  - {Você pode falar connosco?}
+  - {Eu estou assustado}
+  - {Estou assustado}
+  - {assustado}
+  - {assustador}
+  - {arrepiante}
+  - {Aterroziado}
+  - {Medo}
+  - {Amedrontar}
+  - {pânico}
+  - {Susto}
+  - {Esconde}
+  - {Corre}
+  - {Mostre a sua presença}
+  - {Mostre-me}
+Ouija Board Questions:
+  - {Quem você matou}
+  - {Quem é a sua vítima}
+  - {Qual o nome da pessoa que você matou}
+  - {Qual o nome da pessoa que você assassinou}
+  - {Qual é a sua vítima}
+  - {Você assassinou}
+  - {Quem você assassinou}
+  - {Quem morreu}
+  - {Quantos anos você tem}
+  - {Qual é a sua idade}
+  - {Você é velho}
+  - {Você é jovem}
+  - {Há quanto tempo você está morto}
+  - {Há quantos anos atrás você morreu}
+  - {Há quanto tempo você está aqui}
+  - {Há quanto tempo você morreu}
+  - {Quando você morreu}
+  - {Quantos estão nesta sala}
+  - {Quantas pessoas estão nesta sala}
+  - {Quantas pessoas estão aqui}
+  - {Quantos fantasmas estão nesta sala}
+  - {Quantos fantasmas estão aqui}
+  - {Você está sozinho}
+  - {Estamos sozinhos}
+  - {Quem está aqui}
+  - {Quem está nesta sala}
+  - {Onde você está}
+  - {Qual é o seu quarto favorito}
+  - {Onde é o seu quarto}
+  - {Qual é o seu quarto}
+  - {Você está aqui}
+  - {Você está próximo}
+  - {Há algum espírito aqui}
+  - {Você está perto}
+  - {Você está por perto}
+EVP Recorder Questions:
+  - {O que você quer}
+  - {Porque você está aqui}
+  - {Você quer-nos magoar}
+  - {Você está bravo}
+  - {Você quer-nos aqui}
+  - {Nós devemos sair}
+  - {Nós deveríamos sair}
+  - {Você quer que nós saiamos}
+  - {O que devemos fazer}
+  - {Nós podemos ajudar}
+  - {Você é amigável}
+  - {O que você é}
+  - {Onde você está}
+  - {Você está perto}
+  - {Você pode mostrar-se}
+  - {Dê-nos um sinal}
+  - {Deixe-nos saber que você está aqui}
+  - {Mostre-se}
+  - {Você pode falar}
+  - {Fale connosco}
+  - {Você está aqui}
+  - {Você está connosco}
+  - {Tem alguém connosco}
+  - {Tem alguém aqui}
+  - {Tem alguém neste quarto}
+  - {Alguém aqui}
+  - {Há algum espírito aqui}
+  - {Há algum Fantasma aqui}
+  - {Você é menina}
+  - {Você é menino}
+  - {Você é homem}
+  - {Você é mulher}
+  - {Quem é você}
+  - {Quem é}
+  - {Com quem estamos falando}
+  - {Com quem estou falando}
+  - {Olá}
+  - {Qual é o seu nome}
+  - {Pode dar-me o seu nome}
+  - {Quantos anos você tem}
+  - {Quão jovem você é}
+  - {Qual é a sua idade}
+  - {Quando você nasceu}
+  - {Você é uma criança}
+  - {Você é velho}
+  - {Você é jovem}
+  - {Qual é a sua localização}
+  - {Qual é o seu gênero}
+  - {Qual gênero}
+  - {Você é homem ou mulher}
+  - {Você é um homem}
+  - {Você é uma mulher}

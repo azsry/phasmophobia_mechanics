@@ -1,0 +1,158 @@
+No-No Phrases:
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+  - {Kannst du sprechen}
+  - {Kannst du mit uns sprechen}
+  - {Mach Krach}
+  - {Öffnen Sie eine Tür}
+  - {Öffnen Sie diese Tür}
+  - {Mach das Licht an}
+  - {Mach das Licht aus}
+  - {Gibt es irgendwelche Geister}
+  - {Gib uns ein Zeichen}
+  - {Zeig uns}
+  - {Lass uns wissen ob du da bist}
+  - {Tu etwas}
+  - {Ist jemand bei mir}
+  - {Schrei}
+  - {Bist du allein}
+  - {Können wir reden}
+  - {möchte mit dir reden}
+  - {Ist hier jemand}
+  - {Darf ich dich bitten}
+  - {Möchtest du reden}
+  - {Bist du der einzige hier}
+  - {Bist du am warten}
+  - {Gibt es etwas das ich tuen kann}
+  - {Weißt du wer wir sind}
+  - {Bist du glücklich}
+  - {Bist du die ganze Zeit hier}
+  - {Bist du männlich oder weiblich}
+  - {Gibt es Kinder hier}
+  - {Willst du das wir gehen}
+  - {Kann ich dich bitten}
+  - {Kannst du einen Ton machen}
+  - {Zeig uns deine Anwesenheit}
+  - {Klopf auf etwas}
+  - {Mach ein Geräusch}
+  - {Öffne die Tür}
+  - {Wirf etwas um}
+  - {Sprich mit mir}
+  - {Rede mit uns}
+  - {Wir schaden nicht}
+  - {Wir sind Freunde}
+  - {Ist das dein Zuhause}
+  - {Kannst du zu uns sprechen}
+  - {Ich bin verängstigt}
+  - {Ich habe Angst}
+  - {verängstigt}
+  - {unheimlich}
+  - {gruslig}
+  - {Grusel}
+  - {Schrecken}
+  - {Erschrecken}
+  - {Panik}
+  - {Schreck}
+  - {Verstecken}
+  - {Lauf}
+  - {Zeigen Sie Ihre Präsenz}
+  - {Zeig es mir}
+Ouija Board Questions:
+  - {Wen hast du getötet}
+  - {Wer ist dein Opfer}
+  - {Was ist der Name der Person, die du getötet hast}
+  - {Was ist der Name der Person, die du ermordet hast}
+  - {Was ist dein Opfer}
+  - {Hast du gemordet}
+  - {Wen hast du ermordet}
+  - {Wer starb}
+  - {Wie alt bist du}
+  - {Was ist dein Alter}
+  - {Bist du alt}
+  - {Bist du jung}
+  - {Wie lange bist du tot}
+  - {Vor wievielen Jahren bist du gestorben}
+  - {Wie lange bist du schon hier}
+  - {Seit wann bist du tot}
+  - {Wann bist du gestorben}
+  - {Wie viele sind in diesem Raum}
+  - {Wie viele Menschen sind in diesem Raum}
+  - {Wie viele Menschen sind hier}
+  - {Wie viele Geister sind in diesem Raum}
+  - {Wie viele Geister sind hier}
+  - {Bist du allein}
+  - {Sind wir alleine}
+  - {Wer ist hier}
+  - {Wer ist in diesem Raum}
+  - {Wo bist du}
+  - {Was ist Ihr Lieblingszimmer}
+  - {Wo ist dein Zimmer}
+  - {Was ist dein Zimmer}
+  - {Sind Sie hier}
+  - {Bist du nah}
+  - {Gibt es hier Geister}
+  - {Bist du in der Nähe}
+  - {Bist du hier}
+EVP Recorder Questions:
+  - {Was willst du}
+  - {Warum bist du hier}
+  - {Willst du uns verletzen}
+  - {Bist du wütend}
+  - {Willst du uns hier}
+  - {Sollen wir gehen}
+  - {Sollten wir gehen}
+  - {Willst du uns nicht mehr?}
+  - {Was sollen wir machen}
+  - {Können wir helfen}
+  - {bist du nett}
+  - {Was bist du}
+  - {Wo bist du}
+  - {Bist du nah}
+  - {Kannst du dich zeigen}
+  - {Gib uns ein Zeichen}
+  - {Lass uns wissen ob du hier bist}
+  - {Zeig dich}
+  - {Kannst du sprechen}
+  - {Sprich uns an}
+  - {Bist du hier}
+  - {Bist du mit uns}
+  - {Irgendjemand bei uns}
+  - {Ist hier jemand}
+  - {Jemand im Raum}
+  - {Jemand hier}
+  - {Gibt es einen Gespenst hier}
+  - {Gibt es einen Geist hier}
+  - {Bist du ein Mädchen}
+  - {Bist du ein Junge}
+  - {Bist du männlich}
+  - {Bist du weiblich}
+  - {Wer bist du}
+  - {Wer ist da}
+  - {Mit wem sprechen wir}
+  - {Mit wem spreche ich}
+  - {Hallo}
+  - {Wie heißt du}
+  - {Sag mir deinen Namen}
+  - {Wie alt bist du}
+  - {Wie jung bist du}
+  - {Was ist dein Alter}
+  - {Wann wurdest du geboren}
+  - {Bist du ein Kind}
+  - {Bist du alt}
+  - {Bist du jung}
+  - {Wo bist du}
+  - {Was ist dein Geschlecht}
+  - {Welches Geschlecht}
+  - {Bist du männlich oder weiblich}
+  - {Bist du ein Mann}
+  - {Bist du eine Frau}

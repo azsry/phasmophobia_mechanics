@@ -1,0 +1,158 @@
+No-No Phrases:
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+  - {Kan du tale}
+  - {Kan du tale til os}
+  - {Lav en lyd}
+  - {Åbn en dør}
+  - {Åbn denne dør}
+  - {Tænd lyset}
+  - {Slukke lyset}
+  - {Er der nogen spøgelser}
+  - {Giv os et tegn}
+  - {Vis os}
+  - {Lad os vide, at du er her}
+  - {Gør noget}
+  - {Er der nogen med mig}
+  - {Skrige}
+  - {Er du alene}
+  - {Kan vi tale}
+  - {vil gerne tale med dig}
+  - {Er der nogen her}
+  - {Kan jeg spørge dig}
+  - {Vil du gerne snakke}
+  - {Er du den eneste her}
+  - {Venter du}
+  - {Er der noget, jeg kan gøre}
+  - {Ved du hvem vi er}
+  - {Er du glad}
+  - {Er du her hele tiden}
+  - {Er du mand eller kvinde}
+  - {Er der børn her}
+  - {Vil du have os til at forlade}
+  - {Må jeg spørge dig}
+  - {Kan du lave en lyd}
+  - {Vis os din tilstedeværelse}
+  - {Banke noget.}
+  - {Lav en lyd}
+  - {Åben døren}
+  - {Kaste noget.}
+  - {Tal til mig}
+  - {Tal med os}
+  - {Vi mener ikke nogen skade}
+  - {Vi er venner}
+  - {Er dette dit hjem}
+  - {Kan du tale til os}
+  - {jeg er bange}
+  - {jeg er bange}
+  - {skræmt}
+  - {skræmmende}
+  - {uhyggelig}
+  - {Rædsel}
+  - {Skræmme}
+  - {Skræmme}
+  - {panik}
+  - {Forskrækkelse}
+  - {Skjule}
+  - {Løb}
+  - {Vis din tilstedeværelse.}
+  - {Vis mig}
+Ouija Board Questions:
+  - {Hvem dræbte du}
+  - {Hvem er dit offer}
+  - {Hvad hedder den person, du dræbte}
+  - {Hvad hedder den person, du myrdede}
+  - {Hvad er dit offer}
+  - {Har du mordet}
+  - {Hvem har du mordet}
+  - {Hvem døde}
+  - {Hvor gammel er du}
+  - {Hvor gammel er du}
+  - {Er du gammel}
+  - {Er du ung}
+  - {Hvor længe har du været død}
+  - {Hvor mange år siden døde du}
+  - {Hvor lang tid har du været her}
+  - {Hvor længe siden døde du}
+  - {Hvornår døde du}
+  - {Hvor mange er i dette rum}
+  - {Hvor mange mennesker er i dette rum}
+  - {Hvor mange mennesker er her}
+  - {Hvor mange spøgelser er i dette rum}
+  - {Hvor mange spøgelser er her}
+  - {Er du alene}
+  - {Er vi alene}
+  - {Hvem er her}
+  - {Hvem er i dette rum}
+  - {Hvor er du}
+  - {Hvad er dit yndlingsrum}
+  - {Hvor er dit værelse}
+  - {Hvad er dit værelse}
+  - {Er du her}
+  - {Er du tæt på dig}
+  - {Er der nogen spiritus}
+  - {Er du i nærheden}
+  - {Er du omkring}
+EVP Recorder Questions:
+  - {Hvad vil du have}
+  - {Hvorfor er du her}
+  - {Vil du såre os}
+  - {Er du sur}
+  - {Vil du have os her}
+  - {Skal vi forlade}
+  - {Skal vi forlade}
+  - {Vil du have os til at forlade}
+  - {Hvad skal vi gøre}
+  - {Kan vi hjælpe}
+  - {Er du venlig}
+  - {Hvad er du}
+  - {Hvor er du}
+  - {Er du tæt på dig}
+  - {Kan du vise dig selv}
+  - {Giv os et tegn}
+  - {Lad os vide, at du er her}
+  - {Vise dig selv}
+  - {Kan du tale}
+  - {Tal til os}
+  - {Er du her}
+  - {Er du hos os}
+  - {Nogen med os}
+  - {Er nogen her.}
+  - {Nogen i rummet}
+  - {Er her nogen}
+  - {Er der en ånd her}
+  - {Er der et spøgelse her}
+  - {Er du en pige}
+  - {Er du en dreng}
+  - {Er du mandlig}
+  - {Er du en kvinde}
+  - {Hvem er du}
+  - {Hvem er det}
+  - {Hvem taler vi med}
+  - {Hvem taler jeg med}
+  - {Hej}
+  - {Hvad hedder du}
+  - {Kan du give mig dit navn}
+  - {Hvor gammel er du}
+  - {Hvor ung er du}
+  - {Hvor gammel er du}
+  - {Hvornår er du født}
+  - {Er du et barn}
+  - {Er du gammel}
+  - {Er du ung}
+  - {Hvad er din placering}
+  - {Hvad er dit køn}
+  - {Hvilket køn}
+  - {Er du mand eller kvinde}
+  - {Er du en mand}
+  - {Er du en kvinde}

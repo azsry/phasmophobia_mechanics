@@ -1,0 +1,158 @@
+No-No Phrases:
+  - {Bitch}
+  - {Shit}
+  - {Cunt}
+  - {Ass}
+  - {Bastard}
+  - {Motherfucker}
+  - {Arsehole}
+  - {Crap}
+  - {Pussy}
+  - {Dickhead}
+  - {Bloody Mary}
+Listen Phrases:
+  - {Pouvez-vous parler}
+  - {Pouvez-vous nous parler}
+  - {Faites un bruit}
+  - {Ouvrez une porte}
+  - {Ouvrir cette porte}
+  - {Allumez la lumière}
+  - {Éteignez la lumière}
+  - {Y a-t-il des fantômes}
+  - {Donnez-nous un signe}
+  - {Montrez-nous}
+  - {Faites-nous savoir que vous êtes ici}
+  - {Faire quelque chose}
+  - {Est-ce qu'il y a quelqu'un avec moi}
+  - {Criez}
+  - {Êtes-vous seul}
+  - {Pouvons-nous parler}
+  - {J'aimerais vous parler}
+  - {Y a-t-il quelqu'un ici}
+  - {Puis-je vous demander}
+  - {Voulez-vous parler}
+  - {Es-tu le seul ici}
+  - {Attendez-vous}
+  - {Y a-t-il quelque chose que je peux faire}
+  - {Savez-vous qui nous sommes}
+  - {Êtes-vous heureux}
+  - {Êtes-vous ici tout le temps}
+  - {Etes vous un homme ou une femme}
+  - {Y a-t-il des enfants ici}
+  - {Voulez-vous que nous quittions}
+  - {Puis-je vous demander}
+  - {Pouvez-vous faire un son}
+  - {Montrez-nous votre présence}
+  - {Frappez quelque chose}
+  - {Faites un son}
+  - {Ouvrez la porte}
+  - {Jetez quelque chose}
+  - {Parlez-moi}
+  - {Parlez-nous}
+  - {Nous voulons dire que vous n'avez aucun mal}
+  - {Nous sommes amis}
+  - {Est-ce votre maison}
+  - {Pouvez-vous nous parler}
+  - {J'ai peur}
+  - {J'ai peur}
+  - {effrayé}
+  - {effrayant}
+  - {terrifiant}
+  - {Horreur}
+  - {Peur}
+  - {Effrayer}
+  - {panique}
+  - {Frayeur}
+  - {Cacher}
+  - {Courir}
+  - {Montrez votre présence}
+  - {Montrez-moi}
+Ouija Board Questions:
+  - {Qui avez-vous tué}
+  - {Qui est votre victime}
+  - {Quel est le nom de la personne tuée}
+  - {Quel est le nom de la personne que vous avez assassinée}
+  - {Quelle est votre victime}
+  - {Avez-vous meurre}
+  - {Qui avez-vous assassiné}
+  - {Qui est mort}
+  - {Quel âge as-tu}
+  - {Quel âge avez-vous}
+  - {Êtes-vous vieux}
+  - {Êtes-vous jeune}
+  - {Depuis combien de temps êtes-vous mort}
+  - {Depuis combien d'années êtes-vous mort}
+  - {Depuis combien de temps êtes-vous ici}
+  - {Depuis combien de temps êtes-vous mort}
+  - {Quand êtes-vous mort}
+  - {Combien êtes-vous dans cette pièce}
+  - {Combien de personnes sont dans cette pièce}
+  - {Combien de personnes sont ici}
+  - {Combien de fantômes sont dans cette pièce}
+  - {Combien de fantômes son ici}
+  - {Êtes-vous seul}
+  - {Sommes-nous seuls}
+  - {Qui est là}
+  - {Qui est dans cette pièce}
+  - {Où êtes-vous}
+  - {Quelle est votre chambre préférée}
+  - {Où est votre chambre}
+  - {Quelle est votre chambre}
+  - {Êtes-vous ici}
+  - {Êtes-vous proche}
+  - {Y a-t-il des esprits}
+  - {Êtes-vous à proximité}
+  - {Es-tu autour}
+EVP Recorder Questions:
+  - {Que voulez-vous}
+  - {Pourquoi êtes-vous ici}
+  - {Voulez-vous nous faire du mal}
+  - {Êtes-vous fâché}
+  - {Voulez-vous que nous restions}
+  - {Devons-nous partir}
+  - {Devrions-nous partir}
+  - {Voulez-vous que nous partions}
+  - {Que devrions-nous faire}
+  - {Pouvons-nous aider}
+  - {Êtes-vous amical}
+  - {Qu'êtes vous}
+  - {Où êtes-vous}
+  - {Êtes-vous proche}
+  - {Montrez-vous}
+  - {Donnez-nous un signe}
+  - {Faites-nous savoir que vous êtes ici}
+  - {Montrez vous}
+  - {Pouvez-vous parler}
+  - {Parler à nous}
+  - {Êtes-vous ici}
+  - {Êtes-vous avec nous}
+  - {Y a-t-il quelqu’un avec nous }
+  - {Il y a quelqu'un}
+  - {Y a-t-il quelqu’un dans cette pièce}
+  - {Y a-t-il quelqu’un ici}
+  - {Y a-t-il un esprit ici}
+  - {Y a-t-il un fantôme ici}
+  - {Es-tu une fille}
+  - {Es-tu un garçon}
+  - {Êtes-vous un homme}
+  - {Êtes-vous une femme}
+  - {Qui es-tu}
+  - {Qui est-ce}
+  - {A qui parlons-nous}
+  - {A qui suis-je en train de parler}
+  - {Bonjour}
+  - {Quel est ton nom}
+  - {Pouvez-vous me donner votre nom}
+  - {Quel âge as-tu}
+  - {Quel âge as-tu}
+  - {Quel âge avez-vous}
+  - {Quand êtes-vous né}
+  - {Es-tu un enfant}
+  - {Êtes-vous vieux}
+  - {Es-tu jeune}
+  - {Quel est votre emplacement}
+  - {Quel est votre sexe}
+  - {Quel genre}
+  - {Êtes-vous un homme ou une femme}
+  - {Êtes-vous un homme}
+  - {Êtes-vous une femme}

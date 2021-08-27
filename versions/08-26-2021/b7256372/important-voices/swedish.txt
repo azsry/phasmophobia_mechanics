@@ -1,0 +1,148 @@
+No-No Phrases:
+
+Listen Phrases:
+  - {Kan du tala}
+  - {Kan du prata med oss}
+  - {Gör ett ljud}
+  - {Öppna en dörr}
+  - {Öppna denna dörr}
+  - {Tänd ljuset}
+  - {Släck ljuset}
+  - {Finns det några spöken}
+  - {Ge oss ett tecken}
+  - {Visa oss}
+  - {Låt oss veta att du är här}
+  - {Göra någonting}
+  - {Finns det någon med mig}
+  - {Skrik}
+  - {Är du ensam}
+  - {Kan vi prata}
+  - {Skulle vilja prata med dig}
+  - {Är det någon här}
+  - {Kan jag fråga dig}
+  - {Vill du prata}
+  - {Är du den enda här}
+  - {Väntar du}
+  - {Finns det något som jag kan göra}
+  - {Vet du vem vi är}
+  - {Är du glad}
+  - {Är du här hela tiden}
+  - {Är du man eller kvinna}
+  - {Finns det barn här}
+  - {Vill du att vi ska lämna}
+  - {Kan jag fråga dig}
+  - {Kan du göra ett ljud}
+  - {Visa oss din närvaro}
+  - {Knacka på något}
+  - {Göra ett ljud}
+  - {Öppna dörren}
+  - {Kasta något}
+  - {Prata med mig}
+  - {Prata med oss}
+  - {Vi menar dig ingen}
+  - {Vi är vänner}
+  - {Är detta ditt hem}
+  - {Kan du prata med oss}
+  - {Jag är rädd}
+  - {Jag är rädd}
+  - {Rädd}
+  - {Skrämmande}
+  - {Läskigt}
+  - {Skräck}
+  - {Skrämma}
+  - {Skrämma}
+  - {Panik}
+  - {Skrämsel}
+  - {Dölj}
+  - {Springa}
+  - {Visa din närvaro}
+  - {Visa mig}
+Ouija Board Questions:
+  - {Vem dödade du}
+  - {Vem är ditt offer}
+  - {Vad är namnet på den person du dödade}
+  - {Vad är namnet på den person du mördade}
+  - {Vad är ditt offer}
+  - {Har du mördat}
+  - {Vem har du mördat}
+  - {Vem dog}
+  - {Hur gammal är du}
+  - {Vad är din ålder}
+  - {Är du gammal}
+  - {Är du ung}
+  - {Hur länge har du varit död}
+  - {Hur många år sedan dog du}
+  - {Hur länge har du varit här}
+  - {Hur länge sen dog du}
+  - {När dog du}
+  - {Hur många är i detta rum}
+  - {Hur många människor är i detta rum}
+  - {Hur många människor är här}
+  - {Hur många spöken är i detta rum}
+  - {Hur många spöken är här}
+  - {Är du ensam}
+  - {Är vi ensamma}
+  - {Vem är här}
+  - {Vem är i det här rummet}
+  - {Var är du}
+  - {Vad är ditt favoritrum}
+  - {Var är ditt rum}
+  - {Vad är ditt rum}
+  - {Är du här}
+  - {Är du nära}
+  - {Finns det några sprit}
+  - {Är du nära}
+  - {Är du i närheten}
+EVP Recorder Questions:
+  - {Vad vill du}
+  - {Varför är du här}
+  - {Vill du skada oss}
+  - {Är du arg}
+  - {Vill du ha oss här}
+  - {Ska vi lämna}
+  - {Borde vi lämna}
+  - {Vill du att vi ska lämna}
+  - {Vad borde vi göra}
+  - {Kan vi hjälpa till}
+  - {Är du vänlig}
+  - {Vad är du}
+  - {Var är du}
+  - {Är du nära}
+  - {Kan du visa dig själv}
+  - {Ge oss ett tecken}
+  - {Låt oss veta att du är här}
+  - {Visa dig själv}
+  - {Kan du prata}
+  - {Tala med oss}
+  - {Är du här}
+  - {Är du med oss}
+  - {Någon med oss}
+  - {Är någon här}
+  - {Någon i rummet}
+  - {Någon här}
+  - {Finns det en Ande här}
+  - {Finns det ett Spöke här}
+  - {Är du en tjej}
+  - {Är du en pojke}
+  - {Är du man}
+  - {Är du kvinna}
+  - {Vem är du}
+  - {Vem är detta}
+  - {Vem talar vi med}
+  - {Vem pratar jag med}
+  - {Hej}
+  - {Vad är ditt namn}
+  - {Kan du ge mig ditt namn}
+  - {Hur gammal är du}
+  - {Hur ung är du}
+  - {Vad är din ålder}
+  - {När föddes du}
+  - {Är du ett barn}
+  - {Är du gammal}
+  - {Är du ung}
+  - {Vad är din plats}
+  - {Vad är ditt kön}
+  - {Vilket kön}
+  - {Är du man eller kvinna}
+  - {Är du en man}
+  - {Är du en kvinna}
