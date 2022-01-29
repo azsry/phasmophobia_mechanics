@@ -547,6 +547,8 @@ The means in general your most "worth the money" photos are:
 ### Anti-Cheat
 
 - Err...the game just checks if you have over $250,000 and sets you back to $100. Seems legit.
+- Fieldhacks using programs like cheat engine will get logged, detected and reverted.
+- Trying to start the game/kick users as non-lobby-owner will get you marked as "Hacker – please kick this user" in the lobby
 
 ### Insurance
 
